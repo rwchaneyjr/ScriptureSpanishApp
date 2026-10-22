@@ -44,6 +44,6 @@ public static class FlashCardsSceneBuilder
     }
     static RectTransform Panel(string name,Transform parent,Color color,Vector2 pos,Vector2 size){var go=new GameObject(name,typeof(RectTransform),typeof(Image));go.transform.SetParent(parent,false);var r=go.GetComponent<RectTransform>();r.anchoredPosition=pos;r.sizeDelta=size;go.GetComponent<Image>().color=color;return r;}
     static void Text(string name,string value,int size,Color color,Transform parent,Vector2 pos,Vector2 dims){var go=new GameObject(name,typeof(RectTransform),typeof(Text));go.transform.SetParent(parent,false);var r=go.GetComponent<RectTransform>();r.anchoredPosition=pos;r.sizeDelta=dims;var t=go.GetComponent<Text>();t.text=value;t.font=Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");t.fontSize=size;t.color=color;t.alignment=TextAnchor.MiddleCenter;t.horizontalOverflow=HorizontalWrapMode.Wrap;}
-    static void Button(string name,string label,Transform parent,Vector2 pos,Vector2 size){var r=Panel(name,parent,new Color(.13f,.20f,.30f),pos,size);r.gameObject.AddComponent<Button>();Text("Label",label,24,new Color(.97f,.94f,.86f),r,Vector2.zero,size-new Vector2(20,10));}
+    static void Button(string name,string label,Transform parent,Vector2 pos,Vector2 size){var r=Panel(name,parent,new Color(.13f,.20f,.30f),pos,size);r.gameObject.AddComponent<Button>();Text("Label",label,24,new Color(.97f,.94f,.86f),r,Vector2.zero,size-new Vector2(20,10));r.GetComponentInChildren<Text>().fontStyle=FontStyle.Bold;}
 }
 #endif
