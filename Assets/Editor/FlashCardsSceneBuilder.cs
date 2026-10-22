@@ -18,7 +18,7 @@ public static class FlashCardsSceneBuilder
         {
             if (GameObject.Find("QuitButton") == null)
             {
-                Button("QuitButton", existingCanvas.transform, new Vector2(0, -730), new Vector2(420, 75));
+                Button("QuitButton", "QUIT", existingCanvas.transform, new Vector2(0, -730), new Vector2(420, 75));
                 EditorSceneManager.MarkSceneDirty(SceneManager.GetActiveScene());
                 EditorSceneManager.SaveScene(SceneManager.GetActiveScene());
             }
