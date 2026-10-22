@@ -14,6 +14,6 @@ public static class FillInBlanksSceneBuilder
     static RectTransform Panel(string n,Transform p,Color c,Vector2 pos,Vector2 size){var g=new GameObject(n,typeof(RectTransform),typeof(Image));g.transform.SetParent(p,false);var r=g.GetComponent<RectTransform>();r.anchoredPosition=pos;r.sizeDelta=size;g.GetComponent<Image>().color=c;return r;}
     static void Text(string n,string v,int s,Color c,Transform p,Vector2 pos,Vector2 size){var g=new GameObject(n,typeof(RectTransform),typeof(Text));g.transform.SetParent(p,false);var r=g.GetComponent<RectTransform>();r.anchoredPosition=pos;r.sizeDelta=size;var t=g.GetComponent<Text>();t.text=v;t.font=Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");t.fontSize=s;t.color=c;t.alignment=TextAnchor.MiddleCenter;t.horizontalOverflow=HorizontalWrapMode.Wrap;}
     static void Button(string n,string label,Transform p,Vector2 pos){Button(n,label,p,pos,new Vector2(360,85));}
-    static void Button(string n,string label,Transform p,Vector2 pos,Vector2 size){var r=Panel(n,p,new Color(.13f,.20f,.30f),pos,size);r.gameObject.AddComponent<Button>();Text("Label",label,23,new Color(.97f,.94f,.86f),r,Vector2.zero,size-new Vector2(20,10));}
+    static void Button(string n,string label,Transform p,Vector2 pos,Vector2 size){var r=Panel(n,p,new Color(.13f,.20f,.30f),pos,size);r.gameObject.AddComponent<Button>();Text("Label",label,23,new Color(.97f,.94f,.86f),r,Vector2.zero,size-new Vector2(20,10));r.GetComponentInChildren<Text>().fontStyle=FontStyle.Bold;}
 }
 #endif
