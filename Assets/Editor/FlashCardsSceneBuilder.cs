@@ -27,7 +27,7 @@ public static class FlashCardsSceneBuilder
         }
         var canvasObject=new GameObject("FlashCardsCanvas",typeof(Canvas),typeof(CanvasScaler),typeof(GraphicRaycaster));
         var canvas=canvasObject.GetComponent<Canvas>(); canvas.renderMode=RenderMode.ScreenSpaceOverlay;
-        var scaler=canvasObject.GetComponent<CanvasScaler>(); scaler.uiScaleMode=CanvasScaler.ScaleMode.ScaleWithScreenSize; scaler.referenceResolution=new Vector2(1080,1920);
+        var scaler=canvasObject.GetComponent<CanvasScaler>(); scaler.uiScaleMode=CanvasScaler.ScaleMode.ScaleWithScreenSize; scaler.referenceResolution=new Vector2(1200,2160);
         var bg=Panel("Background",canvasObject.transform,new Color(.055f,.09f,.16f),Vector2.zero,Vector2.zero); bg.anchorMin=Vector2.zero; bg.anchorMax=Vector2.one; bg.offsetMin=Vector2.zero; bg.offsetMax=Vector2.zero;
         Text("Title","Flashcards",52,new Color(.93f,.70f,.28f),canvasObject.transform,new Vector2(0,720),new Vector2(900,100));
         Text("Instruction","Think of the verse, then reveal the card",24,new Color(.97f,.94f,.86f),canvasObject.transform,new Vector2(0,610),new Vector2(900,60));
