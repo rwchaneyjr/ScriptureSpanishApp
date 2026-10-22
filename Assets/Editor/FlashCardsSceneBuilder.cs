@@ -13,7 +13,17 @@ public static class FlashCardsSceneBuilder
     static void BuildIfNeeded()
     {
         if (EditorApplication.isPlaying || SceneManager.GetActiveScene().name != "FlashCards") return;
-        if (GameObject.Find("FlashCardsCanvas") != null) return;
+        var existingCanvas = GameObject.Find("FlashCardsCanvas");
+        if (existingCanvas != null)
+        {
+            if (GameObject.Find("QuitButton") == null)
+            {
+                Button("QuitButton", existingCanvas.transform, new Vector2(0, -730), new Vector2(420, 75));
+                EditorSceneManager.MarkSceneDirty(SceneManager.GetActiveScene());
+                EditorSceneManager.SaveScene(SceneManager.GetActiveScene());
+            }
+            return;
+        }
         var canvasObject=new GameObject("FlashCardsCanvas",typeof(Canvas),typeof(CanvasScaler),typeof(GraphicRaycaster));
         var canvas=canvasObject.GetComponent<Canvas>(); canvas.renderMode=RenderMode.ScreenSpaceOverlay;
         var scaler=canvasObject.GetComponent<CanvasScaler>(); scaler.uiScaleMode=CanvasScaler.ScaleMode.ScaleWithScreenSize; scaler.referenceResolution=new Vector2(1080,1920);
@@ -26,6 +36,7 @@ public static class FlashCardsSceneBuilder
         Button("RevealButton","TAP CARD / REVEAL",canvasObject.transform,new Vector2(0,-350),new Vector2(600,95));
         Button("NextButton","NEXT VERSE",canvasObject.transform,new Vector2(0,-480),new Vector2(600,95));
         Button("BackButton","BACK TO MENU",canvasObject.transform,new Vector2(0,-620),new Vector2(420,75));
+        Button("QuitButton","QUIT",canvasObject.transform,new Vector2(0,-730),new Vector2(420,75));
         EditorSceneManager.MarkSceneDirty(SceneManager.GetActiveScene()); EditorSceneManager.SaveScene(SceneManager.GetActiveScene());
     }
     static RectTransform Panel(string name,Transform parent,Color color,Vector2 pos,Vector2 size){var go=new GameObject(name,typeof(RectTransform),typeof(Image));go.transform.SetParent(parent,false);var r=go.GetComponent<RectTransform>();r.anchoredPosition=pos;r.sizeDelta=size;go.GetComponent<Image>().color=color;return r;}
