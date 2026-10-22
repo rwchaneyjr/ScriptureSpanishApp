@@ -45,7 +45,7 @@ public static class MaimMenuSceneBuilder
     }
     static void Stretch(RectTransform rect){rect.anchorMin=Vector2.zero;rect.anchorMax=Vector2.one;rect.offsetMin=Vector2.zero;rect.offsetMax=Vector2.zero;}
     static void CreateText(string name,string value,int size,Color color,Transform parent,Vector2 position,Vector2 dimensions)
-    { var go=new GameObject(name,typeof(RectTransform),typeof(Text));go.transform.SetParent(parent,false);var rect=go.GetComponent<RectTransform>();rect.anchoredPosition=position;rect.sizeDelta=dimensions;var text=go.GetComponent<Text>();text.text=value;text.font=Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");text.fontSize=size;text.color=color;text.alignment=TextAnchor.MiddleCenter;text.horizontalOverflow=HorizontalWrapMode.Wrap; }
+    { var go=new GameObject(name,typeof(RectTransform),typeof(Text));go.transform.SetParent(parent,false);var rect=go.GetComponent<RectTransform>();rect.anchoredPosition=position;rect.sizeDelta=dimensions;var text=go.GetComponent<Text>();text.text=value;text.font=Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");text.fontSize=size;text.color=color;text.alignment=TextAnchor.MiddleCenter;t.fontStyle=FontStyle.Bold;text.horizontalOverflow=HorizontalWrapMode.Wrap; }
     static void CreateButton(string name,string label,Transform parent,Vector2 position)
     { var rect=CreatePanel(name,parent,new Color(.13f,.20f,.30f),position,new Vector2(700,110));rect.gameObject.AddComponent<Button>();CreateText("Label",label,24,new Color(.97f,.94f,.86f),rect,Vector2.zero,new Vector2(680,100)); }
 }
