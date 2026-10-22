@@ -16,10 +16,11 @@ public static class FlashCardsSceneBuilder
         var existingCanvas = GameObject.Find("FlashCardsCanvas");
         if (existingCanvas != null)
         {
-            if (GameObject.Find("QuitButton") == null)
+            if (GameObject.Find("QuitButton") == null || GameObject.Find("PreviousButton") == null)
             {
-                Button("PreviousButton", "PREVIOUS", existingCanvas.transform, new Vector2(-160, -380), new Vector2(280, 85));
-                Button("QuitButton", "QUIT", existingCanvas.transform, new Vector2(0, -600), new Vector2(420, 75));
+                if (GameObject.Find("PreviousButton") == null) Button("PreviousButton", "PREVIOUS", existingCanvas.transform, new Vector2(-160, -380), new Vector2(280, 85));
+                if (GameObject.Find("NextButton") == null) Button("NextButton", "NEXT", existingCanvas.transform, new Vector2(160, -380), new Vector2(280, 85));
+                if (GameObject.Find("QuitButton") == null) Button("QuitButton", "QUIT", existingCanvas.transform, new Vector2(0, -600), new Vector2(420, 75));
                 EditorSceneManager.MarkSceneDirty(SceneManager.GetActiveScene());
                 EditorSceneManager.SaveScene(SceneManager.GetActiveScene());
             }
