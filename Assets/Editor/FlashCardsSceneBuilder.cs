@@ -8,7 +8,8 @@ using UnityEngine.UI;
 [InitializeOnLoad]
 public static class FlashCardsSceneBuilder
 {
-    static FlashCardsSceneBuilder() { EditorApplication.delayCall += BuildIfNeeded; }
+    static FlashCardsSceneBuilder() { EditorSceneManager.sceneOpened += OnSceneOpened; EditorApplication.delayCall += BuildIfNeeded; }
+    static void OnSceneOpened(Scene scene, OpenSceneMode mode) { if (scene.name == "FlashCards") EditorApplication.delayCall += BuildIfNeeded; }
     static void BuildIfNeeded()
     {
         if (EditorApplication.isPlaying || SceneManager.GetActiveScene().name != "FlashCards") return;
