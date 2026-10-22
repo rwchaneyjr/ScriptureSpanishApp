@@ -18,8 +18,8 @@ public static class FlashCardsSceneBuilder
         {
             if (GameObject.Find("QuitButton") == null)
             {
-                Button("PreviousButton", "PREVIOUS", existingCanvas.transform, new Vector2(-160, -480), new Vector2(280, 85));
-                Button("QuitButton", "QUIT", existingCanvas.transform, new Vector2(0, -730), new Vector2(420, 75));
+                Button("PreviousButton", "PREVIOUS", existingCanvas.transform, new Vector2(-160, -380), new Vector2(280, 85));
+                Button("QuitButton", "QUIT", existingCanvas.transform, new Vector2(0, -600), new Vector2(420, 75));
                 EditorSceneManager.MarkSceneDirty(SceneManager.GetActiveScene());
                 EditorSceneManager.SaveScene(SceneManager.GetActiveScene());
             }
@@ -34,11 +34,11 @@ public static class FlashCardsSceneBuilder
         var card=Panel("VerseCard",canvasObject.transform,new Color(.96f,.91f,.78f),new Vector2(0,80),new Vector2(820,580));
         Text("Reference","John 3:16",42,new Color(.055f,.09f,.16f),card,new Vector2(0,35),new Vector2(700,100));
         Text("Prompt","Tap reveal to see the verse",25,new Color(.22f,.25f,.30f),card,new Vector2(0,-70),new Vector2(700,80));
-        Button("RevealButton","TAP CARD / REVEAL",canvasObject.transform,new Vector2(0,-350),new Vector2(600,95));
-        Button("PreviousButton","PREVIOUS",canvasObject.transform,new Vector2(-160,-480),new Vector2(280,85));
-        Button("NextButton","NEXT",canvasObject.transform,new Vector2(160,-480),new Vector2(280,85));
-        Button("BackButton","BACK TO MENU",canvasObject.transform,new Vector2(0,-620),new Vector2(420,75));
-        Button("QuitButton","QUIT",canvasObject.transform,new Vector2(0,-730),new Vector2(420,75));
+        Button("RevealButton","TAP CARD / REVEAL",canvasObject.transform,new Vector2(0,-250),new Vector2(600,95));
+        Button("PreviousButton","PREVIOUS",canvasObject.transform,new Vector2(-160,-380),new Vector2(280,85));
+        Button("NextButton","NEXT",canvasObject.transform,new Vector2(160,-380),new Vector2(280,85));
+        Button("BackButton","BACK TO MENU",canvasObject.transform,new Vector2(0,-500),new Vector2(420,75));
+        Button("QuitButton","QUIT",canvasObject.transform,new Vector2(0,-600),new Vector2(420,75));
         EditorSceneManager.MarkSceneDirty(SceneManager.GetActiveScene()); EditorSceneManager.SaveScene(SceneManager.GetActiveScene());
     }
     static RectTransform Panel(string name,Transform parent,Color color,Vector2 pos,Vector2 size){var go=new GameObject(name,typeof(RectTransform),typeof(Image));go.transform.SetParent(parent,false);var r=go.GetComponent<RectTransform>();r.anchoredPosition=pos;r.sizeDelta=size;go.GetComponent<Image>().color=color;return r;}
