@@ -6,6 +6,7 @@ public class VerseRecord
 {
     public string id;
     public string reference;
+    public string translation;
     public string text;
     public string category;
     public int difficulty;
