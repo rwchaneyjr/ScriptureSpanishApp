@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 public class FlashCardsSceneController : MonoBehaviour
 {
@@ -8,6 +9,12 @@ public class FlashCardsSceneController : MonoBehaviour
     Text reference, prompt, status;
     void Awake()
     {
+        if (FindObjectOfType<EventSystem>() == null)
+        {
+            var events = new GameObject("EventSystem");
+            events.AddComponent<EventSystem>();
+            events.AddComponent<StandaloneInputModule>();
+        }
         verses = VerseDatabase.Load();
         if (verses.Length == 0) return;
         reference = GameObject.Find("Reference")?.GetComponent<Text>();
