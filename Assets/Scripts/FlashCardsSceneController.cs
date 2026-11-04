@@ -15,12 +15,13 @@ public class FlashCardsSceneController : MonoBehaviour
             events.AddComponent<EventSystem>();
             events.AddComponent<StandaloneInputModule>();
         }
+        var oldQuit = GameObject.Find("QuitButton"); if (oldQuit != null) Destroy(oldQuit);
         verses = VerseDatabase.Load();
         if (verses.Length == 0) return;
         reference = GameObject.Find("Reference")?.GetComponent<Text>();
         prompt = GameObject.Find("Prompt")?.GetComponent<Text>();
         status = GameObject.Find("Status")?.GetComponent<Text>();
-        SetLabel("QuitButton", "EXIT APP"); Bind("RevealButton", Reveal); Bind("PreviousButton", Previous); Bind("NextButton", Next); Bind("BackButton", Back); Bind("QuitButton", Quit);
+        Bind("RevealButton", Reveal); Bind("PreviousButton", Previous); Bind("NextButton", Next); Bind("BackButton", Back);
         Show();
     }
     void Bind(string name, UnityEngine.Events.UnityAction action){var go=GameObject.Find(name);if(go!=null){var button=go.GetComponent<Button>();if(button!=null){button.onClick.RemoveAllListeners();button.onClick.AddListener(action);}}}
