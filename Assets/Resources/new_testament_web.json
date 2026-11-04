@@ -1,0 +1,1332 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "reference": "Hebrews 11:1",
+      "translation": "WEB",
+      "text": "Now faith is assurance of things hoped for, proof of things not seen.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 2,
+      "reference": "Hebrews 11:6",
+      "translation": "WEB",
+      "text": "Without faith it is impossible to be well pleasing to him, for he who comes to God must believe that he exists, and that he is a rewarder of those who seek him.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 3,
+      "reference": "Romans 10:17",
+      "translation": "WEB",
+      "text": "So faith comes by hearing, and hearing by the word of God.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 4,
+      "reference": "2 Corinthians 5:7",
+      "translation": "WEB",
+      "text": "for we walk by faith, not by sight.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 5,
+      "reference": "Mark 11:22",
+      "translation": "WEB",
+      "text": "Jesus answered them, “Have faith in God.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 6,
+      "reference": "Matthew 17:20",
+      "translation": "WEB",
+      "text": "He said to them, “Because of your unbelief. For most certainly I tell you, if you have faith as a grain of mustard seed, you will tell this mountain, ‘Move from here to there,’ and it will move; and nothing will be impossible for you.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 7,
+      "reference": "James 1:6",
+      "translation": "WEB",
+      "text": "But let him ask in faith, without any doubting, for he who doubts is like a wave of the sea, driven by the wind and tossed.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 8,
+      "reference": "Galatians 2:20",
+      "translation": "WEB",
+      "text": "I have been crucified with Christ, and it is no longer I who live, but Christ lives in me. That life which I now live in the flesh, I live by faith in the Son of God, who loved me, and gave himself up for me.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 9,
+      "reference": "Ephesians 2:8",
+      "translation": "WEB",
+      "text": "for by grace you have been saved through faith, and that not of yourselves; it is the gift of God,",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 10,
+      "reference": "Romans 1:17",
+      "translation": "WEB",
+      "text": "For in it is revealed God’s righteousness from faith to faith. As it is written, “But the righteous shall live by faith.”",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 11,
+      "reference": "1 John 5:4",
+      "translation": "WEB",
+      "text": "For whatever is born of God overcomes the world. This is the victory that has overcome the world: your faith.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 12,
+      "reference": "John 20:29",
+      "translation": "WEB",
+      "text": "Jesus said to him, “Because you have seen me, you have believed. Blessed are those who have not seen, and have believed.”",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 13,
+      "reference": "Luke 17:5",
+      "translation": "WEB",
+      "text": "The apostles said to the Lord, “Increase our faith.”",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 14,
+      "reference": "Mark 9:23",
+      "translation": "WEB",
+      "text": "Jesus said to him, “If you can believe, all things are possible to him who believes.”",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 15,
+      "reference": "Mark 9:24",
+      "translation": "WEB",
+      "text": "Immediately the father of the child cried out with tears, “I believe. Help my unbelief!”",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 16,
+      "reference": "Romans 4:20",
+      "translation": "WEB",
+      "text": "Yet, looking to the promise of God, he didn’t waver through unbelief, but grew strong through faith, giving glory to God,",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 17,
+      "reference": "Romans 4:21",
+      "translation": "WEB",
+      "text": "and being fully assured that what he had promised, he was also able to perform.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 18,
+      "reference": "Hebrews 10:23",
+      "translation": "WEB",
+      "text": "let’s hold fast the confession of our hope without wavering; for he who promised is faithful.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 19,
+      "reference": "Hebrews 12:2",
+      "translation": "WEB",
+      "text": "looking to Jesus, the author and perfecter of faith, who for the joy that was set before him endured the cross, despising its shame, and has sat down at the right hand of the throne of God.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 20,
+      "reference": "1 Peter 1:8",
+      "translation": "WEB",
+      "text": "whom, not having known, you love. In him, though now you don’t see him, yet believing, you rejoice greatly with joy that is unspeakable and full of glory,",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 21,
+      "reference": "1 Peter 1:9",
+      "translation": "WEB",
+      "text": "receiving the result of your faith, the salvation of your souls.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 22,
+      "reference": "James 2:17",
+      "translation": "WEB",
+      "text": "Even so faith, if it has no works, is dead in itself.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 23,
+      "reference": "James 2:26",
+      "translation": "WEB",
+      "text": "For as the body apart from the spirit is dead, even so faith apart from works is dead.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 24,
+      "reference": "Acts 16:31",
+      "translation": "WEB",
+      "text": "They said, “Believe in the Lord Jesus Christ, and you will be saved, you and your household.”",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 25,
+      "reference": "John 6:35",
+      "translation": "WEB",
+      "text": "Jesus said to them, “I am the bread of life. Whoever comes to me will not be hungry, and whoever believes in me will never be thirsty.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 26,
+      "reference": "John 11:25",
+      "translation": "WEB",
+      "text": "Jesus said to her, “I am the resurrection and the life. He who believes in me will still live, even if he dies.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 27,
+      "reference": "John 14:1",
+      "translation": "WEB",
+      "text": "“Don’t let your heart be troubled. Believe in God. Believe also in me.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 29,
+      "reference": "1 Corinthians 13:4",
+      "translation": "WEB",
+      "text": "Love is patient and is kind. Love doesn’t envy. Love doesn’t brag, is not proud,",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 30,
+      "reference": "1 Corinthians 13:5",
+      "translation": "WEB",
+      "text": "doesn’t behave itself inappropriately, doesn’t seek its own way, is not provoked, takes no account of evil;",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 31,
+      "reference": "1 Corinthians 13:6",
+      "translation": "WEB",
+      "text": "doesn’t rejoice in unrighteousness, but rejoices with the truth;",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 32,
+      "reference": "1 Corinthians 13:7",
+      "translation": "WEB",
+      "text": "bears all things, believes all things, hopes all things, and endures all things.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 33,
+      "reference": "1 Corinthians 13:8",
+      "translation": "WEB",
+      "text": "Love never fails. But where there are prophecies, they will be done away with. Where there are various languages, they will cease. Where there is knowledge, it will be done away with.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 34,
+      "reference": "1 Corinthians 13:13",
+      "translation": "WEB",
+      "text": "But now faith, hope, and love remain—these three. The greatest of these is love.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 35,
+      "reference": "John 13:34",
+      "translation": "WEB",
+      "text": "A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 36,
+      "reference": "John 13:35",
+      "translation": "WEB",
+      "text": "By this everyone will know that you are my disciples, if you have love for one another.”",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 37,
+      "reference": "John 15:12",
+      "translation": "WEB",
+      "text": "“This is my commandment, that you love one another, even as I have loved you.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 38,
+      "reference": "John 15:13",
+      "translation": "WEB",
+      "text": "Greater love has no one than this, that someone lay down his life for his friends.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 39,
+      "reference": "1 John 4:7",
+      "translation": "WEB",
+      "text": "Beloved, let’s love one another, for love is of God; and everyone who loves has been born of God, and knows God.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 40,
+      "reference": "1 John 4:8",
+      "translation": "WEB",
+      "text": "He who doesn’t love doesn’t know God, for God is love.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 41,
+      "reference": "1 John 4:9",
+      "translation": "WEB",
+      "text": "By this God’s love was revealed in us, that God has sent his one and only Son into the world that we might live through him.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 42,
+      "reference": "1 John 4:10",
+      "translation": "WEB",
+      "text": "In this is love, not that we loved God, but that he loved us, and sent his Son as the atoning sacrifice for our sins.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 43,
+      "reference": "1 John 4:11",
+      "translation": "WEB",
+      "text": "Beloved, if God loved us in this way, we also ought to love one another.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 44,
+      "reference": "1 John 4:12",
+      "translation": "WEB",
+      "text": "No one has seen God at any time. If we love one another, God remains in us, and his love has been perfected in us.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 45,
+      "reference": "1 John 4:16",
+      "translation": "WEB",
+      "text": "We know and have believed the love which God has for us. God is love, and he who remains in love remains in God, and God remains in him.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 46,
+      "reference": "1 John 4:18",
+      "translation": "WEB",
+      "text": "There is no fear in love; but perfect love casts out fear, because fear has punishment. He who fears is not made perfect in love.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 47,
+      "reference": "1 John 4:19",
+      "translation": "WEB",
+      "text": "We love him, because he first loved us.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 48,
+      "reference": "Romans 12:9",
+      "translation": "WEB",
+      "text": "Let love be without hypocrisy. Abhor that which is evil. Cling to that which is good.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 49,
+      "reference": "Romans 12:10",
+      "translation": "WEB",
+      "text": "In love of the brothers be tenderly affectionate to one another; in honor preferring one another;",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 50,
+      "reference": "Romans 13:10",
+      "translation": "WEB",
+      "text": "Love doesn’t harm a neighbor. Love therefore is the fulfillment of the law.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 51,
+      "reference": "Colossians 3:14",
+      "translation": "WEB",
+      "text": "Above all these things, walk in love, which is the bond of perfection.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 52,
+      "reference": "1 Peter 4:8",
+      "translation": "WEB",
+      "text": "And above all things be earnest in your love among yourselves, for love covers a multitude of sins.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 53,
+      "reference": "Ephesians 4:2",
+      "translation": "WEB",
+      "text": "with all lowliness and humility, with patience, bearing with one another in love,",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 54,
+      "reference": "Ephesians 5:2",
+      "translation": "WEB",
+      "text": "Walk in love, even as Christ also loved us and gave himself up for us, an offering and a sacrifice to God for a sweet-smelling fragrance.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 57,
+      "reference": "Romans 15:13",
+      "translation": "WEB",
+      "text": "Now may the God of hope fill you with all joy and peace in believing, that you may abound in hope, in the power of the Holy Spirit.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 58,
+      "reference": "Romans 5:3",
+      "translation": "WEB",
+      "text": "Not only this, but we also rejoice in our sufferings, knowing that suffering produces perseverance;",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 59,
+      "reference": "Romans 5:4",
+      "translation": "WEB",
+      "text": "and perseverance, proven character; and proven character, hope:",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 60,
+      "reference": "Romans 5:5",
+      "translation": "WEB",
+      "text": "and hope doesn’t disappoint us, because God’s love has been poured into our hearts through the Holy Spirit who was given to us.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 61,
+      "reference": "Romans 8:24",
+      "translation": "WEB",
+      "text": "For we were saved in hope, but hope that is seen is not hope. For who hopes for that which he sees?",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 62,
+      "reference": "Romans 8:25",
+      "translation": "WEB",
+      "text": "But if we hope for that which we don’t see, we wait for it with patience.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 63,
+      "reference": "Romans 12:12",
+      "translation": "WEB",
+      "text": "rejoicing in hope; enduring in troubles; continuing steadfastly in prayer;",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 64,
+      "reference": "Romans 15:4",
+      "translation": "WEB",
+      "text": "For whatever things were written before were written for our learning, that through perseverance and through encouragement of the Scriptures we might have hope.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 65,
+      "reference": "Hebrews 6:19",
+      "translation": "WEB",
+      "text": "This hope we have as an anchor of the soul, a hope both sure and steadfast and entering into that which is within the veil;",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 67,
+      "reference": "1 Peter 1:3",
+      "translation": "WEB",
+      "text": "Blessed be the God and Father of our Lord Jesus Christ, who according to his great mercy caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 68,
+      "reference": "1 Peter 1:13",
+      "translation": "WEB",
+      "text": "Therefore prepare your minds for action. Be sober, and set your hope fully on the grace that will be brought to you at the revelation of Jesus Christ—",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 69,
+      "reference": "1 Peter 3:15",
+      "translation": "WEB",
+      "text": "But sanctify the Lord God in your hearts. Always be ready to give an answer to everyone who asks you a reason concerning the hope that is in you, with humility and fear,",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 83,
+      "reference": "Titus 2:13",
+      "translation": "WEB",
+      "text": "looking for the blessed hope and appearing of the glory of our great God and Savior, Jesus Christ,",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 92,
+      "reference": "Philippians 4:13",
+      "translation": "WEB",
+      "text": "I can do all things through Christ, who strengthens me.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 101,
+      "reference": "2 Timothy 1:7",
+      "translation": "WEB",
+      "text": "For God didn’t give us a spirit of fear, but of power, love, and self-control.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 102,
+      "reference": "1 Corinthians 16:13",
+      "translation": "WEB",
+      "text": "Watch! Stand firm in the faith! Be courageous! Be strong!",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 103,
+      "reference": "Ephesians 6:10",
+      "translation": "WEB",
+      "text": "Finally, be strong in the Lord, and in the strength of his might.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 113,
+      "reference": "1 Thessalonians 5:17",
+      "translation": "WEB",
+      "text": "Pray without ceasing.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 114,
+      "reference": "Philippians 4:6",
+      "translation": "WEB",
+      "text": "In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 115,
+      "reference": "Philippians 4:7",
+      "translation": "WEB",
+      "text": "And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 116,
+      "reference": "Matthew 6:6",
+      "translation": "WEB",
+      "text": "But you, when you pray, enter into your inner room, and having shut your door, pray to your Father who is in secret, and your Father who sees in secret will reward you openly.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 117,
+      "reference": "Matthew 6:7",
+      "translation": "WEB",
+      "text": "In praying, don’t use vain repetitions, as the Gentiles do; for they think that they will be heard for their much speaking.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 118,
+      "reference": "Matthew 6:9",
+      "translation": "WEB",
+      "text": "Pray like this: ‘Our Father in heaven, may your name be kept holy.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 119,
+      "reference": "Matthew 6:10",
+      "translation": "WEB",
+      "text": "Let your Kingdom come. Let your will be done on earth as it is in heaven.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 120,
+      "reference": "Matthew 6:11",
+      "translation": "WEB",
+      "text": "Give us today our daily bread.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 121,
+      "reference": "Matthew 6:12",
+      "translation": "WEB",
+      "text": "Forgive us our debts, as we also forgive our debtors.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 122,
+      "reference": "Matthew 6:13",
+      "translation": "WEB",
+      "text": "Bring us not into temptation, but deliver us from the evil one. For yours is the Kingdom, the power, and the glory forever. Amen.’",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 123,
+      "reference": "Matthew 7:7",
+      "translation": "WEB",
+      "text": "“Ask, and it will be given you. Seek, and you will find. Knock, and it will be opened for you.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 124,
+      "reference": "Matthew 7:8",
+      "translation": "WEB",
+      "text": "For everyone who asks receives. He who seeks finds. To him who knocks it will be opened.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 125,
+      "reference": "Mark 11:24",
+      "translation": "WEB",
+      "text": "Therefore I tell you, all things whatever you pray and ask for, believe that you have received them, and you shall have them.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 126,
+      "reference": "Luke 11:9",
+      "translation": "WEB",
+      "text": "“I tell you, keep asking, and it will be given you. Keep seeking, and you will find. Keep knocking, and it will be opened to you.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 127,
+      "reference": "Luke 18:1",
+      "translation": "WEB",
+      "text": "He also spoke a parable to them that they must always pray, and not give up,",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 128,
+      "reference": "John 14:13",
+      "translation": "WEB",
+      "text": "Whatever you will ask in my name, I will do it, that the Father may be glorified in the Son.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 129,
+      "reference": "John 14:14",
+      "translation": "WEB",
+      "text": "If you will ask anything in my name, I will do it.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 130,
+      "reference": "John 15:7",
+      "translation": "WEB",
+      "text": "If you remain in me, and my words remain in you, you will ask whatever you desire, and it will be done for you.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 131,
+      "reference": "James 5:16",
+      "translation": "WEB",
+      "text": "Confess your offenses to one another, and pray for one another, that you may be healed. The insistent prayer of a righteous person is powerfully effective.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 132,
+      "reference": "James 1:5",
+      "translation": "WEB",
+      "text": "But if any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 133,
+      "reference": "1 John 5:14",
+      "translation": "WEB",
+      "text": "This is the boldness which we have toward him, that if we ask anything according to his will, he listens to us.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 134,
+      "reference": "1 John 5:15",
+      "translation": "WEB",
+      "text": "And if we know that he listens to us, whatever we ask, we know that we have the petitions which we have asked of him.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 140,
+      "reference": "Colossians 4:2",
+      "translation": "WEB",
+      "text": "Continue steadfastly in prayer, watching in it with thanksgiving,",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 166,
+      "reference": "James 3:17",
+      "translation": "WEB",
+      "text": "But the wisdom that is from above is first pure, then peaceful, gentle, reasonable, full of mercy and good fruits, without partiality, and without hypocrisy.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 168,
+      "reference": "Colossians 3:16",
+      "translation": "WEB",
+      "text": "Let the word of Christ dwell in you richly; in all wisdom teaching and admonishing one another with psalms, hymns, and spiritual songs, singing with grace in your heart to the Lord.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 169,
+      "reference": "Ephesians 4:32",
+      "translation": "WEB",
+      "text": "And be kind to one another, tender hearted, forgiving each other, just as God also in Christ forgave you.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 170,
+      "reference": "Colossians 3:13",
+      "translation": "WEB",
+      "text": "bearing with one another, and forgiving each other, if any man has a complaint against any; even as Christ forgave you, so you also do.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 171,
+      "reference": "Matthew 6:14",
+      "translation": "WEB",
+      "text": "“For if you forgive men their trespasses, your heavenly Father will also forgive you.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 172,
+      "reference": "Matthew 6:15",
+      "translation": "WEB",
+      "text": "But if you don’t forgive men their trespasses, neither will your Father forgive your trespasses.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 173,
+      "reference": "Matthew 18:21",
+      "translation": "WEB",
+      "text": "Then Peter came and said to him, “Lord, how often shall my brother sin against me, and I forgive him? Until seven times?”",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 174,
+      "reference": "Matthew 18:22",
+      "translation": "WEB",
+      "text": "Jesus said to him, “I don’t tell you until seven times, but, until seventy times seven.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 175,
+      "reference": "Mark 11:25",
+      "translation": "WEB",
+      "text": "Whenever you stand praying, forgive, if you have anything against anyone; so that your Father, who is in heaven, may also forgive you your transgressions.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 176,
+      "reference": "Luke 6:37",
+      "translation": "WEB",
+      "text": "Don’t judge, and you won’t be judged. Don’t condemn, and you won’t be condemned. Set free, and you will be set free.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 177,
+      "reference": "Luke 17:3",
+      "translation": "WEB",
+      "text": "Be careful. If your brother sins against you, rebuke him. If he repents, forgive him.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 178,
+      "reference": "Luke 17:4",
+      "translation": "WEB",
+      "text": "If he sins against you seven times in the day, and seven times returns, saying, ‘I repent,’ you shall forgive him.”",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 179,
+      "reference": "1 John 1:9",
+      "translation": "WEB",
+      "text": "If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 191,
+      "reference": "Acts 3:19",
+      "translation": "WEB",
+      "text": "“Repent therefore, and turn again, that your sins may be blotted out, so that there may come times of refreshing from the presence of the Lord,",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 192,
+      "reference": "Acts 10:43",
+      "translation": "WEB",
+      "text": "All the prophets testify about him, that through his name everyone who believes in him will receive remission of sins.”",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 193,
+      "reference": "Romans 4:7",
+      "translation": "WEB",
+      "text": "“Blessed are they whose iniquities are forgiven, whose sins are covered.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 194,
+      "reference": "2 Corinthians 2:7",
+      "translation": "WEB",
+      "text": "so that on the contrary you should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 195,
+      "reference": "Hebrews 8:12",
+      "translation": "WEB",
+      "text": "For I will be merciful to their unrighteousness. I will remember their sins and lawless deeds no more.”",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 196,
+      "reference": "Hebrews 10:17",
+      "translation": "WEB",
+      "text": "“I will remember their sins and their iniquities no more.”",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 197,
+      "reference": "John 14:27",
+      "translation": "WEB",
+      "text": "Peace I leave with you. My peace I give to you; not as the world gives, I give to you. Don’t let your heart be troubled, neither let it be fearful.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 198,
+      "reference": "John 16:33",
+      "translation": "WEB",
+      "text": "I have told you these things, that in me you may have peace. In the world you have trouble; but cheer up! I have overcome the world.”",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 200,
+      "reference": "Colossians 3:15",
+      "translation": "WEB",
+      "text": "And let the peace of God rule in your hearts, to which also you were called in one body, and be thankful.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 201,
+      "reference": "Romans 5:1",
+      "translation": "WEB",
+      "text": "Being therefore justified by faith, we have peace with God through our Lord Jesus Christ;",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 202,
+      "reference": "Romans 8:6",
+      "translation": "WEB",
+      "text": "For the mind of the flesh is death, but the mind of the Spirit is life and peace;",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 203,
+      "reference": "Romans 12:18",
+      "translation": "WEB",
+      "text": "If it is possible, as much as it is up to you, be at peace with all men.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 204,
+      "reference": "Romans 14:19",
+      "translation": "WEB",
+      "text": "So then, let’s follow after things which make for peace, and things by which we may build one another up.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 206,
+      "reference": "2 Thessalonians 3:16",
+      "translation": "WEB",
+      "text": "Now may the Lord of peace himself give you peace at all times in all ways. The Lord be with you all.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 219,
+      "reference": "Matthew 5:9",
+      "translation": "WEB",
+      "text": "Blessed are the peacemakers, for they shall be called children of God.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 220,
+      "reference": "Matthew 11:28",
+      "translation": "WEB",
+      "text": "“Come to me, all you who labor and are heavily burdened, and I will give you rest.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 221,
+      "reference": "Matthew 11:29",
+      "translation": "WEB",
+      "text": "Take my yoke upon you, and learn from me, for I am gentle and humble in heart; and you will find rest for your souls.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 222,
+      "reference": "Hebrews 12:14",
+      "translation": "WEB",
+      "text": "Follow after peace with all men, and the sanctification without which no man will see the Lord,",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 223,
+      "reference": "James 3:18",
+      "translation": "WEB",
+      "text": "Now the fruit of righteousness is sown in peace by those who make peace.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 224,
+      "reference": "1 Peter 3:11",
+      "translation": "WEB",
+      "text": "Let him turn away from evil and do good. Let him seek peace and pursue it.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 225,
+      "reference": "John 3:16",
+      "translation": "WEB",
+      "text": "For God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 226,
+      "reference": "John 3:17",
+      "translation": "WEB",
+      "text": "For God didn’t send his Son into the world to judge the world, but that the world should be saved through him.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 227,
+      "reference": "John 3:18",
+      "translation": "WEB",
+      "text": "He who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 228,
+      "reference": "John 5:24",
+      "translation": "WEB",
+      "text": "“Most certainly I tell you, he who hears my word and believes him who sent me has eternal life, and doesn’t come into judgment, but has passed out of death into life.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 229,
+      "reference": "John 6:40",
+      "translation": "WEB",
+      "text": "This is the will of the one who sent me, that everyone who sees the Son, and believes in him, should have eternal life; and I will raise him up at the last day.”",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 230,
+      "reference": "John 10:9",
+      "translation": "WEB",
+      "text": "I am the door. If anyone enters in by me, he will be saved, and will go in and go out, and will find pasture.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 232,
+      "reference": "John 14:6",
+      "translation": "WEB",
+      "text": "Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father, except through me.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 233,
+      "reference": "Acts 4:12",
+      "translation": "WEB",
+      "text": "There is salvation in no one else, for there is no other name under heaven that is given among men, by which we must be saved!”",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 235,
+      "reference": "Romans 3:23",
+      "translation": "WEB",
+      "text": "for all have sinned, and fall short of the glory of God;",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 236,
+      "reference": "Romans 3:24",
+      "translation": "WEB",
+      "text": "being justified freely by his grace through the redemption that is in Christ Jesus;",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 237,
+      "reference": "Romans 5:8",
+      "translation": "WEB",
+      "text": "But God commends his own love toward us, in that while we were yet sinners, Christ died for us.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 238,
+      "reference": "Romans 6:23",
+      "translation": "WEB",
+      "text": "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 239,
+      "reference": "Romans 10:9",
+      "translation": "WEB",
+      "text": "that if you will confess with your mouth that Jesus is Lord, and believe in your heart that God raised him from the dead, you will be saved.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 240,
+      "reference": "Romans 10:10",
+      "translation": "WEB",
+      "text": "For with the heart, one believes resulting in righteousness; and with the mouth confession is made resulting in salvation.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 241,
+      "reference": "Romans 10:13",
+      "translation": "WEB",
+      "text": "For, “Whoever will call on the name of the Lord will be saved.”",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 243,
+      "reference": "Ephesians 2:9",
+      "translation": "WEB",
+      "text": "not of works, that no one would boast.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 244,
+      "reference": "Titus 3:5",
+      "translation": "WEB",
+      "text": "not by works of righteousness which we did ourselves, but according to his mercy, he saved us through the washing of regeneration and renewing by the Holy Spirit,",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 245,
+      "reference": "1 Timothy 2:5",
+      "translation": "WEB",
+      "text": "For there is one God, and one mediator between God and men, the man Christ Jesus,",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 246,
+      "reference": "2 Timothy 1:9",
+      "translation": "WEB",
+      "text": "who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before times eternal,",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 247,
+      "reference": "Hebrews 7:25",
+      "translation": "WEB",
+      "text": "Therefore he is also able to save to the uttermost those who draw near to God through him, seeing that he lives forever to make intercession for them.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 249,
+      "reference": "1 Peter 2:24",
+      "translation": "WEB",
+      "text": "He himself bore our sins in his body on the tree, that we, having died to sins, might live to righteousness. You were healed by his wounds.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 250,
+      "reference": "1 John 5:11",
+      "translation": "WEB",
+      "text": "The testimony is this, that God gave to us eternal life, and this life is in his Son.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 251,
+      "reference": "1 John 5:12",
+      "translation": "WEB",
+      "text": "He who has the Son has the life. He who doesn’t have God’s Son doesn’t have the life.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 252,
+      "reference": "Revelation 3:20",
+      "translation": "WEB",
+      "text": "Behold, I stand at the door and knock. If anyone hears my voice and opens the door, then I will come in to him, and will dine with him, and he with me.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 274,
+      "reference": "Matthew 6:33",
+      "translation": "WEB",
+      "text": "But seek first God’s Kingdom, and his righteousness; and all these things will be given to you as well.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 275,
+      "reference": "Matthew 7:11",
+      "translation": "WEB",
+      "text": "If you then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 277,
+      "reference": "John 10:28",
+      "translation": "WEB",
+      "text": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 278,
+      "reference": "Romans 8:28",
+      "translation": "WEB",
+      "text": "We know that all things work together for good for those who love God, for those who are called according to his purpose.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 279,
+      "reference": "Philippians 4:19",
+      "translation": "WEB",
+      "text": "My God will supply every need of yours according to his riches in glory in Christ Jesus.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 280,
+      "reference": "Hebrews 13:5",
+      "translation": "WEB",
+      "text": "Be free from the love of money, content with such things as you have, for he has said, “I will in no way leave you, neither will I in any way forsake you.”",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 298,
+      "reference": "Matthew 5:16",
+      "translation": "WEB",
+      "text": "Even so, let your light shine before men; that they may see your good works, and glorify your Father who is in heaven.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 299,
+      "reference": "Philippians 4:4",
+      "translation": "WEB",
+      "text": "Rejoice in the Lord always! Again I will say, “Rejoice!”",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 300,
+      "reference": "1 Thessalonians 5:16",
+      "translation": "WEB",
+      "text": "Always rejoice.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 301,
+      "reference": "1 Thessalonians 5:18",
+      "translation": "WEB",
+      "text": "In everything give thanks, for this is the will of God in Christ Jesus toward you.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 302,
+      "reference": "Matthew 6:21",
+      "translation": "WEB",
+      "text": "for where your treasure is, there your heart will be also.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 303,
+      "reference": "Colossians 3:17",
+      "translation": "WEB",
+      "text": "Whatever you do, in word or in deed, do all in the name of the Lord Jesus, giving thanks to God the Father, through him.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 304,
+      "reference": "James 1:17",
+      "translation": "WEB",
+      "text": "Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom can be no variation, nor turning shadow.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 305,
+      "reference": "Luke 10:20",
+      "translation": "WEB",
+      "text": "Nevertheless, don’t rejoice in this, that the spirits are subject to you, but rejoice that your names are written in heaven.”",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 306,
+      "reference": "Luke 12:32",
+      "translation": "WEB",
+      "text": "Don’t be afraid, little flock, for it is your Father’s good pleasure to give you the Kingdom.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 307,
+      "reference": "John 15:11",
+      "translation": "WEB",
+      "text": "I have spoken these things to you, that my joy may remain in you, and that your joy may be made full.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    }
+  ]
+}
