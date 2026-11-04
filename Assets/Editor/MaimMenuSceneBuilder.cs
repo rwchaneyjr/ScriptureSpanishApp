@@ -23,6 +23,8 @@ public static class MaimMenuSceneBuilder
                 CreateButton("NewTestamentButton", "NEW TESTAMENT", existingCanvas.transform, new Vector2(-180, -240));
             if (GameObject.Find("OldTestamentButton") == null)
                 CreateButton("OldTestamentButton", "OLD TESTAMENT", existingCanvas.transform, new Vector2(180, -240));
+            if (GameObject.Find("MainExitButton") == null)
+                CreateButton("MainExitButton", "EXIT APP", existingCanvas.transform, new Vector2(0, -400));
             EditorSceneManager.MarkSceneDirty(SceneManager.GetActiveScene());
             EditorSceneManager.SaveScene(SceneManager.GetActiveScene());
             return;
@@ -44,6 +46,7 @@ public static class MaimMenuSceneBuilder
         CreateButton("MatchingCardsButton", "MATCHING CARDS", canvasObject.transform, new Vector2(0, -60));
         CreateButton("NewTestamentButton", "NEW TESTAMENT", canvasObject.transform, new Vector2(-180, -240));
         CreateButton("OldTestamentButton", "OLD TESTAMENT", canvasObject.transform, new Vector2(180, -240));
+        CreateButton("MainExitButton", "EXIT APP", canvasObject.transform, new Vector2(0, -400));
         CreateText("Footer", "Memorize Scripture • Grow in faith", 20, new Color(.75f, .78f, .84f), canvasObject.transform, new Vector2(0, -690), new Vector2(800, 50));
         EditorSceneManager.MarkSceneDirty(SceneManager.GetActiveScene());
         EditorSceneManager.SaveScene(SceneManager.GetActiveScene());
