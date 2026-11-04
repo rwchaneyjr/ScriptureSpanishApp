@@ -16,7 +16,17 @@ public static class MaimMenuSceneBuilder
     static void BuildIfNeeded()
     {
         if (EditorApplication.isPlaying || SceneManager.GetActiveScene().name != "MaimMenu") return;
-        if (GameObject.Find("MaimMenuCanvas") != null) return;
+        var existingCanvas = GameObject.Find("MaimMenuCanvas");
+        if (existingCanvas != null)
+        {
+            if (GameObject.Find("NewTestamentButton") == null)
+                CreateButton("NewTestamentButton", "NEW TESTAMENT", existingCanvas.transform, new Vector2(-180, -240));
+            if (GameObject.Find("OldTestamentButton") == null)
+                CreateButton("OldTestamentButton", "OLD TESTAMENT", existingCanvas.transform, new Vector2(180, -240));
+            EditorSceneManager.MarkSceneDirty(SceneManager.GetActiveScene());
+            EditorSceneManager.SaveScene(SceneManager.GetActiveScene());
+            return;
+        }
 
         var canvasObject = new GameObject("MaimMenuCanvas", typeof(Canvas), typeof(CanvasScaler), typeof(GraphicRaycaster));
         var canvas = canvasObject.GetComponent<Canvas>();
@@ -32,6 +42,8 @@ public static class MaimMenuSceneBuilder
         CreateButton("FlashcardsButton", "FLASHCARDS", canvasObject.transform, new Vector2(0, 260));
         CreateButton("FillInBlanksButton", "FILL IN THE BLANK", canvasObject.transform, new Vector2(0, 100));
         CreateButton("MatchingCardsButton", "MATCHING CARDS", canvasObject.transform, new Vector2(0, -60));
+        CreateButton("NewTestamentButton", "NEW TESTAMENT", canvasObject.transform, new Vector2(-180, -240));
+        CreateButton("OldTestamentButton", "OLD TESTAMENT", canvasObject.transform, new Vector2(180, -240));
         CreateText("Footer", "Memorize Scripture • Grow in faith", 20, new Color(.75f, .78f, .84f), canvasObject.transform, new Vector2(0, -690), new Vector2(800, 50));
         EditorSceneManager.MarkSceneDirty(SceneManager.GetActiveScene());
         EditorSceneManager.SaveScene(SceneManager.GetActiveScene());

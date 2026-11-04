@@ -17,10 +17,13 @@ public class VerseCollection { public VerseRecord[] verses; }
 
 public static class VerseDatabase
 {
+    public static bool UseOldTestament { get; set; }
+
     public static VerseRecord[] Load()
     {
-        var asset = Resources.Load<TextAsset>("verses");
-        if (asset == null) { Debug.LogError("Verse database missing: Assets/Resources/verses.json"); return Array.Empty<VerseRecord>(); }
+        var fileName = UseOldTestament ? "old_testament_500_web" : "verses";
+        var asset = Resources.Load<TextAsset>(fileName);
+        if (asset == null) { Debug.LogError("Verse database missing: Assets/Resources/" + fileName + ".json"); return Array.Empty<VerseRecord>(); }
         var collection = JsonUtility.FromJson<VerseCollection>(asset.text);
         if (collection == null || collection.verses == null) { Debug.LogError("Verse database is invalid JSON."); return Array.Empty<VerseRecord>(); }
         return collection.verses;
