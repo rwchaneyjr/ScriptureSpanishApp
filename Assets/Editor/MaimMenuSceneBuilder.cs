@@ -45,7 +45,7 @@ public static class MaimMenuSceneBuilder
         Stretch(background);
         CreateText("Title", "Memoria\nBíblica", 64, new Color(.93f, .70f, .28f), canvasObject.transform, new Vector2(0, 720), new Vector2(900, 180));
         CreateText("Subtitle", "Elige un modo de práctica", 26, new Color(.97f, .94f, .86f), canvasObject.transform, new Vector2(0, 570), new Vector2(900, 60));
-        CreateButton("TarjetasButton", "TARJETAS", canvasObject.transform, new Vector2(0, 260));
+        CreateButton("FlashcardsButton", "TARJETAS", canvasObject.transform, new Vector2(0, 260));
         CreateButton("FillInBlanksButton", "COMPLETA EL VERSÍCULO", canvasObject.transform, new Vector2(0, 100));
         CreateButton("MatchingCardsButton", "EMPAREJA LAS TARJETAS", canvasObject.transform, new Vector2(0, -60));
         CreateButton("NewTestamentButton", "NUEVO TESTAMENTO", canvasObject.transform, new Vector2(-180, -240));

@@ -647,7 +647,7 @@ GameObject:
   - component: {fileID: 667721047}
   - component: {fileID: 667721046}
   m_Layer: 0
-  m_Name: TarjetasButton
+  m_Name: FlashcardsButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
