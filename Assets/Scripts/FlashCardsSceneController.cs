@@ -25,7 +25,7 @@ public class FlashCardsSceneController : MonoBehaviour
         Show();
     }
     void Bind(string name, UnityEngine.Events.UnityAction action){var go=GameObject.Find(name);if(go!=null){var button=go.GetComponent<Button>();if(button!=null){button.onClick.RemoveAllListeners();button.onClick.AddListener(action);}}}
-    void Show(){var v=verses[current];if(reference!=null)reference.text=v.reference;if(prompt!=null)prompt.text=revealed?v.text:"Tap reveal to see the verse";if(status!=null)status.text="Verse "+(current+1)+" of "+verses.Length;}
+    void Show(){var v=verses[current];if(reference!=null)reference.text=v.reference;if(prompt!=null)prompt.text=revealed?v.text:"Toca revelar para ver el versículo";if(status!=null)status.text="Versículo "+(current+1)+" de "+verses.Length;}
     void SetLabel(string name,string value){var t=GameObject.Find(name)?.GetComponentInChildren<Text>();if(t!=null)t.text=value;}
     void Reveal(){revealed=!revealed;Show();} void Previous(){current=(current-1+verses.Length)%verses.Length;revealed=false;Show();} void Next(){current=(current+1)%verses.Length;revealed=false;Show();} void Back(){SceneManager.LoadScene("MaimMenu");} void Quit()
     {

@@ -16,11 +16,29 @@ public class BibleVerseApp : MonoBehaviour
     Canvas canvas; Text body, status; int current; bool revealed; string blankAnswer; static int selectedVerse;
     Verse[] verses;
     void Awake(){Application.targetFrameRate=60;if(SceneManager.GetActiveScene().name=="FlashCards"&&GameObject.Find("FlashCardsCanvas")!=null){gameObject.AddComponent<FlashCardsSceneController>();return;}if(SceneManager.GetActiveScene().name=="FillInBlanks"&&GameObject.Find("FillInBlanksCanvas")!=null){gameObject.AddComponent<FillInBlanksSceneController>();return;}if(SceneManager.GetActiveScene().name=="MatchingCards"&&GameObject.Find("MatchingCardsCanvas")!=null){gameObject.AddComponent<MatchingCardsSceneController>();return;}var records=VerseDatabase.Load();verses=new Verse[records.Length];for(int i=0;i<records.Length;i++)verses[i]=new Verse{reference=records[i].reference,text=records[i].text,category=records[i].category};if(verses.Length==0)verses=builtInVerses;BuildUI();}
-    void Start(){if(SceneManager.GetActiveScene().name=="MaimMenu"&&GameObject.Find("MaimMenuCanvas")!=null){var runtime=GameObject.Find("Canvas");if(runtime!=null)Destroy(runtime);BindSavedMenu();}}
-    void BindSavedMenu(){if(FindObjectOfType<UnityEngine.EventSystems.EventSystem>()==null){var e=new GameObject("EventSystem");e.AddComponent<UnityEngine.EventSystems.EventSystem>();e.AddComponent<UnityEngine.EventSystems.StandaloneInputModule>();}CreateMainExitButton();BindMenuButton("FlashcardsButton","FlashCards");BindMenuButton("FillInBlanksButton","FillInBlanks");BindMenuButton("MatchingCardsButton","MatchingCards");BindTestamentButton("NewTestamentButton",false);BindTestamentButton("OldTestamentButton",true);BindExitButton("MainExitButton");}
+    void Start(){if(SceneManager.GetActiveScene().name=="MaimMenu"&&GameObject.Find("MaimMenuCanvas")!=null){var runtime=GameObject.Find("Canvas");if(runtime!=null)Destroy(runtime);BindSavedMenu();}TranslateUi();}
+    void TranslateUi()
+    {
+        var translations = new System.Collections.Generic.Dictionary<string,string>
+        {
+            {"Scripture\nMemory", "Memoria\nBíblica"}, {"Hide His word in your heart", "Guarda su palabra en tu corazón"},
+            {"Choose a practice mode", "Elige un modo de práctica"}, {"FLASHCARDS", "TARJETAS"},
+            {"FILL IN THE BLANK", "COMPLETA EL VERSÍCULO"}, {"MATCHING CARDS", "EMPAREJA LAS TARJETAS"},
+            {"NEW TESTAMENT", "NUEVO TESTAMENTO"}, {"OLD TESTAMENT", "ANTIGUO TESTAMENTO"},
+            {"EXIT APP", "SALIR"}, {"RANDOM VERSES", "VERSÍCULOS ALEATORIOS"}, {"SEQUENTIAL VERSES", "VERSÍCULOS SECUENCIALES"},
+            {"TAP CARD / REVEAL", "TOCA LA TARJETA / REVELA"}, {"PREVIOUS", "ANTERIOR"}, {"NEXT", "SIGUIENTE"},
+            {"NEXT VERSE", "SIGUIENTE VERSÍCULO"}, {"BACK TO MENU", "VOLVER AL MENÚ"}, {"QUIT", "SALIR"},
+            {"Choose the missing word", "Elige la palabra que falta"}, {"Choose an answer", "Elige una respuesta"},
+            {"Matching Cards", "Empareja las tarjetas"}, {"Match each reference with its verse", "Relaciona cada referencia con su versículo"},
+            {"Choose a reference, then its matching verse", "Elige una referencia y luego su versículo"}, {"NEXT ROUND", "SIGUIENTE RONDA"}
+        };
+        foreach (var text in FindObjectsOfType<Text>()) if (translations.TryGetValue(text.text, out var spanish)) text.text = spanish;
+    }
+    void BindSavedMenu(){if(FindObjectOfType<UnityEngine.EventSystems.EventSystem>()==null){var e=new GameObject("EventSystem");e.AddComponent<UnityEngine.EventSystems.EventSystem>();e.AddComponent<UnityEngine.EventSystems.StandaloneInputModule>();}CreateMainExitButton();BindMenuButton("FlashcardsButton","FlashCards");BindMenuButton("FillInBlanksButton","FillInBlanks");BindMenuButton("MatchingCardsButton","MatchingCards");BindTestamentButton("NewTestamentButton",false);BindTestamentButton("OldTestamentButton",true);BindModeButton("RandomVersesButton",true);BindModeButton("StandardVersesButton",false);BindExitButton("MainExitButton");}
     void CreateMainExitButton(){if(GameObject.Find("MainExitButton")!=null)return;var source=GameObject.Find("MatchingCardsButton");if(source==null)return;var go=Instantiate(source,source.transform.parent);go.name="MainExitButton";go.GetComponent<RectTransform>().anchoredPosition=new Vector2(0,-400);var t=go.GetComponentInChildren<Text>();if(t!=null)t.text="EXIT APP";}
     void BindMenuButton(string name,string scene){var b=GameObject.Find(name)?.GetComponent<Button>();if(b!=null){b.onClick.RemoveAllListeners();b.onClick.AddListener(()=>SceneManager.LoadScene(scene));}}
     void BindTestamentButton(string name,bool oldTestament){var b=GameObject.Find(name)?.GetComponent<Button>();if(b!=null){b.onClick.RemoveAllListeners();b.onClick.AddListener(()=>VerseDatabase.UseOldTestament=oldTestament);}}
+    void BindModeButton(string name,bool randomize){var b=GameObject.Find(name)?.GetComponent<Button>();if(b!=null){b.onClick.RemoveAllListeners();b.onClick.AddListener(()=>VerseDatabase.SetRandomMode(randomize));}}
     void BindExitButton(string name){var b=GameObject.Find(name)?.GetComponent<Button>();if(b!=null){b.onClick.RemoveAllListeners();b.onClick.AddListener(QuitApp);}}
     Text TextObject(string value,int size,Color color,Transform parent){var go=new GameObject("Text");go.transform.SetParent(parent,false);var t=go.AddComponent<Text>();t.text=value;t.font=Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");t.fontSize=size;t.color=color;t.alignment=TextAnchor.MiddleCenter;t.fontStyle=FontStyle.Bold;t.horizontalOverflow=HorizontalWrapMode.Wrap;t.verticalOverflow=VerticalWrapMode.Overflow;return t;}
     RectTransform Panel(string name,Transform parent,Color color,Vector2 size,Vector2 pos){var go=new GameObject(name);go.transform.SetParent(parent,false);var rt=go.AddComponent<RectTransform>();rt.sizeDelta=size;rt.anchoredPosition=pos;go.AddComponent<Image>().color=color;return rt;}
