@@ -2,1330 +2,4002 @@
   "verses": [
     {
       "id": 1,
-      "reference": "Hebrews 11:1",
-      "translation": "WEB",
-      "text": "Now faith is assurance of things hoped for, proof of things not seen.",
-      "category": "Faith",
+      "reference": "Mateo 1:1",
+      "translation": "RVR1960",
+      "text": "Libro de la genealogía de Jesucristo, hijo de David, hijo de Abraham.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 2,
-      "reference": "Hebrews 11:6",
-      "translation": "WEB",
-      "text": "Without faith it is impossible to be well pleasing to him, for he who comes to God must believe that he exists, and that he is a rewarder of those who seek him.",
-      "category": "Faith",
+      "reference": "Mateo 1:2",
+      "translation": "RVR1960",
+      "text": "Abraham engendró a Isaac, Isaac a Jacob, y Jacob a Judá y a sus hermanos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 3,
-      "reference": "Romans 10:17",
-      "translation": "WEB",
-      "text": "So faith comes by hearing, and hearing by the word of God.",
-      "category": "Faith",
+      "reference": "Mateo 1:3",
+      "translation": "RVR1960",
+      "text": "Judá engendró de Tamar a Fares y a Zara, Fares a Esrom, y Esrom a Aram.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 4,
-      "reference": "2 Corinthians 5:7",
-      "translation": "WEB",
-      "text": "for we walk by faith, not by sight.",
-      "category": "Faith",
+      "reference": "Mateo 1:4",
+      "translation": "RVR1960",
+      "text": "Aram engendró a Aminadab, Aminadab a Naasón, y Naasón a Salmón.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 5,
-      "reference": "Mark 11:22",
-      "translation": "WEB",
-      "text": "Jesus answered them, “Have faith in God.",
-      "category": "Faith",
+      "reference": "Mateo 1:5",
+      "translation": "RVR1960",
+      "text": "Salmón engendró de Rahab a Booz, Booz engendró de Rut a Obed, y Obed a Isaí.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 6,
-      "reference": "Matthew 17:20",
-      "translation": "WEB",
-      "text": "He said to them, “Because of your unbelief. For most certainly I tell you, if you have faith as a grain of mustard seed, you will tell this mountain, ‘Move from here to there,’ and it will move; and nothing will be impossible for you.",
-      "category": "Faith",
+      "reference": "Mateo 1:6",
+      "translation": "RVR1960",
+      "text": "Isaí engendró al rey David, y el rey David engendró a Salomón de la que fue mujer de Urías.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 7,
-      "reference": "James 1:6",
-      "translation": "WEB",
-      "text": "But let him ask in faith, without any doubting, for he who doubts is like a wave of the sea, driven by the wind and tossed.",
-      "category": "Faith",
+      "reference": "Mateo 1:7",
+      "translation": "RVR1960",
+      "text": "Salomón engendró a Roboam, Roboam a Abías, y Abías a Asa.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 8,
-      "reference": "Galatians 2:20",
-      "translation": "WEB",
-      "text": "I have been crucified with Christ, and it is no longer I who live, but Christ lives in me. That life which I now live in the flesh, I live by faith in the Son of God, who loved me, and gave himself up for me.",
-      "category": "Faith",
+      "reference": "Mateo 1:8",
+      "translation": "RVR1960",
+      "text": "Asa engendró a Josafat, Josafat a Joram, y Joram a Uzías.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 9,
-      "reference": "Ephesians 2:8",
-      "translation": "WEB",
-      "text": "for by grace you have been saved through faith, and that not of yourselves; it is the gift of God,",
-      "category": "Faith",
+      "reference": "Mateo 1:9",
+      "translation": "RVR1960",
+      "text": "Uzías engendró a Jotam, Jotam a Acaz, y Acaz a Ezequías.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 10,
-      "reference": "Romans 1:17",
-      "translation": "WEB",
-      "text": "For in it is revealed God’s righteousness from faith to faith. As it is written, “But the righteous shall live by faith.”",
-      "category": "Faith",
+      "reference": "Mateo 1:10",
+      "translation": "RVR1960",
+      "text": "Ezequías engendró a Manasés, Manasés a Amón, y Amón a Josías.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 11,
-      "reference": "1 John 5:4",
-      "translation": "WEB",
-      "text": "For whatever is born of God overcomes the world. This is the victory that has overcome the world: your faith.",
-      "category": "Faith",
+      "reference": "Mateo 1:11",
+      "translation": "RVR1960",
+      "text": "Josías engendró a Jeconías y a sus hermanos, en el tiempo de la deportación a Babilonia.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 12,
-      "reference": "John 20:29",
-      "translation": "WEB",
-      "text": "Jesus said to him, “Because you have seen me, you have believed. Blessed are those who have not seen, and have believed.”",
-      "category": "Faith",
+      "reference": "Mateo 1:12",
+      "translation": "RVR1960",
+      "text": "Después de la deportación a Babilonia, Jeconías engendró a Salatiel, y Salatiel a Zorobabel.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 13,
-      "reference": "Luke 17:5",
-      "translation": "WEB",
-      "text": "The apostles said to the Lord, “Increase our faith.”",
-      "category": "Faith",
+      "reference": "Mateo 1:13",
+      "translation": "RVR1960",
+      "text": "Zorobabel engendró a Abiud, Abiud a Eliaquim, y Eliaquim a Azor.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 14,
-      "reference": "Mark 9:23",
-      "translation": "WEB",
-      "text": "Jesus said to him, “If you can believe, all things are possible to him who believes.”",
-      "category": "Faith",
+      "reference": "Mateo 1:14",
+      "translation": "RVR1960",
+      "text": "Azor engendró a Sadoc, Sadoc a Aquim, y Aquim a Eliud.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 15,
-      "reference": "Mark 9:24",
-      "translation": "WEB",
-      "text": "Immediately the father of the child cried out with tears, “I believe. Help my unbelief!”",
-      "category": "Faith",
+      "reference": "Mateo 1:15",
+      "translation": "RVR1960",
+      "text": "Eliud engendró a Eleazar, Eleazar a Matán, Matán a Jacob;",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 16,
-      "reference": "Romans 4:20",
-      "translation": "WEB",
-      "text": "Yet, looking to the promise of God, he didn’t waver through unbelief, but grew strong through faith, giving glory to God,",
-      "category": "Faith",
+      "reference": "Mateo 1:16",
+      "translation": "RVR1960",
+      "text": "y Jacob engendró a José, marido de María, de la cual nació Jesús, llamado el Cristo.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 17,
-      "reference": "Romans 4:21",
-      "translation": "WEB",
-      "text": "and being fully assured that what he had promised, he was also able to perform.",
-      "category": "Faith",
+      "reference": "Mateo 1:17",
+      "translation": "RVR1960",
+      "text": "De manera que todas las generaciones desde Abraham hasta David son catorce; desde David hasta la deportación a Babilonia, catorce; y desde la deportación a Babilonia hasta Cristo, catorce.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 18,
-      "reference": "Hebrews 10:23",
-      "translation": "WEB",
-      "text": "let’s hold fast the confession of our hope without wavering; for he who promised is faithful.",
-      "category": "Faith",
+      "reference": "Mateo 1:18",
+      "translation": "RVR1960",
+      "text": "El nacimiento de Jesucristo fue así: Estando desposada María su madre con José, antes que se juntasen, se halló que había concebido del Espíritu Santo.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 19,
-      "reference": "Hebrews 12:2",
-      "translation": "WEB",
-      "text": "looking to Jesus, the author and perfecter of faith, who for the joy that was set before him endured the cross, despising its shame, and has sat down at the right hand of the throne of God.",
-      "category": "Faith",
+      "reference": "Mateo 1:19",
+      "translation": "RVR1960",
+      "text": "José su marido, como era justo, y no quería infamarla, quiso dejarla secretamente.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 20,
-      "reference": "1 Peter 1:8",
-      "translation": "WEB",
-      "text": "whom, not having known, you love. In him, though now you don’t see him, yet believing, you rejoice greatly with joy that is unspeakable and full of glory,",
-      "category": "Faith",
+      "reference": "Mateo 1:20",
+      "translation": "RVR1960",
+      "text": "Y pensando él en esto, he aquí un ángel del Señor le apareció en sueños y le dijo: José, hijo de David, no temas recibir a María tu mujer, porque lo que en ella es engendrado, del Espíritu Santo es.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 21,
-      "reference": "1 Peter 1:9",
-      "translation": "WEB",
-      "text": "receiving the result of your faith, the salvation of your souls.",
-      "category": "Faith",
+      "reference": "Mateo 1:21",
+      "translation": "RVR1960",
+      "text": "Y dará a luz un hijo, y llamarás su nombre JESÚS, porque él salvará a su pueblo de sus pecados.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 22,
-      "reference": "James 2:17",
-      "translation": "WEB",
-      "text": "Even so faith, if it has no works, is dead in itself.",
-      "category": "Faith",
+      "reference": "Mateo 1:22",
+      "translation": "RVR1960",
+      "text": "Todo esto aconteció para que se cumpliese lo dicho por el Señor por medio del profeta, cuando dijo:",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 23,
-      "reference": "James 2:26",
-      "translation": "WEB",
-      "text": "For as the body apart from the spirit is dead, even so faith apart from works is dead.",
-      "category": "Faith",
+      "reference": "Mateo 1:23",
+      "translation": "RVR1960",
+      "text": "He aquí, una virgen concebirá y dará a luz un hijo, Y llamarás su nombre Emanuel, que traducido es: Dios con nosotros.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 24,
-      "reference": "Acts 16:31",
-      "translation": "WEB",
-      "text": "They said, “Believe in the Lord Jesus Christ, and you will be saved, you and your household.”",
-      "category": "Faith",
+      "reference": "Mateo 1:24",
+      "translation": "RVR1960",
+      "text": "Y despertando José del sueño, hizo como el ángel del Señor le había mandado, y recibió a su mujer.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 25,
-      "reference": "John 6:35",
-      "translation": "WEB",
-      "text": "Jesus said to them, “I am the bread of life. Whoever comes to me will not be hungry, and whoever believes in me will never be thirsty.",
-      "category": "Faith",
+      "reference": "Mateo 1:25",
+      "translation": "RVR1960",
+      "text": "Pero no la conoció hasta que dio a luz a su hijo primogénito; y le puso por nombre JESÚS.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 26,
-      "reference": "John 11:25",
-      "translation": "WEB",
-      "text": "Jesus said to her, “I am the resurrection and the life. He who believes in me will still live, even if he dies.",
-      "category": "Faith",
+      "reference": "Mateo 2:1",
+      "translation": "RVR1960",
+      "text": "Cuando Jesús nació en Belén de Judea en días del rey Herodes, vinieron del oriente a Jerusalén unos magos,",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 27,
-      "reference": "John 14:1",
-      "translation": "WEB",
-      "text": "“Don’t let your heart be troubled. Believe in God. Believe also in me.",
-      "category": "Faith",
+      "reference": "Mateo 2:2",
+      "translation": "RVR1960",
+      "text": "diciendo: ¿Dónde está el rey de los judíos, que ha nacido? Porque su estrella hemos visto en el oriente, y venimos a adorarle.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 28,
+      "reference": "Mateo 2:3",
+      "translation": "RVR1960",
+      "text": "Oyendo esto, el rey Herodes se turbó, y toda Jerusalén con él.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 29,
-      "reference": "1 Corinthians 13:4",
-      "translation": "WEB",
-      "text": "Love is patient and is kind. Love doesn’t envy. Love doesn’t brag, is not proud,",
-      "category": "Love",
+      "reference": "Mateo 2:4",
+      "translation": "RVR1960",
+      "text": "Y convocados todos los principales sacerdotes, y los escribas del pueblo, les preguntó dónde había de nacer el Cristo.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 30,
-      "reference": "1 Corinthians 13:5",
-      "translation": "WEB",
-      "text": "doesn’t behave itself inappropriately, doesn’t seek its own way, is not provoked, takes no account of evil;",
-      "category": "Love",
+      "reference": "Mateo 2:5",
+      "translation": "RVR1960",
+      "text": "Ellos le dijeron: En Belén de Judea; porque así está escrito por el profeta:",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 31,
-      "reference": "1 Corinthians 13:6",
-      "translation": "WEB",
-      "text": "doesn’t rejoice in unrighteousness, but rejoices with the truth;",
-      "category": "Love",
+      "reference": "Mateo 2:6",
+      "translation": "RVR1960",
+      "text": "Y tú, Belén, de la tierra de Judá, No eres la más pequeña entre los príncipes de Judá; Porque de ti saldrá un guiador, Que apacentará a mi pueblo Israel.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 32,
-      "reference": "1 Corinthians 13:7",
-      "translation": "WEB",
-      "text": "bears all things, believes all things, hopes all things, and endures all things.",
-      "category": "Love",
+      "reference": "Mateo 2:7",
+      "translation": "RVR1960",
+      "text": "Entonces Herodes, llamando en secreto a los magos, indagó de ellos diligentemente el tiempo de la aparición de la estrella;",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 33,
-      "reference": "1 Corinthians 13:8",
-      "translation": "WEB",
-      "text": "Love never fails. But where there are prophecies, they will be done away with. Where there are various languages, they will cease. Where there is knowledge, it will be done away with.",
-      "category": "Love",
+      "reference": "Mateo 2:8",
+      "translation": "RVR1960",
+      "text": "y enviándolos a Belén, dijo: Id allá y averiguad con diligencia acerca del niño; y cuando le halléis, hacédmelo saber, para que yo también vaya y le adore.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 34,
-      "reference": "1 Corinthians 13:13",
-      "translation": "WEB",
-      "text": "But now faith, hope, and love remain—these three. The greatest of these is love.",
-      "category": "Love",
+      "reference": "Mateo 2:9",
+      "translation": "RVR1960",
+      "text": "Ellos, habiendo oído al rey, se fueron; y he aquí la estrella que habían visto en el oriente iba delante de ellos, hasta que llegando, se detuvo sobre donde estaba el niño.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 35,
-      "reference": "John 13:34",
-      "translation": "WEB",
-      "text": "A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another.",
-      "category": "Love",
+      "reference": "Mateo 2:10",
+      "translation": "RVR1960",
+      "text": "Y al ver la estrella, se regocijaron con muy grande gozo.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 36,
-      "reference": "John 13:35",
-      "translation": "WEB",
-      "text": "By this everyone will know that you are my disciples, if you have love for one another.”",
-      "category": "Love",
+      "reference": "Mateo 2:11",
+      "translation": "RVR1960",
+      "text": "Y al entrar en la casa, vieron al niño con su madre María, y postrándose, lo adoraron; y abriendo sus tesoros, le ofrecieron presentes: oro, incienso y mirra.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 37,
-      "reference": "John 15:12",
-      "translation": "WEB",
-      "text": "“This is my commandment, that you love one another, even as I have loved you.",
-      "category": "Love",
+      "reference": "Mateo 2:12",
+      "translation": "RVR1960",
+      "text": "Pero siendo avisados por revelación en sueños que no volviesen a Herodes, regresaron a su tierra por otro camino.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 38,
-      "reference": "John 15:13",
-      "translation": "WEB",
-      "text": "Greater love has no one than this, that someone lay down his life for his friends.",
-      "category": "Love",
+      "reference": "Mateo 2:13",
+      "translation": "RVR1960",
+      "text": "Después que partieron ellos, he aquí un ángel del Señor apareció en sueños a José y dijo: Levántate y toma al niño y a su madre, y huye a Egipto, y permanece allá hasta que yo te diga; porque acontecerá que Herodes buscará al niño para matarlo.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 39,
-      "reference": "1 John 4:7",
-      "translation": "WEB",
-      "text": "Beloved, let’s love one another, for love is of God; and everyone who loves has been born of God, and knows God.",
-      "category": "Love",
+      "reference": "Mateo 2:14",
+      "translation": "RVR1960",
+      "text": "Y él, despertando, tomó de noche al niño y a su madre, y se fue a Egipto,",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 40,
-      "reference": "1 John 4:8",
-      "translation": "WEB",
-      "text": "He who doesn’t love doesn’t know God, for God is love.",
-      "category": "Love",
+      "reference": "Mateo 2:15",
+      "translation": "RVR1960",
+      "text": "y estuvo allá hasta la muerte de Herodes; para que se cumpliese lo que dijo el Señor por medio del profeta, cuando dijo: De Egipto llamé a mi Hijo.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 41,
-      "reference": "1 John 4:9",
-      "translation": "WEB",
-      "text": "By this God’s love was revealed in us, that God has sent his one and only Son into the world that we might live through him.",
-      "category": "Love",
+      "reference": "Mateo 2:16",
+      "translation": "RVR1960",
+      "text": "Herodes entonces, cuando se vio burlado por los magos, se enojó mucho, y mandó matar a todos los niños menores de dos años que había en Belén y en todos sus alrededores, conforme al tiempo que había inquirido de los magos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 42,
-      "reference": "1 John 4:10",
-      "translation": "WEB",
-      "text": "In this is love, not that we loved God, but that he loved us, and sent his Son as the atoning sacrifice for our sins.",
-      "category": "Love",
+      "reference": "Mateo 2:17",
+      "translation": "RVR1960",
+      "text": "Entonces se cumplió lo que fue dicho por el profeta Jeremías, cuando dijo:",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 43,
-      "reference": "1 John 4:11",
-      "translation": "WEB",
-      "text": "Beloved, if God loved us in this way, we also ought to love one another.",
-      "category": "Love",
+      "reference": "Mateo 2:18",
+      "translation": "RVR1960",
+      "text": "Voz fue oída en Ramá, Grande lamentación, lloro y gemido; Raquel que llora a sus hijos, Y no quiso ser consolada, porque perecieron.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 44,
-      "reference": "1 John 4:12",
-      "translation": "WEB",
-      "text": "No one has seen God at any time. If we love one another, God remains in us, and his love has been perfected in us.",
-      "category": "Love",
+      "reference": "Mateo 2:19",
+      "translation": "RVR1960",
+      "text": "Pero después de muerto Herodes, he aquí un ángel del Señor apareció en sueños a José en Egipto,",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 45,
-      "reference": "1 John 4:16",
-      "translation": "WEB",
-      "text": "We know and have believed the love which God has for us. God is love, and he who remains in love remains in God, and God remains in him.",
-      "category": "Love",
+      "reference": "Mateo 2:20",
+      "translation": "RVR1960",
+      "text": "diciendo: Levántate, toma al niño y a su madre, y vete a tierra de Israel, porque han muerto los que procuraban la muerte del niño.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 46,
-      "reference": "1 John 4:18",
-      "translation": "WEB",
-      "text": "There is no fear in love; but perfect love casts out fear, because fear has punishment. He who fears is not made perfect in love.",
-      "category": "Love",
+      "reference": "Mateo 2:21",
+      "translation": "RVR1960",
+      "text": "Entonces él se levantó, y tomó al niño y a su madre, y vino a tierra de Israel.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 47,
-      "reference": "1 John 4:19",
-      "translation": "WEB",
-      "text": "We love him, because he first loved us.",
-      "category": "Love",
+      "reference": "Mateo 2:22",
+      "translation": "RVR1960",
+      "text": "Pero oyendo que Arquelao reinaba en Judea en lugar de Herodes su padre, tuvo temor de ir allá; pero avisado por revelación en sueños, se fue a la región de Galilea,",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 48,
-      "reference": "Romans 12:9",
-      "translation": "WEB",
-      "text": "Let love be without hypocrisy. Abhor that which is evil. Cling to that which is good.",
-      "category": "Love",
+      "reference": "Mateo 2:23",
+      "translation": "RVR1960",
+      "text": "y vino y habitó en la ciudad que se llama Nazaret, para que se cumpliese lo que fue dicho por los profetas, que habría de ser llamado nazareno.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 49,
-      "reference": "Romans 12:10",
-      "translation": "WEB",
-      "text": "In love of the brothers be tenderly affectionate to one another; in honor preferring one another;",
-      "category": "Love",
+      "reference": "Mateo 3:1",
+      "translation": "RVR1960",
+      "text": "En aquellos días vino Juan el Bautista predicando en el desierto de Judea,",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 50,
-      "reference": "Romans 13:10",
-      "translation": "WEB",
-      "text": "Love doesn’t harm a neighbor. Love therefore is the fulfillment of the law.",
-      "category": "Love",
+      "reference": "Mateo 3:2",
+      "translation": "RVR1960",
+      "text": "y diciendo: Arrepentíos, porque el reino de los cielos se ha acercado.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 51,
-      "reference": "Colossians 3:14",
-      "translation": "WEB",
-      "text": "Above all these things, walk in love, which is the bond of perfection.",
-      "category": "Love",
+      "reference": "Mateo 3:3",
+      "translation": "RVR1960",
+      "text": "Pues este es aquel de quien habló el profeta Isaías, cuando dijo: Voz del que clama en el desierto: Preparad el camino del Señor, Enderezad sus sendas.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 52,
-      "reference": "1 Peter 4:8",
-      "translation": "WEB",
-      "text": "And above all things be earnest in your love among yourselves, for love covers a multitude of sins.",
-      "category": "Love",
+      "reference": "Mateo 3:4",
+      "translation": "RVR1960",
+      "text": "Y Juan estaba vestido de pelo de camello, y tenía un cinto de cuero alrededor de sus lomos; y su comida era langostas y miel silvestre.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 53,
-      "reference": "Ephesians 4:2",
-      "translation": "WEB",
-      "text": "with all lowliness and humility, with patience, bearing with one another in love,",
-      "category": "Love",
+      "reference": "Mateo 3:5",
+      "translation": "RVR1960",
+      "text": "Y salía a él Jerusalén, y toda Judea, y toda la provincia de alrededor del Jordán,",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 54,
-      "reference": "Ephesians 5:2",
-      "translation": "WEB",
-      "text": "Walk in love, even as Christ also loved us and gave himself up for us, an offering and a sacrifice to God for a sweet-smelling fragrance.",
-      "category": "Love",
+      "reference": "Mateo 3:6",
+      "translation": "RVR1960",
+      "text": "y eran bautizados por él en el Jordán, confesando sus pecados.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 55,
+      "reference": "Mateo 3:7",
+      "translation": "RVR1960",
+      "text": "Al ver él que muchos de los fariseos y de los saduceos venían a su bautismo, les decía: ¡Generación de víboras! ¿Quién os enseñó a huir de la ira venidera?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 56,
+      "reference": "Mateo 3:8",
+      "translation": "RVR1960",
+      "text": "Haced, pues, frutos dignos de arrepentimiento,",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 57,
-      "reference": "Romans 15:13",
-      "translation": "WEB",
-      "text": "Now may the God of hope fill you with all joy and peace in believing, that you may abound in hope, in the power of the Holy Spirit.",
-      "category": "Hope",
+      "reference": "Mateo 3:9",
+      "translation": "RVR1960",
+      "text": "y no penséis decir dentro de vosotros mismos: A Abraham tenemos por padre; porque yo os digo que Dios puede levantar hijos a Abraham aun de estas piedras.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 58,
-      "reference": "Romans 5:3",
-      "translation": "WEB",
-      "text": "Not only this, but we also rejoice in our sufferings, knowing that suffering produces perseverance;",
-      "category": "Hope",
+      "reference": "Mateo 3:10",
+      "translation": "RVR1960",
+      "text": "Y ya también el hacha está puesta a la raíz de los árboles; por tanto, todo árbol que no da buen fruto es cortado y echado en el fuego.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 59,
-      "reference": "Romans 5:4",
-      "translation": "WEB",
-      "text": "and perseverance, proven character; and proven character, hope:",
-      "category": "Hope",
+      "reference": "Mateo 3:11",
+      "translation": "RVR1960",
+      "text": "Yo a la verdad os bautizo en agua para arrepentimiento; pero el que viene tras mí, cuyo calzado yo no soy digno de llevar, es más poderoso que yo; él os bautizará en Espíritu Santo y fuego.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 60,
-      "reference": "Romans 5:5",
-      "translation": "WEB",
-      "text": "and hope doesn’t disappoint us, because God’s love has been poured into our hearts through the Holy Spirit who was given to us.",
-      "category": "Hope",
+      "reference": "Mateo 3:12",
+      "translation": "RVR1960",
+      "text": "Su aventador está en su mano, y limpiará su era; y recogerá su trigo en el granero, y quemará la paja en fuego que nunca se apagará.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 61,
-      "reference": "Romans 8:24",
-      "translation": "WEB",
-      "text": "For we were saved in hope, but hope that is seen is not hope. For who hopes for that which he sees?",
-      "category": "Hope",
+      "reference": "Mateo 3:13",
+      "translation": "RVR1960",
+      "text": "Entonces Jesús vino de Galilea a Juan al Jordán, para ser bautizado por él.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 62,
-      "reference": "Romans 8:25",
-      "translation": "WEB",
-      "text": "But if we hope for that which we don’t see, we wait for it with patience.",
-      "category": "Hope",
+      "reference": "Mateo 3:14",
+      "translation": "RVR1960",
+      "text": "Mas Juan se le oponía, diciendo: Yo necesito ser bautizado por ti, ¿y tú vienes a mí?",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 63,
-      "reference": "Romans 12:12",
-      "translation": "WEB",
-      "text": "rejoicing in hope; enduring in troubles; continuing steadfastly in prayer;",
-      "category": "Hope",
+      "reference": "Mateo 3:15",
+      "translation": "RVR1960",
+      "text": "Pero Jesús le respondió: Deja ahora, porque así conviene que cumplamos toda justicia. Entonces le dejó.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 64,
-      "reference": "Romans 15:4",
-      "translation": "WEB",
-      "text": "For whatever things were written before were written for our learning, that through perseverance and through encouragement of the Scriptures we might have hope.",
-      "category": "Hope",
+      "reference": "Mateo 3:16",
+      "translation": "RVR1960",
+      "text": "Y Jesús, después que fue bautizado, subió luego del agua; y he aquí los cielos le fueron abiertos, y vio al Espíritu de Dios que descendía como paloma, y venía sobre él.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 65,
-      "reference": "Hebrews 6:19",
-      "translation": "WEB",
-      "text": "This hope we have as an anchor of the soul, a hope both sure and steadfast and entering into that which is within the veil;",
-      "category": "Hope",
+      "reference": "Mateo 3:17",
+      "translation": "RVR1960",
+      "text": "Y hubo una voz de los cielos, que decía: Este es mi Hijo amado, en quien tengo complacencia.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 66,
+      "reference": "Mateo 4:1",
+      "translation": "RVR1960",
+      "text": "Entonces Jesús fue llevado por el Espíritu al desierto, para ser tentado por el diablo.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 67,
-      "reference": "1 Peter 1:3",
-      "translation": "WEB",
-      "text": "Blessed be the God and Father of our Lord Jesus Christ, who according to his great mercy caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,",
-      "category": "Hope",
+      "reference": "Mateo 4:2",
+      "translation": "RVR1960",
+      "text": "Y después de haber ayunado cuarenta días y cuarenta noches, tuvo hambre.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 68,
-      "reference": "1 Peter 1:13",
-      "translation": "WEB",
-      "text": "Therefore prepare your minds for action. Be sober, and set your hope fully on the grace that will be brought to you at the revelation of Jesus Christ—",
-      "category": "Hope",
+      "reference": "Mateo 4:3",
+      "translation": "RVR1960",
+      "text": "Y vino a él el tentador, y le dijo: Si eres Hijo de Dios, di que estas piedras se conviertan en pan.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 69,
-      "reference": "1 Peter 3:15",
-      "translation": "WEB",
-      "text": "But sanctify the Lord God in your hearts. Always be ready to give an answer to everyone who asks you a reason concerning the hope that is in you, with humility and fear,",
-      "category": "Hope",
+      "reference": "Mateo 4:4",
+      "translation": "RVR1960",
+      "text": "Él respondió y dijo: Escrito está: No solo de pan vivirá el hombre, sino de toda palabra que sale de la boca de Dios.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 70,
+      "reference": "Mateo 4:5",
+      "translation": "RVR1960",
+      "text": "Entonces el diablo le llevó a la santa ciudad, y le puso sobre el pináculo del templo,",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 71,
+      "reference": "Mateo 4:6",
+      "translation": "RVR1960",
+      "text": "y le dijo: Si eres Hijo de Dios, échate abajo; porque escrito está: A sus ángeles mandará acerca de ti, y, En sus manos te sostendrán, Para que no tropieces con tu pie en piedra.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 72,
+      "reference": "Mateo 4:7",
+      "translation": "RVR1960",
+      "text": "Jesús le dijo: Escrito está también: No tentarás al Señor tu Dios.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 73,
+      "reference": "Mateo 4:8",
+      "translation": "RVR1960",
+      "text": "Otra vez le llevó el diablo a un monte muy alto, y le mostró todos los reinos del mundo y la gloria de ellos,",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 74,
+      "reference": "Mateo 4:9",
+      "translation": "RVR1960",
+      "text": "y le dijo: Todo esto te daré, si postrado me adorares.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 75,
+      "reference": "Mateo 4:10",
+      "translation": "RVR1960",
+      "text": "Entonces Jesús le dijo: Vete, Satanás, porque escrito está: Al Señor tu Dios adorarás, y a él sólo servirás.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 76,
+      "reference": "Mateo 4:11",
+      "translation": "RVR1960",
+      "text": "El diablo entonces le dejó; y he aquí vinieron ángeles y le servían.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 77,
+      "reference": "Mateo 4:12",
+      "translation": "RVR1960",
+      "text": "Cuando Jesús oyó que Juan estaba preso, volvió a Galilea;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 78,
+      "reference": "Mateo 4:13",
+      "translation": "RVR1960",
+      "text": "y dejando a Nazaret, vino y habitó en Capernaum, ciudad marítima, en la región de Zabulón y de Neftalí,",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 79,
+      "reference": "Mateo 4:14",
+      "translation": "RVR1960",
+      "text": "para que se cumpliese lo dicho por el profeta Isaías, cuando dijo:",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 80,
+      "reference": "Mateo 4:15",
+      "translation": "RVR1960",
+      "text": "Tierra de Zabulón y tierra de Neftalí, Camino del mar, al otro lado del Jordán, Galilea de los gentiles;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 81,
+      "reference": "Mateo 4:16",
+      "translation": "RVR1960",
+      "text": "El pueblo asentado en tinieblas vio gran luz; Y a los asentados en región de sombra de muerte, Luz les resplandeció.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 82,
+      "reference": "Mateo 4:17",
+      "translation": "RVR1960",
+      "text": "Desde entonces comenzó Jesús a predicar, y a decir: Arrepentíos, porque el reino de los cielos se ha acercado.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 83,
-      "reference": "Titus 2:13",
-      "translation": "WEB",
-      "text": "looking for the blessed hope and appearing of the glory of our great God and Savior, Jesus Christ,",
-      "category": "Hope",
+      "reference": "Mateo 4:18",
+      "translation": "RVR1960",
+      "text": "Andando Jesús junto al mar de Galilea, vio a dos hermanos, Simón, llamado Pedro, y Andrés su hermano, que echaban la red en el mar; porque eran pescadores.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 84,
+      "reference": "Mateo 4:19",
+      "translation": "RVR1960",
+      "text": "Y les dijo: Venid en pos de mí, y os haré pescadores de hombres.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 85,
+      "reference": "Mateo 4:20",
+      "translation": "RVR1960",
+      "text": "Ellos entonces, dejando al instante las redes, le siguieron.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 86,
+      "reference": "Mateo 4:21",
+      "translation": "RVR1960",
+      "text": "Pasando de allí, vio a otros dos hermanos, Jacobo hijo de Zebedeo, y Juan su hermano, en la barca con Zebedeo su padre, que remendaban sus redes; y los llamó.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 87,
+      "reference": "Mateo 4:22",
+      "translation": "RVR1960",
+      "text": "Y ellos, dejando al instante la barca y a su padre, le siguieron.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 88,
+      "reference": "Mateo 4:23",
+      "translation": "RVR1960",
+      "text": "Y recorrió Jesús toda Galilea, enseñando en las sinagogas de ellos, y predicando el evangelio del reino, y sanando toda enfermedad y toda dolencia en el pueblo.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 89,
+      "reference": "Mateo 4:24",
+      "translation": "RVR1960",
+      "text": "Y se difundió su fama por toda Siria; y le trajeron todos los que tenían dolencias, los afligidos por diversas enfermedades y tormentos, los endemoniados, lunáticos y paralíticos; y los sanó.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 90,
+      "reference": "Mateo 4:25",
+      "translation": "RVR1960",
+      "text": "Y le siguió mucha gente de Galilea, de Decápolis, de Jerusalén, de Judea y del otro lado del Jordán.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 91,
+      "reference": "Mateo 5:1",
+      "translation": "RVR1960",
+      "text": "Viendo la multitud, subió al monte; y sentándose, vinieron a él sus discípulos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 92,
-      "reference": "Philippians 4:13",
-      "translation": "WEB",
-      "text": "I can do all things through Christ, who strengthens me.",
-      "category": "Strength and Courage",
+      "reference": "Mateo 5:2",
+      "translation": "RVR1960",
+      "text": "Y abriendo su boca les enseñaba, diciendo:",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 93,
+      "reference": "Mateo 5:3",
+      "translation": "RVR1960",
+      "text": "Bienaventurados los pobres en espíritu, porque de ellos es el reino de los cielos.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 94,
+      "reference": "Mateo 5:4",
+      "translation": "RVR1960",
+      "text": "Bienaventurados los que lloran, porque ellos recibirán consolación.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 95,
+      "reference": "Mateo 5:5",
+      "translation": "RVR1960",
+      "text": "Bienaventurados los mansos, porque ellos recibirán la tierra por heredad.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 96,
+      "reference": "Mateo 5:6",
+      "translation": "RVR1960",
+      "text": "Bienaventurados los que tienen hambre y sed de justicia, porque ellos serán saciados.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 97,
+      "reference": "Mateo 5:7",
+      "translation": "RVR1960",
+      "text": "Bienaventurados los misericordiosos, porque ellos alcanzarán misericordia.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 98,
+      "reference": "Mateo 5:8",
+      "translation": "RVR1960",
+      "text": "Bienaventurados los de limpio corazón, porque ellos verán a Dios.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 99,
+      "reference": "Mateo 5:9",
+      "translation": "RVR1960",
+      "text": "Bienaventurados los pacificadores, porque ellos serán llamados hijos de Dios.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 100,
+      "reference": "Mateo 5:10",
+      "translation": "RVR1960",
+      "text": "Bienaventurados los que padecen persecución por causa de la justicia, porque de ellos es el reino de los cielos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 101,
-      "reference": "2 Timothy 1:7",
-      "translation": "WEB",
-      "text": "For God didn’t give us a spirit of fear, but of power, love, and self-control.",
-      "category": "Strength and Courage",
+      "reference": "Mateo 5:11",
+      "translation": "RVR1960",
+      "text": "Bienaventurados sois cuando por mi causa os vituperen y os persigan, y digan toda clase de mal contra vosotros, mintiendo.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 102,
-      "reference": "1 Corinthians 16:13",
-      "translation": "WEB",
-      "text": "Watch! Stand firm in the faith! Be courageous! Be strong!",
-      "category": "Strength and Courage",
+      "reference": "Mateo 5:12",
+      "translation": "RVR1960",
+      "text": "Gozaos y alegraos, porque vuestro galardón es grande en los cielos; porque así persiguieron a los profetas que fueron antes de vosotros.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 103,
-      "reference": "Ephesians 6:10",
-      "translation": "WEB",
-      "text": "Finally, be strong in the Lord, and in the strength of his might.",
-      "category": "Strength and Courage",
+      "reference": "Mateo 5:13",
+      "translation": "RVR1960",
+      "text": "Vosotros sois la sal de la tierra; pero si la sal se desvaneciere, ¿con qué será salada? No sirve más para nada, sino para ser echada fuera y hollada por los hombres.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 104,
+      "reference": "Mateo 5:14",
+      "translation": "RVR1960",
+      "text": "Vosotros sois la luz del mundo; una ciudad asentada sobre un monte no se puede esconder.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 105,
+      "reference": "Mateo 5:15",
+      "translation": "RVR1960",
+      "text": "Ni se enciende una luz y se pone debajo de un almud, sino sobre el candelero, y alumbra a todos los que están en casa.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 106,
+      "reference": "Mateo 5:16",
+      "translation": "RVR1960",
+      "text": "Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en los cielos.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 107,
+      "reference": "Mateo 5:17",
+      "translation": "RVR1960",
+      "text": "No penséis que he venido para abrogar la ley o los profetas; no he venido para abrogar, sino para cumplir.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 108,
+      "reference": "Mateo 5:18",
+      "translation": "RVR1960",
+      "text": "Porque de cierto os digo que hasta que pasen el cielo y la tierra, ni una jota ni una tilde pasará de la ley, hasta que todo se haya cumplido.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 109,
+      "reference": "Mateo 5:19",
+      "translation": "RVR1960",
+      "text": "De manera que cualquiera que quebrante uno de estos mandamientos muy pequeños, y así enseñe a los hombres, muy pequeño será llamado en el reino de los cielos; mas cualquiera que los haga y los enseñe, este será llamado grande en el reino de los cielos.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 110,
+      "reference": "Mateo 5:20",
+      "translation": "RVR1960",
+      "text": "Porque os digo que si vuestra justicia no fuere mayor que la de los escribas y fariseos, no entraréis en el reino de los cielos.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 111,
+      "reference": "Mateo 5:21",
+      "translation": "RVR1960",
+      "text": "Oísteis que fue dicho a los antiguos: No matarás; y cualquiera que matare será culpable de juicio.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 112,
+      "reference": "Mateo 5:22",
+      "translation": "RVR1960",
+      "text": "Pero yo os digo que cualquiera que se enoje contra su hermano, será culpable de juicio; y cualquiera que diga: Necio, a su hermano, será culpable ante el concilio; y cualquiera que le diga: Fatuo, quedará expuesto al infierno de fuego.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 113,
-      "reference": "1 Thessalonians 5:17",
-      "translation": "WEB",
-      "text": "Pray without ceasing.",
-      "category": "Prayer",
+      "reference": "Mateo 5:23",
+      "translation": "RVR1960",
+      "text": "Por tanto, si traes tu ofrenda al altar, y allí te acuerdas de que tu hermano tiene algo contra ti,",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 114,
-      "reference": "Philippians 4:6",
-      "translation": "WEB",
-      "text": "In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God.",
-      "category": "Prayer",
+      "reference": "Mateo 5:24",
+      "translation": "RVR1960",
+      "text": "deja allí tu ofrenda delante del altar, y anda, reconcíliate primero con tu hermano, y entonces ven y presenta tu ofrenda.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 115,
-      "reference": "Philippians 4:7",
-      "translation": "WEB",
-      "text": "And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus.",
-      "category": "Prayer",
+      "reference": "Mateo 5:25",
+      "translation": "RVR1960",
+      "text": "Ponte de acuerdo con tu adversario pronto, entre tanto que estás con él en el camino, no sea que el adversario te entregue al juez, y el juez al alguacil, y seas echado en la cárcel.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 116,
-      "reference": "Matthew 6:6",
-      "translation": "WEB",
-      "text": "But you, when you pray, enter into your inner room, and having shut your door, pray to your Father who is in secret, and your Father who sees in secret will reward you openly.",
-      "category": "Prayer",
+      "reference": "Mateo 5:26",
+      "translation": "RVR1960",
+      "text": "De cierto te digo que no saldrás de allí, hasta que pagues el último cuadrante.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 117,
-      "reference": "Matthew 6:7",
-      "translation": "WEB",
-      "text": "In praying, don’t use vain repetitions, as the Gentiles do; for they think that they will be heard for their much speaking.",
-      "category": "Prayer",
+      "reference": "Mateo 5:27",
+      "translation": "RVR1960",
+      "text": "Oísteis que fue dicho: No cometerás adulterio.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 118,
-      "reference": "Matthew 6:9",
-      "translation": "WEB",
-      "text": "Pray like this: ‘Our Father in heaven, may your name be kept holy.",
-      "category": "Prayer",
+      "reference": "Mateo 5:28",
+      "translation": "RVR1960",
+      "text": "Pero yo os digo que cualquiera que mira a una mujer para codiciarla, ya adulteró con ella en su corazón.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 119,
-      "reference": "Matthew 6:10",
-      "translation": "WEB",
-      "text": "Let your Kingdom come. Let your will be done on earth as it is in heaven.",
-      "category": "Prayer",
+      "reference": "Mateo 5:29",
+      "translation": "RVR1960",
+      "text": "Por tanto, si tu ojo derecho te es ocasión de caer, sácalo, y échalo de ti; pues mejor te es que se pierda uno de tus miembros, y no que todo tu cuerpo sea echado al infierno.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 120,
-      "reference": "Matthew 6:11",
-      "translation": "WEB",
-      "text": "Give us today our daily bread.",
-      "category": "Prayer",
+      "reference": "Mateo 5:30",
+      "translation": "RVR1960",
+      "text": "Y si tu mano derecha te es ocasión de caer, córtala, y échala de ti; pues mejor te es que se pierda uno de tus miembros, y no que todo tu cuerpo sea echado al infierno.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 121,
-      "reference": "Matthew 6:12",
-      "translation": "WEB",
-      "text": "Forgive us our debts, as we also forgive our debtors.",
-      "category": "Prayer",
+      "reference": "Mateo 5:31",
+      "translation": "RVR1960",
+      "text": "También fue dicho: Cualquiera que repudie a su mujer, dele carta de divorcio.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 122,
-      "reference": "Matthew 6:13",
-      "translation": "WEB",
-      "text": "Bring us not into temptation, but deliver us from the evil one. For yours is the Kingdom, the power, and the glory forever. Amen.’",
-      "category": "Prayer",
+      "reference": "Mateo 5:32",
+      "translation": "RVR1960",
+      "text": "Pero yo os digo que el que repudia a su mujer, a no ser por causa de fornicación, hace que ella adultere; y el que se casa con la repudiada, comete adulterio.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 123,
-      "reference": "Matthew 7:7",
-      "translation": "WEB",
-      "text": "“Ask, and it will be given you. Seek, and you will find. Knock, and it will be opened for you.",
-      "category": "Prayer",
+      "reference": "Mateo 5:33",
+      "translation": "RVR1960",
+      "text": "Además habéis oído que fue dicho a los antiguos: No perjurarás, sino cumplirás al Señor tus juramentos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 124,
-      "reference": "Matthew 7:8",
-      "translation": "WEB",
-      "text": "For everyone who asks receives. He who seeks finds. To him who knocks it will be opened.",
-      "category": "Prayer",
+      "reference": "Mateo 5:34",
+      "translation": "RVR1960",
+      "text": "Pero yo os digo: No juréis en ninguna manera; ni por el cielo, porque es el trono de Dios;",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 125,
-      "reference": "Mark 11:24",
-      "translation": "WEB",
-      "text": "Therefore I tell you, all things whatever you pray and ask for, believe that you have received them, and you shall have them.",
-      "category": "Prayer",
+      "reference": "Mateo 5:35",
+      "translation": "RVR1960",
+      "text": "ni por la tierra, porque es el estrado de sus pies; ni por Jerusalén, porque es la ciudad del gran Rey.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 126,
-      "reference": "Luke 11:9",
-      "translation": "WEB",
-      "text": "“I tell you, keep asking, and it will be given you. Keep seeking, and you will find. Keep knocking, and it will be opened to you.",
-      "category": "Prayer",
+      "reference": "Mateo 5:36",
+      "translation": "RVR1960",
+      "text": "Ni por tu cabeza jurarás, porque no puedes hacer blanco o negro un solo cabello.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 127,
-      "reference": "Luke 18:1",
-      "translation": "WEB",
-      "text": "He also spoke a parable to them that they must always pray, and not give up,",
-      "category": "Prayer",
+      "reference": "Mateo 5:37",
+      "translation": "RVR1960",
+      "text": "Pero sea vuestro hablar: Sí, sí; no, no; porque lo que es más de esto, de mal procede.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 128,
-      "reference": "John 14:13",
-      "translation": "WEB",
-      "text": "Whatever you will ask in my name, I will do it, that the Father may be glorified in the Son.",
-      "category": "Prayer",
+      "reference": "Mateo 5:38",
+      "translation": "RVR1960",
+      "text": "Oísteis que fue dicho: Ojo por ojo, y diente por diente.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 129,
-      "reference": "John 14:14",
-      "translation": "WEB",
-      "text": "If you will ask anything in my name, I will do it.",
-      "category": "Prayer",
+      "reference": "Mateo 5:39",
+      "translation": "RVR1960",
+      "text": "Pero yo os digo: No resistáis al que es malo; antes, a cualquiera que te hiera en la mejilla derecha, vuélvele también la otra;",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 130,
-      "reference": "John 15:7",
-      "translation": "WEB",
-      "text": "If you remain in me, and my words remain in you, you will ask whatever you desire, and it will be done for you.",
-      "category": "Prayer",
+      "reference": "Mateo 5:40",
+      "translation": "RVR1960",
+      "text": "y al que quiera ponerte a pleito y quitarte la túnica, déjale también la capa;",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 131,
-      "reference": "James 5:16",
-      "translation": "WEB",
-      "text": "Confess your offenses to one another, and pray for one another, that you may be healed. The insistent prayer of a righteous person is powerfully effective.",
-      "category": "Prayer",
+      "reference": "Mateo 5:41",
+      "translation": "RVR1960",
+      "text": "y a cualquiera que te obligue a llevar carga por una milla, ve con él dos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 132,
-      "reference": "James 1:5",
-      "translation": "WEB",
-      "text": "But if any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him.",
-      "category": "Prayer",
+      "reference": "Mateo 5:42",
+      "translation": "RVR1960",
+      "text": "Al que te pida, dale; y al que quiera tomar de ti prestado, no se lo rehúses.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 133,
-      "reference": "1 John 5:14",
-      "translation": "WEB",
-      "text": "This is the boldness which we have toward him, that if we ask anything according to his will, he listens to us.",
-      "category": "Prayer",
+      "reference": "Mateo 5:43",
+      "translation": "RVR1960",
+      "text": "Oísteis que fue dicho: Amarás a tu prójimo, y aborrecerás a tu enemigo.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 134,
-      "reference": "1 John 5:15",
-      "translation": "WEB",
-      "text": "And if we know that he listens to us, whatever we ask, we know that we have the petitions which we have asked of him.",
-      "category": "Prayer",
+      "reference": "Mateo 5:44",
+      "translation": "RVR1960",
+      "text": "Pero yo os digo: Amad a vuestros enemigos, bendecid a los que os maldicen, haced bien a los que os aborrecen, y orad por los que os ultrajan y os persiguen;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 135,
+      "reference": "Mateo 5:45",
+      "translation": "RVR1960",
+      "text": "para que seáis hijos de vuestro Padre que está en los cielos, que hace salir su sol sobre malos y buenos, y que hace llover sobre justos e injustos.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 136,
+      "reference": "Mateo 5:46",
+      "translation": "RVR1960",
+      "text": "Porque si amáis a los que os aman, ¿qué recompensa tendréis? ¿No hacen también lo mismo los publicanos?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 137,
+      "reference": "Mateo 5:47",
+      "translation": "RVR1960",
+      "text": "Y si saludáis a vuestros hermanos solamente, ¿qué hacéis de más? ¿No hacen también así los gentiles?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 138,
+      "reference": "Mateo 5:48",
+      "translation": "RVR1960",
+      "text": "Sed, pues, vosotros perfectos, como vuestro Padre que está en los cielos es perfecto.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 139,
+      "reference": "Mateo 6:1",
+      "translation": "RVR1960",
+      "text": "Guardaos de hacer vuestra justicia delante de los hombres, para ser vistos de ellos; de otra manera no tendréis recompensa de vuestro Padre que está en los cielos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 140,
-      "reference": "Colossians 4:2",
-      "translation": "WEB",
-      "text": "Continue steadfastly in prayer, watching in it with thanksgiving,",
-      "category": "Prayer",
+      "reference": "Mateo 6:2",
+      "translation": "RVR1960",
+      "text": "Cuando, pues, des limosna, no hagas tocar trompeta delante de ti, como hacen los hipócritas en las sinagogas y en las calles, para ser alabados por los hombres; de cierto os digo que ya tienen su recompensa.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 141,
+      "reference": "Mateo 6:3",
+      "translation": "RVR1960",
+      "text": "Mas cuando tú des limosna, no sepa tu izquierda lo que hace tu derecha,",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 142,
+      "reference": "Mateo 6:4",
+      "translation": "RVR1960",
+      "text": "para que sea tu limosna en secreto; y tu Padre que ve en lo secreto te recompensará en público.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 143,
+      "reference": "Mateo 6:5",
+      "translation": "RVR1960",
+      "text": "Y cuando ores, no seas como los hipócritas; porque ellos aman el orar en pie en las sinagogas y en las esquinas de las calles, para ser vistos de los hombres; de cierto os digo que ya tienen su recompensa.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 144,
+      "reference": "Mateo 6:6",
+      "translation": "RVR1960",
+      "text": "Mas tú, cuando ores, entra en tu aposento, y cerrada la puerta, ora a tu Padre que está en secreto; y tu Padre que ve en lo secreto te recompensará en público.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 145,
+      "reference": "Mateo 6:7",
+      "translation": "RVR1960",
+      "text": "Y orando, no uséis vanas repeticiones, como los gentiles, que piensan que por su palabrería serán oídos.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 146,
+      "reference": "Mateo 6:8",
+      "translation": "RVR1960",
+      "text": "No os hagáis, pues, semejantes a ellos; porque vuestro Padre sabe de qué cosas tenéis necesidad, antes que vosotros le pidáis.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 147,
+      "reference": "Mateo 6:9",
+      "translation": "RVR1960",
+      "text": "Vosotros, pues, oraréis así: Padre nuestro que estás en los cielos, santificado sea tu nombre.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 148,
+      "reference": "Mateo 6:10",
+      "translation": "RVR1960",
+      "text": "Venga tu reino. Hágase tu voluntad, como en el cielo, así también en la tierra.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 149,
+      "reference": "Mateo 6:11",
+      "translation": "RVR1960",
+      "text": "El pan nuestro de cada día, dánoslo hoy.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 150,
+      "reference": "Mateo 6:12",
+      "translation": "RVR1960",
+      "text": "Y perdónanos nuestras deudas, como también nosotros perdonamos a nuestros deudores.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 151,
+      "reference": "Mateo 6:13",
+      "translation": "RVR1960",
+      "text": "Y no nos metas en tentación, mas líbranos del mal; porque tuyo es el reino, y el poder, y la gloria, por todos los siglos. Amén.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 152,
+      "reference": "Mateo 6:14",
+      "translation": "RVR1960",
+      "text": "Porque si perdonáis a los hombres sus ofensas, os perdonará también a vosotros vuestro Padre celestial;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 153,
+      "reference": "Mateo 6:15",
+      "translation": "RVR1960",
+      "text": "mas si no perdonáis a los hombres sus ofensas, tampoco vuestro Padre os perdonará vuestras ofensas.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 154,
+      "reference": "Mateo 6:16",
+      "translation": "RVR1960",
+      "text": "Cuando ayunéis, no seáis austeros, como los hipócritas; porque ellos demudan sus rostros para mostrar a los hombres que ayunan; de cierto os digo que ya tienen su recompensa.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 155,
+      "reference": "Mateo 6:17",
+      "translation": "RVR1960",
+      "text": "Pero tú, cuando ayunes, unge tu cabeza y lava tu rostro,",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 156,
+      "reference": "Mateo 6:18",
+      "translation": "RVR1960",
+      "text": "para no mostrar a los hombres que ayunas, sino a tu Padre que está en secreto; y tu Padre que ve en lo secreto te recompensará en público.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 157,
+      "reference": "Mateo 6:19",
+      "translation": "RVR1960",
+      "text": "No os hagáis tesoros en la tierra, donde la polilla y el orín corrompen, y donde ladrones minan y hurtan;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 158,
+      "reference": "Mateo 6:20",
+      "translation": "RVR1960",
+      "text": "sino haceos tesoros en el cielo, donde ni la polilla ni el orín corrompen, y donde ladrones no minan ni hurtan.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 159,
+      "reference": "Mateo 6:21",
+      "translation": "RVR1960",
+      "text": "Porque donde esté vuestro tesoro, allí estará también vuestro corazón.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 160,
+      "reference": "Mateo 6:22",
+      "translation": "RVR1960",
+      "text": "La lámpara del cuerpo es el ojo; así que, si tu ojo es bueno, todo tu cuerpo estará lleno de luz;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 161,
+      "reference": "Mateo 6:23",
+      "translation": "RVR1960",
+      "text": "pero si tu ojo es maligno, todo tu cuerpo estará en tinieblas. Así que, si la luz que en ti hay es tinieblas, ¿cuántas no serán las mismas tinieblas?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 162,
+      "reference": "Mateo 6:24",
+      "translation": "RVR1960",
+      "text": "Ninguno puede servir a dos señores; porque o aborrecerá al uno y amará al otro, o estimará al uno y menospreciará al otro. No podéis servir a Dios y a las riquezas.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 163,
+      "reference": "Mateo 6:25",
+      "translation": "RVR1960",
+      "text": "Por tanto os digo: No os afanéis por vuestra vida, qué habéis de comer o qué habéis de beber; ni por vuestro cuerpo, qué habéis de vestir. ¿No es la vida más que el alimento, y el cuerpo más que el vestido?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 164,
+      "reference": "Mateo 6:26",
+      "translation": "RVR1960",
+      "text": "Mirad las aves del cielo, que no siembran, ni siegan, ni recogen en graneros; y vuestro Padre celestial las alimenta. ¿No valéis vosotros mucho más que ellas?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 165,
+      "reference": "Mateo 6:27",
+      "translation": "RVR1960",
+      "text": "¿Y quién de vosotros podrá, por mucho que se afane, añadir a su estatura un codo?",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 166,
-      "reference": "James 3:17",
-      "translation": "WEB",
-      "text": "But the wisdom that is from above is first pure, then peaceful, gentle, reasonable, full of mercy and good fruits, without partiality, and without hypocrisy.",
-      "category": "Wisdom",
+      "reference": "Mateo 6:28",
+      "translation": "RVR1960",
+      "text": "Y por el vestido, ¿por qué os afanáis? Considerad los lirios del campo, cómo crecen: no trabajan ni hilan;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 167,
+      "reference": "Mateo 6:29",
+      "translation": "RVR1960",
+      "text": "pero os digo, que ni aun Salomón con toda su gloria se vistió así como uno de ellos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 168,
-      "reference": "Colossians 3:16",
-      "translation": "WEB",
-      "text": "Let the word of Christ dwell in you richly; in all wisdom teaching and admonishing one another with psalms, hymns, and spiritual songs, singing with grace in your heart to the Lord.",
-      "category": "Wisdom",
+      "reference": "Mateo 6:30",
+      "translation": "RVR1960",
+      "text": "Y si la hierba del campo que hoy es, y mañana se echa en el horno, Dios la viste así, ¿no hará mucho más a vosotros, hombres de poca fe?",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 169,
-      "reference": "Ephesians 4:32",
-      "translation": "WEB",
-      "text": "And be kind to one another, tender hearted, forgiving each other, just as God also in Christ forgave you.",
-      "category": "Forgiveness",
+      "reference": "Mateo 6:31",
+      "translation": "RVR1960",
+      "text": "No os afanéis, pues, diciendo: ¿Qué comeremos, o qué beberemos, o qué vestiremos?",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 170,
-      "reference": "Colossians 3:13",
-      "translation": "WEB",
-      "text": "bearing with one another, and forgiving each other, if any man has a complaint against any; even as Christ forgave you, so you also do.",
-      "category": "Forgiveness",
+      "reference": "Mateo 6:32",
+      "translation": "RVR1960",
+      "text": "Porque los gentiles buscan todas estas cosas; pero vuestro Padre celestial sabe que tenéis necesidad de todas estas cosas.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 171,
-      "reference": "Matthew 6:14",
-      "translation": "WEB",
-      "text": "“For if you forgive men their trespasses, your heavenly Father will also forgive you.",
-      "category": "Forgiveness",
+      "reference": "Mateo 6:33",
+      "translation": "RVR1960",
+      "text": "Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 172,
-      "reference": "Matthew 6:15",
-      "translation": "WEB",
-      "text": "But if you don’t forgive men their trespasses, neither will your Father forgive your trespasses.",
-      "category": "Forgiveness",
+      "reference": "Mateo 6:34",
+      "translation": "RVR1960",
+      "text": "Así que, no os afanéis por el día de mañana, porque el día de mañana traerá su afán. Basta a cada día su propio mal.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 173,
-      "reference": "Matthew 18:21",
-      "translation": "WEB",
-      "text": "Then Peter came and said to him, “Lord, how often shall my brother sin against me, and I forgive him? Until seven times?”",
-      "category": "Forgiveness",
+      "reference": "Mateo 7:1",
+      "translation": "RVR1960",
+      "text": "No juzguéis, para que no seáis juzgados.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 174,
-      "reference": "Matthew 18:22",
-      "translation": "WEB",
-      "text": "Jesus said to him, “I don’t tell you until seven times, but, until seventy times seven.",
-      "category": "Forgiveness",
+      "reference": "Mateo 7:2",
+      "translation": "RVR1960",
+      "text": "Porque con el juicio con que juzgáis, seréis juzgados, y con la medida con que medís, os será medido.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 175,
-      "reference": "Mark 11:25",
-      "translation": "WEB",
-      "text": "Whenever you stand praying, forgive, if you have anything against anyone; so that your Father, who is in heaven, may also forgive you your transgressions.",
-      "category": "Forgiveness",
+      "reference": "Mateo 7:3",
+      "translation": "RVR1960",
+      "text": "¿Y por qué miras la paja que está en el ojo de tu hermano, y no echas de ver la viga que está en tu propio ojo?",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 176,
-      "reference": "Luke 6:37",
-      "translation": "WEB",
-      "text": "Don’t judge, and you won’t be judged. Don’t condemn, and you won’t be condemned. Set free, and you will be set free.",
-      "category": "Forgiveness",
+      "reference": "Mateo 7:4",
+      "translation": "RVR1960",
+      "text": "¿O cómo dirás a tu hermano: Déjame sacar la paja de tu ojo, y he aquí la viga en el ojo tuyo?",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 177,
-      "reference": "Luke 17:3",
-      "translation": "WEB",
-      "text": "Be careful. If your brother sins against you, rebuke him. If he repents, forgive him.",
-      "category": "Forgiveness",
+      "reference": "Mateo 7:5",
+      "translation": "RVR1960",
+      "text": "¡Hipócrita! saca primero la viga de tu propio ojo, y entonces verás bien para sacar la paja del ojo de tu hermano.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 178,
-      "reference": "Luke 17:4",
-      "translation": "WEB",
-      "text": "If he sins against you seven times in the day, and seven times returns, saying, ‘I repent,’ you shall forgive him.”",
-      "category": "Forgiveness",
+      "reference": "Mateo 7:6",
+      "translation": "RVR1960",
+      "text": "No deis lo santo a los perros, ni echéis vuestras perlas delante de los cerdos, no sea que las pisoteen, y se vuelvan y os despedacen.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 179,
-      "reference": "1 John 1:9",
-      "translation": "WEB",
-      "text": "If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.",
-      "category": "Forgiveness",
+      "reference": "Mateo 7:7",
+      "translation": "RVR1960",
+      "text": "Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 180,
+      "reference": "Mateo 7:8",
+      "translation": "RVR1960",
+      "text": "Porque todo aquel que pide, recibe; y el que busca, halla; y al que llama, se le abrirá.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 181,
+      "reference": "Mateo 7:9",
+      "translation": "RVR1960",
+      "text": "¿Qué hombre hay de vosotros, que si su hijo le pide pan, le dará una piedra?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 182,
+      "reference": "Mateo 7:10",
+      "translation": "RVR1960",
+      "text": "¿O si le pide un pescado, le dará una serpiente?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 183,
+      "reference": "Mateo 7:11",
+      "translation": "RVR1960",
+      "text": "Pues si vosotros, siendo malos, sabéis dar buenas dádivas a vuestros hijos, ¿cuánto más vuestro Padre que está en los cielos dará buenas cosas a los que le pidan?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 184,
+      "reference": "Mateo 7:12",
+      "translation": "RVR1960",
+      "text": "Así que, todas las cosas que queráis que los hombres hagan con vosotros, así también haced vosotros con ellos; porque esto es la ley y los profetas.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 185,
+      "reference": "Mateo 7:13",
+      "translation": "RVR1960",
+      "text": "Entrad por la puerta estrecha; porque ancha es la puerta, y espacioso el camino que lleva a la perdición, y muchos son los que entran por ella;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 186,
+      "reference": "Mateo 7:14",
+      "translation": "RVR1960",
+      "text": "porque estrecha es la puerta, y angosto el camino que lleva a la vida, y pocos son los que la hallan.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 187,
+      "reference": "Mateo 7:15",
+      "translation": "RVR1960",
+      "text": "Guardaos de los falsos profetas, que vienen a vosotros con vestidos de ovejas, pero por dentro son lobos rapaces.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 188,
+      "reference": "Mateo 7:16",
+      "translation": "RVR1960",
+      "text": "Por sus frutos los conoceréis. ¿Acaso se recogen uvas de los espinos, o higos de los abrojos?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 189,
+      "reference": "Mateo 7:17",
+      "translation": "RVR1960",
+      "text": "Así, todo buen árbol da buenos frutos, pero el árbol malo da frutos malos.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 190,
+      "reference": "Mateo 7:18",
+      "translation": "RVR1960",
+      "text": "No puede el buen árbol dar malos frutos, ni el árbol malo dar frutos buenos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 191,
-      "reference": "Acts 3:19",
-      "translation": "WEB",
-      "text": "“Repent therefore, and turn again, that your sins may be blotted out, so that there may come times of refreshing from the presence of the Lord,",
-      "category": "Forgiveness",
+      "reference": "Mateo 7:19",
+      "translation": "RVR1960",
+      "text": "Todo árbol que no da buen fruto, es cortado y echado en el fuego.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 192,
-      "reference": "Acts 10:43",
-      "translation": "WEB",
-      "text": "All the prophets testify about him, that through his name everyone who believes in him will receive remission of sins.”",
-      "category": "Forgiveness",
+      "reference": "Mateo 7:20",
+      "translation": "RVR1960",
+      "text": "Así que, por sus frutos los conoceréis.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 193,
-      "reference": "Romans 4:7",
-      "translation": "WEB",
-      "text": "“Blessed are they whose iniquities are forgiven, whose sins are covered.",
-      "category": "Forgiveness",
+      "reference": "Mateo 7:21",
+      "translation": "RVR1960",
+      "text": "No todo el que me dice: Señor, Señor, entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre que está en los cielos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 194,
-      "reference": "2 Corinthians 2:7",
-      "translation": "WEB",
-      "text": "so that on the contrary you should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow.",
-      "category": "Forgiveness",
+      "reference": "Mateo 7:22",
+      "translation": "RVR1960",
+      "text": "Muchos me dirán en aquel día: Señor, Señor, ¿no profetizamos en tu nombre, y en tu nombre echamos fuera demonios, y en tu nombre hicimos muchos milagros?",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 195,
-      "reference": "Hebrews 8:12",
-      "translation": "WEB",
-      "text": "For I will be merciful to their unrighteousness. I will remember their sins and lawless deeds no more.”",
-      "category": "Forgiveness",
+      "reference": "Mateo 7:23",
+      "translation": "RVR1960",
+      "text": "Y entonces les declararé: Nunca os conocí; apartaos de mí, hacedores de maldad.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 196,
-      "reference": "Hebrews 10:17",
-      "translation": "WEB",
-      "text": "“I will remember their sins and their iniquities no more.”",
-      "category": "Forgiveness",
+      "reference": "Mateo 7:24",
+      "translation": "RVR1960",
+      "text": "Cualquiera, pues, que me oye estas palabras, y las hace, le compararé a un hombre prudente, que edificó su casa sobre la roca.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 197,
-      "reference": "John 14:27",
-      "translation": "WEB",
-      "text": "Peace I leave with you. My peace I give to you; not as the world gives, I give to you. Don’t let your heart be troubled, neither let it be fearful.",
-      "category": "Peace",
+      "reference": "Mateo 7:25",
+      "translation": "RVR1960",
+      "text": "Descendió lluvia, y vinieron ríos, y soplaron vientos, y golpearon contra aquella casa; y no cayó, porque estaba fundada sobre la roca.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 198,
-      "reference": "John 16:33",
-      "translation": "WEB",
-      "text": "I have told you these things, that in me you may have peace. In the world you have trouble; but cheer up! I have overcome the world.”",
-      "category": "Peace",
+      "reference": "Mateo 7:26",
+      "translation": "RVR1960",
+      "text": "Pero cualquiera que me oye estas palabras y no las hace, le compararé a un hombre insensato, que edificó su casa sobre la arena;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 199,
+      "reference": "Mateo 7:27",
+      "translation": "RVR1960",
+      "text": "y descendió lluvia, y vinieron ríos, y soplaron vientos, y dieron con ímpetu contra aquella casa; y cayó, y fue grande su ruina.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 200,
-      "reference": "Colossians 3:15",
-      "translation": "WEB",
-      "text": "And let the peace of God rule in your hearts, to which also you were called in one body, and be thankful.",
-      "category": "Peace",
+      "reference": "Mateo 7:28",
+      "translation": "RVR1960",
+      "text": "Y cuando terminó Jesús estas palabras, la gente se admiraba de su doctrina;",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 201,
-      "reference": "Romans 5:1",
-      "translation": "WEB",
-      "text": "Being therefore justified by faith, we have peace with God through our Lord Jesus Christ;",
-      "category": "Peace",
+      "reference": "Mateo 7:29",
+      "translation": "RVR1960",
+      "text": "porque les enseñaba como quien tiene autoridad, y no como los escribas.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 202,
-      "reference": "Romans 8:6",
-      "translation": "WEB",
-      "text": "For the mind of the flesh is death, but the mind of the Spirit is life and peace;",
-      "category": "Peace",
+      "reference": "Mateo 8:1",
+      "translation": "RVR1960",
+      "text": "Cuando descendió Jesús del monte, le seguía mucha gente.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 203,
-      "reference": "Romans 12:18",
-      "translation": "WEB",
-      "text": "If it is possible, as much as it is up to you, be at peace with all men.",
-      "category": "Peace",
+      "reference": "Mateo 8:2",
+      "translation": "RVR1960",
+      "text": "Y he aquí vino un leproso y se postró ante él, diciendo: Señor, si quieres, puedes limpiarme.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 204,
-      "reference": "Romans 14:19",
-      "translation": "WEB",
-      "text": "So then, let’s follow after things which make for peace, and things by which we may build one another up.",
-      "category": "Peace",
+      "reference": "Mateo 8:3",
+      "translation": "RVR1960",
+      "text": "Jesús extendió la mano y le tocó, diciendo: Quiero; sé limpio. Y al instante su lepra desapareció.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 205,
+      "reference": "Mateo 8:4",
+      "translation": "RVR1960",
+      "text": "Entonces Jesús le dijo: Mira, no lo digas a nadie; sino ve, muéstrate al sacerdote, y presenta la ofrenda que ordenó Moisés, para testimonio a ellos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 206,
-      "reference": "2 Thessalonians 3:16",
-      "translation": "WEB",
-      "text": "Now may the Lord of peace himself give you peace at all times in all ways. The Lord be with you all.",
-      "category": "Peace",
+      "reference": "Mateo 8:5",
+      "translation": "RVR1960",
+      "text": "Entrando Jesús en Capernaum, vino a él un centurión, rogándole,",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 207,
+      "reference": "Mateo 8:6",
+      "translation": "RVR1960",
+      "text": "y diciendo: Señor, mi criado está postrado en casa, paralítico, gravemente atormentado.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 208,
+      "reference": "Mateo 8:7",
+      "translation": "RVR1960",
+      "text": "Y Jesús le dijo: Yo iré y le sanaré.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 209,
+      "reference": "Mateo 8:8",
+      "translation": "RVR1960",
+      "text": "Respondió el centurión y dijo: Señor, no soy digno de que entres bajo mi techo; solamente di la palabra, y mi criado sanará.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 210,
+      "reference": "Mateo 8:9",
+      "translation": "RVR1960",
+      "text": "Porque también yo soy hombre bajo autoridad, y tengo bajo mis órdenes soldados; y digo a este: Ve, y va; y al otro: Ven, y viene; y a mi siervo: Haz esto, y lo hace.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 211,
+      "reference": "Mateo 8:10",
+      "translation": "RVR1960",
+      "text": "Al oírlo Jesús, se maravilló, y dijo a los que le seguían: De cierto os digo, que ni aun en Israel he hallado tanta fe.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 212,
+      "reference": "Mateo 8:11",
+      "translation": "RVR1960",
+      "text": "Y os digo que vendrán muchos del oriente y del occidente, y se sentarán con Abraham e Isaac y Jacob en el reino de los cielos;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 213,
+      "reference": "Mateo 8:12",
+      "translation": "RVR1960",
+      "text": "mas los hijos del reino serán echados a las tinieblas de afuera; allí será el lloro y el crujir de dientes.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 214,
+      "reference": "Mateo 8:13",
+      "translation": "RVR1960",
+      "text": "Entonces Jesús dijo al centurión: Ve, y como creíste, te sea hecho. Y su criado fue sanado en aquella misma hora.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 215,
+      "reference": "Mateo 8:14",
+      "translation": "RVR1960",
+      "text": "Vino Jesús a casa de Pedro, y vio a la suegra de este postrada en cama, con fiebre.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 216,
+      "reference": "Mateo 8:15",
+      "translation": "RVR1960",
+      "text": "Y tocó su mano, y la fiebre la dejó; y ella se levantó, y les servía.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 217,
+      "reference": "Mateo 8:16",
+      "translation": "RVR1960",
+      "text": "Y cuando llegó la noche, trajeron a él muchos endemoniados; y con la palabra echó fuera a los demonios, y sanó a todos los enfermos;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 218,
+      "reference": "Mateo 8:17",
+      "translation": "RVR1960",
+      "text": "para que se cumpliese lo dicho por el profeta Isaías, cuando dijo: Él mismo tomó nuestras enfermedades, y llevó nuestras dolencias.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 219,
-      "reference": "Matthew 5:9",
-      "translation": "WEB",
-      "text": "Blessed are the peacemakers, for they shall be called children of God.",
-      "category": "Peace",
+      "reference": "Mateo 8:18",
+      "translation": "RVR1960",
+      "text": "Viéndose Jesús rodeado de mucha gente, mandó pasar al otro lado.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 220,
-      "reference": "Matthew 11:28",
-      "translation": "WEB",
-      "text": "“Come to me, all you who labor and are heavily burdened, and I will give you rest.",
-      "category": "Peace",
+      "reference": "Mateo 8:19",
+      "translation": "RVR1960",
+      "text": "Y vino un escriba y le dijo: Maestro, te seguiré adondequiera que vayas.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 221,
-      "reference": "Matthew 11:29",
-      "translation": "WEB",
-      "text": "Take my yoke upon you, and learn from me, for I am gentle and humble in heart; and you will find rest for your souls.",
-      "category": "Peace",
+      "reference": "Mateo 8:20",
+      "translation": "RVR1960",
+      "text": "Jesús le dijo: Las zorras tienen guaridas, y las aves del cielo nidos; mas el Hijo del Hombre no tiene dónde recostar su cabeza.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 222,
-      "reference": "Hebrews 12:14",
-      "translation": "WEB",
-      "text": "Follow after peace with all men, and the sanctification without which no man will see the Lord,",
-      "category": "Peace",
+      "reference": "Mateo 8:21",
+      "translation": "RVR1960",
+      "text": "Otro de sus discípulos le dijo: Señor, permíteme que vaya primero y entierre a mi padre.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 223,
-      "reference": "James 3:18",
-      "translation": "WEB",
-      "text": "Now the fruit of righteousness is sown in peace by those who make peace.",
-      "category": "Peace",
+      "reference": "Mateo 8:22",
+      "translation": "RVR1960",
+      "text": "Jesús le dijo: Sígueme; deja que los muertos entierren a sus muertos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 224,
-      "reference": "1 Peter 3:11",
-      "translation": "WEB",
-      "text": "Let him turn away from evil and do good. Let him seek peace and pursue it.",
-      "category": "Peace",
+      "reference": "Mateo 8:23",
+      "translation": "RVR1960",
+      "text": "Y entrando él en la barca, sus discípulos le siguieron.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 225,
-      "reference": "John 3:16",
-      "translation": "WEB",
-      "text": "For God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.",
-      "category": "Salvation",
+      "reference": "Mateo 8:24",
+      "translation": "RVR1960",
+      "text": "Y he aquí que se levantó en el mar una tempestad tan grande que las olas cubrían la barca; pero él dormía.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 226,
-      "reference": "John 3:17",
-      "translation": "WEB",
-      "text": "For God didn’t send his Son into the world to judge the world, but that the world should be saved through him.",
-      "category": "Salvation",
+      "reference": "Mateo 8:25",
+      "translation": "RVR1960",
+      "text": "Y vinieron sus discípulos y le despertaron, diciendo: ¡Señor, sálvanos, que perecemos!",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 227,
-      "reference": "John 3:18",
-      "translation": "WEB",
-      "text": "He who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.",
-      "category": "Salvation",
+      "reference": "Mateo 8:26",
+      "translation": "RVR1960",
+      "text": "Él les dijo: ¿Por qué teméis, hombres de poca fe? Entonces, levantándose, reprendió a los vientos y al mar; y se hizo grande bonanza.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 228,
-      "reference": "John 5:24",
-      "translation": "WEB",
-      "text": "“Most certainly I tell you, he who hears my word and believes him who sent me has eternal life, and doesn’t come into judgment, but has passed out of death into life.",
-      "category": "Salvation",
+      "reference": "Mateo 8:27",
+      "translation": "RVR1960",
+      "text": "Y los hombres se maravillaron, diciendo: ¿Qué hombre es este, que aun los vientos y el mar le obedecen?",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 229,
-      "reference": "John 6:40",
-      "translation": "WEB",
-      "text": "This is the will of the one who sent me, that everyone who sees the Son, and believes in him, should have eternal life; and I will raise him up at the last day.”",
-      "category": "Salvation",
+      "reference": "Mateo 8:28",
+      "translation": "RVR1960",
+      "text": "Cuando llegó a la otra orilla, a la tierra de los gadarenos, vinieron a su encuentro dos endemoniados que salían de los sepulcros, feroces en gran manera, tanto que nadie podía pasar por aquel camino.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 230,
-      "reference": "John 10:9",
-      "translation": "WEB",
-      "text": "I am the door. If anyone enters in by me, he will be saved, and will go in and go out, and will find pasture.",
-      "category": "Salvation",
+      "reference": "Mateo 8:29",
+      "translation": "RVR1960",
+      "text": "Y clamaron diciendo: ¿Qué tienes con nosotros, Jesús, Hijo de Dios? ¿Has venido acá para atormentarnos antes de tiempo?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 231,
+      "reference": "Mateo 8:30",
+      "translation": "RVR1960",
+      "text": "Estaba paciendo lejos de ellos un hato de muchos cerdos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 232,
-      "reference": "John 14:6",
-      "translation": "WEB",
-      "text": "Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father, except through me.",
-      "category": "Salvation",
+      "reference": "Mateo 8:31",
+      "translation": "RVR1960",
+      "text": "Y los demonios le rogaron diciendo: Si nos echas fuera, permítenos ir a aquel hato de cerdos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 233,
-      "reference": "Acts 4:12",
-      "translation": "WEB",
-      "text": "There is salvation in no one else, for there is no other name under heaven that is given among men, by which we must be saved!”",
-      "category": "Salvation",
+      "reference": "Mateo 8:32",
+      "translation": "RVR1960",
+      "text": "Él les dijo: Id. Y ellos salieron, y se fueron a aquel hato de cerdos; y he aquí, todo el hato de cerdos se precipitó en el mar por un despeñadero, y perecieron en las aguas.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 234,
+      "reference": "Mateo 8:33",
+      "translation": "RVR1960",
+      "text": "Y los que los apacentaban huyeron, y viniendo a la ciudad, contaron todas las cosas, y lo que había pasado con los endemoniados.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 235,
-      "reference": "Romans 3:23",
-      "translation": "WEB",
-      "text": "for all have sinned, and fall short of the glory of God;",
-      "category": "Salvation",
+      "reference": "Mateo 8:34",
+      "translation": "RVR1960",
+      "text": "Y toda la ciudad salió al encuentro de Jesús; y cuando le vieron, le rogaron que se fuera de sus contornos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 236,
-      "reference": "Romans 3:24",
-      "translation": "WEB",
-      "text": "being justified freely by his grace through the redemption that is in Christ Jesus;",
-      "category": "Salvation",
+      "reference": "Mateo 9:1",
+      "translation": "RVR1960",
+      "text": "Entonces, entrando Jesús en la barca, pasó al otro lado y vino a su ciudad.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 237,
-      "reference": "Romans 5:8",
-      "translation": "WEB",
-      "text": "But God commends his own love toward us, in that while we were yet sinners, Christ died for us.",
-      "category": "Salvation",
+      "reference": "Mateo 9:2",
+      "translation": "RVR1960",
+      "text": "Y sucedió que le trajeron un paralítico, tendido sobre una cama; y al ver Jesús la fe de ellos, dijo al paralítico: Ten ánimo, hijo; tus pecados te son perdonados.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 238,
-      "reference": "Romans 6:23",
-      "translation": "WEB",
-      "text": "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.",
-      "category": "Salvation",
+      "reference": "Mateo 9:3",
+      "translation": "RVR1960",
+      "text": "Entonces algunos de los escribas decían dentro de sí: Este blasfema.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 239,
-      "reference": "Romans 10:9",
-      "translation": "WEB",
-      "text": "that if you will confess with your mouth that Jesus is Lord, and believe in your heart that God raised him from the dead, you will be saved.",
-      "category": "Salvation",
+      "reference": "Mateo 9:4",
+      "translation": "RVR1960",
+      "text": "Y conociendo Jesús los pensamientos de ellos, dijo: ¿Por qué pensáis mal en vuestros corazones?",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 240,
-      "reference": "Romans 10:10",
-      "translation": "WEB",
-      "text": "For with the heart, one believes resulting in righteousness; and with the mouth confession is made resulting in salvation.",
-      "category": "Salvation",
+      "reference": "Mateo 9:5",
+      "translation": "RVR1960",
+      "text": "Porque, ¿qué es más fácil, decir: Los pecados te son perdonados, o decir: Levántate y anda?",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 241,
-      "reference": "Romans 10:13",
-      "translation": "WEB",
-      "text": "For, “Whoever will call on the name of the Lord will be saved.”",
-      "category": "Salvation",
+      "reference": "Mateo 9:6",
+      "translation": "RVR1960",
+      "text": "Pues para que sepáis que el Hijo del Hombre tiene potestad en la tierra para perdonar pecados (dice entonces al paralítico): Levántate, toma tu cama, y vete a tu casa.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 242,
+      "reference": "Mateo 9:7",
+      "translation": "RVR1960",
+      "text": "Entonces él se levantó y se fue a su casa.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 243,
-      "reference": "Ephesians 2:9",
-      "translation": "WEB",
-      "text": "not of works, that no one would boast.",
-      "category": "Salvation",
+      "reference": "Mateo 9:8",
+      "translation": "RVR1960",
+      "text": "Y la gente, al verlo, se maravilló y glorificó a Dios, que había dado tal potestad a los hombres.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 244,
-      "reference": "Titus 3:5",
-      "translation": "WEB",
-      "text": "not by works of righteousness which we did ourselves, but according to his mercy, he saved us through the washing of regeneration and renewing by the Holy Spirit,",
-      "category": "Salvation",
+      "reference": "Mateo 9:9",
+      "translation": "RVR1960",
+      "text": "Pasando Jesús de allí, vio a un hombre llamado Mateo, que estaba sentado al banco de los tributos públicos, y le dijo: Sígueme. Y se levantó y le siguió.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 245,
-      "reference": "1 Timothy 2:5",
-      "translation": "WEB",
-      "text": "For there is one God, and one mediator between God and men, the man Christ Jesus,",
-      "category": "Salvation",
+      "reference": "Mateo 9:10",
+      "translation": "RVR1960",
+      "text": "Y aconteció que estando él sentado a la mesa en la casa, he aquí que muchos publicanos y pecadores, que habían venido, se sentaron juntamente a la mesa con Jesús y sus discípulos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 246,
-      "reference": "2 Timothy 1:9",
-      "translation": "WEB",
-      "text": "who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before times eternal,",
-      "category": "Salvation",
+      "reference": "Mateo 9:11",
+      "translation": "RVR1960",
+      "text": "Cuando vieron esto los fariseos, dijeron a los discípulos: ¿Por qué come vuestro Maestro con los publicanos y pecadores?",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 247,
-      "reference": "Hebrews 7:25",
-      "translation": "WEB",
-      "text": "Therefore he is also able to save to the uttermost those who draw near to God through him, seeing that he lives forever to make intercession for them.",
-      "category": "Salvation",
+      "reference": "Mateo 9:12",
+      "translation": "RVR1960",
+      "text": "Al oír esto Jesús, les dijo: Los sanos no tienen necesidad de médico, sino los enfermos.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 248,
+      "reference": "Mateo 9:13",
+      "translation": "RVR1960",
+      "text": "Id, pues, y aprended lo que significa: Misericordia quiero, y no sacrificio. Porque no he venido a llamar a justos, sino a pecadores, al arrepentimiento.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 249,
-      "reference": "1 Peter 2:24",
-      "translation": "WEB",
-      "text": "He himself bore our sins in his body on the tree, that we, having died to sins, might live to righteousness. You were healed by his wounds.",
-      "category": "Salvation",
+      "reference": "Mateo 9:14",
+      "translation": "RVR1960",
+      "text": "Entonces vinieron a él los discípulos de Juan, diciendo: ¿Por qué nosotros y los fariseos ayunamos muchas veces, y tus discípulos no ayunan?",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 250,
-      "reference": "1 John 5:11",
-      "translation": "WEB",
-      "text": "The testimony is this, that God gave to us eternal life, and this life is in his Son.",
-      "category": "Salvation",
+      "reference": "Mateo 9:15",
+      "translation": "RVR1960",
+      "text": "Jesús les dijo: ¿Acaso pueden los que están de bodas tener luto entre tanto que el esposo está con ellos? Pero vendrán días cuando el esposo les será quitado, y entonces ayunarán.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 251,
-      "reference": "1 John 5:12",
-      "translation": "WEB",
-      "text": "He who has the Son has the life. He who doesn’t have God’s Son doesn’t have the life.",
-      "category": "Salvation",
+      "reference": "Mateo 9:16",
+      "translation": "RVR1960",
+      "text": "Nadie pone remiendo de paño nuevo en vestido viejo; porque tal remiendo tira del vestido, y se hace peor la rotura.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 252,
-      "reference": "Revelation 3:20",
-      "translation": "WEB",
-      "text": "Behold, I stand at the door and knock. If anyone hears my voice and opens the door, then I will come in to him, and will dine with him, and he with me.",
-      "category": "Salvation",
+      "reference": "Mateo 9:17",
+      "translation": "RVR1960",
+      "text": "Ni echan vino nuevo en odres viejos; de otra manera los odres se rompen, y el vino se derrama, y los odres se pierden; pero echan el vino nuevo en odres nuevos, y lo uno y lo otro se conservan juntamente.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 253,
+      "reference": "Mateo 9:18",
+      "translation": "RVR1960",
+      "text": "Mientras él les decía estas cosas, vino un hombre principal y se postró ante él, diciendo: Mi hija acaba de morir; mas ven y pon tu mano sobre ella, y vivirá.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 254,
+      "reference": "Mateo 9:19",
+      "translation": "RVR1960",
+      "text": "Y se levantó Jesús, y le siguió con sus discípulos.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 255,
+      "reference": "Mateo 9:20",
+      "translation": "RVR1960",
+      "text": "Y he aquí una mujer enferma de flujo de sangre desde hacía doce años, se le acercó por detrás y tocó el borde de su manto;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 256,
+      "reference": "Mateo 9:21",
+      "translation": "RVR1960",
+      "text": "porque decía dentro de sí: Si tocare solamente su manto, seré salva.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 257,
+      "reference": "Mateo 9:22",
+      "translation": "RVR1960",
+      "text": "Pero Jesús, volviéndose y mirándola, dijo: Ten ánimo, hija; tu fe te ha salvado. Y la mujer fue salva desde aquella hora.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 258,
+      "reference": "Mateo 9:23",
+      "translation": "RVR1960",
+      "text": "Al entrar Jesús en la casa del principal, viendo a los que tocaban flautas, y la gente que hacía alboroto,",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 259,
+      "reference": "Mateo 9:24",
+      "translation": "RVR1960",
+      "text": "les dijo: Apartaos, porque la niña no está muerta, sino duerme. Y se burlaban de él.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 260,
+      "reference": "Mateo 9:25",
+      "translation": "RVR1960",
+      "text": "Pero cuando la gente había sido echada fuera, entró, y tomó de la mano a la niña, y ella se levantó.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 261,
+      "reference": "Mateo 9:26",
+      "translation": "RVR1960",
+      "text": "Y se difundió la fama de esto por toda aquella tierra.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 262,
+      "reference": "Mateo 9:27",
+      "translation": "RVR1960",
+      "text": "Pasando Jesús de allí, le siguieron dos ciegos, dando voces y diciendo: ¡Ten misericordia de nosotros, Hijo de David!",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 263,
+      "reference": "Mateo 9:28",
+      "translation": "RVR1960",
+      "text": "Y llegado a la casa, vinieron a él los ciegos; y Jesús les dijo: ¿Creéis que puedo hacer esto? Ellos dijeron: Sí, Señor.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 264,
+      "reference": "Mateo 9:29",
+      "translation": "RVR1960",
+      "text": "Entonces les tocó los ojos, diciendo: Conforme a vuestra fe os sea hecho.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 265,
+      "reference": "Mateo 9:30",
+      "translation": "RVR1960",
+      "text": "Y los ojos de ellos fueron abiertos. Y Jesús les encargó rigurosamente, diciendo: Mirad que nadie lo sepa.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 266,
+      "reference": "Mateo 9:31",
+      "translation": "RVR1960",
+      "text": "Pero salidos ellos, divulgaron la fama de él por toda aquella tierra.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 267,
+      "reference": "Mateo 9:32",
+      "translation": "RVR1960",
+      "text": "Mientras salían ellos, he aquí, le trajeron un mudo, endemoniado.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 268,
+      "reference": "Mateo 9:33",
+      "translation": "RVR1960",
+      "text": "Y echado fuera el demonio, el mudo habló; y la gente se maravillaba, y decía: Nunca se ha visto cosa semejante en Israel.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 269,
+      "reference": "Mateo 9:34",
+      "translation": "RVR1960",
+      "text": "Pero los fariseos decían: Por el príncipe de los demonios echa fuera los demonios.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 270,
+      "reference": "Mateo 9:35",
+      "translation": "RVR1960",
+      "text": "Recorría Jesús todas las ciudades y aldeas, enseñando en las sinagogas de ellos, y predicando el evangelio del reino, y sanando toda enfermedad y toda dolencia en el pueblo.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 271,
+      "reference": "Mateo 9:36",
+      "translation": "RVR1960",
+      "text": "Y al ver las multitudes, tuvo compasión de ellas; porque estaban desamparadas y dispersas como ovejas que no tienen pastor.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 272,
+      "reference": "Mateo 9:37",
+      "translation": "RVR1960",
+      "text": "Entonces dijo a sus discípulos: A la verdad la mies es mucha, mas los obreros pocos.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 273,
+      "reference": "Mateo 9:38",
+      "translation": "RVR1960",
+      "text": "Rogad, pues, al Señor de la mies, que envíe obreros a su mies.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 274,
-      "reference": "Matthew 6:33",
-      "translation": "WEB",
-      "text": "But seek first God’s Kingdom, and his righteousness; and all these things will be given to you as well.",
-      "category": "God's Promises",
+      "reference": "Mateo 10:1",
+      "translation": "RVR1960",
+      "text": "Entonces llamando a sus doce discípulos, les dio autoridad sobre los espíritus inmundos, para que los echasen fuera, y para sanar toda enfermedad y toda dolencia.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 275,
-      "reference": "Matthew 7:11",
-      "translation": "WEB",
-      "text": "If you then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!",
-      "category": "God's Promises",
+      "reference": "Mateo 10:2",
+      "translation": "RVR1960",
+      "text": "Los nombres de los doce apóstoles son estos: primero Simón, llamado Pedro, y Andrés su hermano; Jacobo hijo de Zebedeo, y Juan su hermano;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 276,
+      "reference": "Mateo 10:3",
+      "translation": "RVR1960",
+      "text": "Felipe, Bartolomé, Tomás, Mateo el publicano, Jacobo hijo de Alfeo, Lebeo, por sobrenombre Tadeo,",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 277,
-      "reference": "John 10:28",
-      "translation": "WEB",
-      "text": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand.",
-      "category": "God's Promises",
+      "reference": "Mateo 10:4",
+      "translation": "RVR1960",
+      "text": "Simón el cananista, y Judas Iscariote, el que también le entregó.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 278,
-      "reference": "Romans 8:28",
-      "translation": "WEB",
-      "text": "We know that all things work together for good for those who love God, for those who are called according to his purpose.",
-      "category": "God's Promises",
+      "reference": "Mateo 10:5",
+      "translation": "RVR1960",
+      "text": "A estos doce envió Jesús, y les dio instrucciones, diciendo: Por camino de gentiles no vayáis, y en ciudad de samaritanos no entréis,",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 279,
-      "reference": "Philippians 4:19",
-      "translation": "WEB",
-      "text": "My God will supply every need of yours according to his riches in glory in Christ Jesus.",
-      "category": "God's Promises",
+      "reference": "Mateo 10:6",
+      "translation": "RVR1960",
+      "text": "sino id antes a las ovejas perdidas de la casa de Israel.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 280,
-      "reference": "Hebrews 13:5",
-      "translation": "WEB",
-      "text": "Be free from the love of money, content with such things as you have, for he has said, “I will in no way leave you, neither will I in any way forsake you.”",
-      "category": "God's Promises",
+      "reference": "Mateo 10:7",
+      "translation": "RVR1960",
+      "text": "Y yendo, predicad, diciendo: El reino de los cielos se ha acercado.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 281,
+      "reference": "Mateo 10:8",
+      "translation": "RVR1960",
+      "text": "Sanad enfermos, limpiad leprosos, resucitad muertos, echad fuera demonios; de gracia recibisteis, dad de gracia.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 282,
+      "reference": "Mateo 10:9",
+      "translation": "RVR1960",
+      "text": "No os proveáis de oro, ni plata, ni cobre en vuestros cintos;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 283,
+      "reference": "Mateo 10:10",
+      "translation": "RVR1960",
+      "text": "ni de alforja para el camino, ni de dos túnicas, ni de calzado, ni de bordón; porque el obrero es digno de su alimento.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 284,
+      "reference": "Mateo 10:11",
+      "translation": "RVR1960",
+      "text": "Mas en cualquier ciudad o aldea donde entréis, informaos quién en ella sea digno, y posad allí hasta que salgáis.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 285,
+      "reference": "Mateo 10:12",
+      "translation": "RVR1960",
+      "text": "Y al entrar en la casa, saludadla.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 286,
+      "reference": "Mateo 10:13",
+      "translation": "RVR1960",
+      "text": "Y si la casa fuere digna, vuestra paz vendrá sobre ella; mas si no fuere digna, vuestra paz se volverá a vosotros.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 287,
+      "reference": "Mateo 10:14",
+      "translation": "RVR1960",
+      "text": "Y si alguno no os recibiere, ni oyere vuestras palabras, salid de aquella casa o ciudad, y sacudid el polvo de vuestros pies.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 288,
+      "reference": "Mateo 10:15",
+      "translation": "RVR1960",
+      "text": "De cierto os digo que en el día del juicio, será más tolerable el castigo para la tierra de Sodoma y de Gomorra, que para aquella ciudad.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 289,
+      "reference": "Mateo 10:16",
+      "translation": "RVR1960",
+      "text": "He aquí, yo os envío como a ovejas en medio de lobos; sed, pues, prudentes como serpientes, y sencillos como palomas.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 290,
+      "reference": "Mateo 10:17",
+      "translation": "RVR1960",
+      "text": "Y guardaos de los hombres, porque os entregarán a los concilios, y en sus sinagogas os azotarán;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 291,
+      "reference": "Mateo 10:18",
+      "translation": "RVR1960",
+      "text": "y aun ante gobernadores y reyes seréis llevados por causa de mí, para testimonio a ellos y a los gentiles.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 292,
+      "reference": "Mateo 10:19",
+      "translation": "RVR1960",
+      "text": "Mas cuando os entreguen, no os preocupéis por cómo o qué hablaréis; porque en aquella hora os será dado lo que habéis de hablar.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 293,
+      "reference": "Mateo 10:20",
+      "translation": "RVR1960",
+      "text": "Porque no sois vosotros los que habláis, sino el Espíritu de vuestro Padre que habla en vosotros.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 294,
+      "reference": "Mateo 10:21",
+      "translation": "RVR1960",
+      "text": "El hermano entregará a la muerte al hermano, y el padre al hijo; y los hijos se levantarán contra los padres, y los harán morir.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 295,
+      "reference": "Mateo 10:22",
+      "translation": "RVR1960",
+      "text": "Y seréis aborrecidos de todos por causa de mi nombre; mas el que persevere hasta el fin, este será salvo.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 296,
+      "reference": "Mateo 10:23",
+      "translation": "RVR1960",
+      "text": "Cuando os persigan en esta ciudad, huid a la otra; porque de cierto os digo, que no acabaréis de recorrer todas las ciudades de Israel, antes que venga el Hijo del Hombre.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 297,
+      "reference": "Mateo 10:24",
+      "translation": "RVR1960",
+      "text": "El discípulo no es más que su maestro, ni el siervo más que su señor.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 298,
-      "reference": "Matthew 5:16",
-      "translation": "WEB",
-      "text": "Even so, let your light shine before men; that they may see your good works, and glorify your Father who is in heaven.",
-      "category": "Gratitude and Joy",
+      "reference": "Mateo 10:25",
+      "translation": "RVR1960",
+      "text": "Bástale al discípulo ser como su maestro, y al siervo como su señor. Si al padre de familia llamaron Beelzebú, ¿cuánto más a los de su casa?",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 299,
-      "reference": "Philippians 4:4",
-      "translation": "WEB",
-      "text": "Rejoice in the Lord always! Again I will say, “Rejoice!”",
-      "category": "Gratitude and Joy",
+      "reference": "Mateo 10:26",
+      "translation": "RVR1960",
+      "text": "Así que, no los temáis; porque nada hay encubierto, que no haya de ser manifestado; ni oculto, que no haya de saberse.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 300,
-      "reference": "1 Thessalonians 5:16",
-      "translation": "WEB",
-      "text": "Always rejoice.",
-      "category": "Gratitude and Joy",
+      "reference": "Mateo 10:27",
+      "translation": "RVR1960",
+      "text": "Lo que os digo en tinieblas, decidlo en la luz; y lo que oís al oído, proclamadlo desde las azoteas.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 301,
-      "reference": "1 Thessalonians 5:18",
-      "translation": "WEB",
-      "text": "In everything give thanks, for this is the will of God in Christ Jesus toward you.",
-      "category": "Gratitude and Joy",
+      "reference": "Mateo 10:28",
+      "translation": "RVR1960",
+      "text": "Y no temáis a los que matan el cuerpo, mas el alma no pueden matar; temed más bien a aquel que puede destruir el alma y el cuerpo en el infierno.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 302,
-      "reference": "Matthew 6:21",
-      "translation": "WEB",
-      "text": "for where your treasure is, there your heart will be also.",
-      "category": "Gratitude and Joy",
+      "reference": "Mateo 10:29",
+      "translation": "RVR1960",
+      "text": "¿No se venden dos pajarillos por un cuarto? Con todo, ni uno de ellos cae a tierra sin vuestro Padre.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 303,
-      "reference": "Colossians 3:17",
-      "translation": "WEB",
-      "text": "Whatever you do, in word or in deed, do all in the name of the Lord Jesus, giving thanks to God the Father, through him.",
-      "category": "Gratitude and Joy",
+      "reference": "Mateo 10:30",
+      "translation": "RVR1960",
+      "text": "Pues aun vuestros cabellos están todos contados.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 304,
-      "reference": "James 1:17",
-      "translation": "WEB",
-      "text": "Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom can be no variation, nor turning shadow.",
-      "category": "Gratitude and Joy",
+      "reference": "Mateo 10:31",
+      "translation": "RVR1960",
+      "text": "Así que, no temáis; más valéis vosotros que muchos pajarillos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 305,
-      "reference": "Luke 10:20",
-      "translation": "WEB",
-      "text": "Nevertheless, don’t rejoice in this, that the spirits are subject to you, but rejoice that your names are written in heaven.”",
-      "category": "Gratitude and Joy",
+      "reference": "Mateo 10:32",
+      "translation": "RVR1960",
+      "text": "A cualquiera, pues, que me confiese delante de los hombres, yo también le confesaré delante de mi Padre que está en los cielos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 306,
-      "reference": "Luke 12:32",
-      "translation": "WEB",
-      "text": "Don’t be afraid, little flock, for it is your Father’s good pleasure to give you the Kingdom.",
-      "category": "Gratitude and Joy",
+      "reference": "Mateo 10:33",
+      "translation": "RVR1960",
+      "text": "Y a cualquiera que me niegue delante de los hombres, yo también le negaré delante de mi Padre que está en los cielos.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     },
     {
       "id": 307,
-      "reference": "John 15:11",
-      "translation": "WEB",
-      "text": "I have spoken these things to you, that my joy may remain in you, and that your joy may be made full.",
-      "category": "Gratitude and Joy",
+      "reference": "Mateo 10:34",
+      "translation": "RVR1960",
+      "text": "No penséis que he venido para traer paz a la tierra; no he venido para traer paz, sino espada.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 308,
+      "reference": "Mateo 10:35",
+      "translation": "RVR1960",
+      "text": "Porque he venido para poner en disensión al hombre contra su padre, a la hija contra su madre, y a la nuera contra su suegra;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 309,
+      "reference": "Mateo 10:36",
+      "translation": "RVR1960",
+      "text": "y los enemigos del hombre serán los de su casa.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 310,
+      "reference": "Mateo 10:37",
+      "translation": "RVR1960",
+      "text": "El que ama a padre o madre más que a mí, no es digno de mí; el que ama a hijo o hija más que a mí, no es digno de mí;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 311,
+      "reference": "Mateo 10:38",
+      "translation": "RVR1960",
+      "text": "y el que no toma su cruz y sigue en pos de mí, no es digno de mí.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 312,
+      "reference": "Mateo 10:39",
+      "translation": "RVR1960",
+      "text": "El que halla su vida, la perderá; y el que pierde su vida por causa de mí, la hallará.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 313,
+      "reference": "Mateo 10:40",
+      "translation": "RVR1960",
+      "text": "El que a vosotros recibe, a mí me recibe; y el que me recibe a mí, recibe al que me envió.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 314,
+      "reference": "Mateo 10:41",
+      "translation": "RVR1960",
+      "text": "El que recibe a un profeta por cuanto es profeta, recompensa de profeta recibirá; y el que recibe a un justo por cuanto es justo, recompensa de justo recibirá.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 315,
+      "reference": "Mateo 10:42",
+      "translation": "RVR1960",
+      "text": "Y cualquiera que dé a uno de estos pequeñitos un vaso de agua fría solamente, por cuanto es discípulo, de cierto os digo que no perderá su recompensa.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 316,
+      "reference": "Mateo 11:1",
+      "translation": "RVR1960",
+      "text": "Cuando Jesús terminó de dar instrucciones a sus doce discípulos, se fue de allí a enseñar y a predicar en las ciudades de ellos.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 317,
+      "reference": "Mateo 11:2",
+      "translation": "RVR1960",
+      "text": "Y al oír Juan, en la cárcel, los hechos de Cristo, le envió dos de sus discípulos,",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 318,
+      "reference": "Mateo 11:3",
+      "translation": "RVR1960",
+      "text": "para preguntarle: ¿Eres tú aquel que había de venir, o esperaremos a otro?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 319,
+      "reference": "Mateo 11:4",
+      "translation": "RVR1960",
+      "text": "Respondiendo Jesús, les dijo: Id, y haced saber a Juan las cosas que oís y veis.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 320,
+      "reference": "Mateo 11:5",
+      "translation": "RVR1960",
+      "text": "Los ciegos ven, los cojos andan, los leprosos son limpiados, los sordos oyen, los muertos son resucitados, y a los pobres es anunciado el evangelio;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 321,
+      "reference": "Mateo 11:6",
+      "translation": "RVR1960",
+      "text": "y bienaventurado es el que no halle tropiezo en mí.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 322,
+      "reference": "Mateo 11:7",
+      "translation": "RVR1960",
+      "text": "Mientras ellos se iban, comenzó Jesús a decir de Juan a la gente: ¿Qué salisteis a ver al desierto? ¿Una caña sacudida por el viento?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 323,
+      "reference": "Mateo 11:8",
+      "translation": "RVR1960",
+      "text": "¿O qué salisteis a ver? ¿A un hombre cubierto de vestiduras delicadas? He aquí, los que llevan vestiduras delicadas, en las casas de los reyes están.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 324,
+      "reference": "Mateo 11:9",
+      "translation": "RVR1960",
+      "text": "Pero ¿qué salisteis a ver? ¿A un profeta? Sí, os digo, y más que profeta.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 325,
+      "reference": "Mateo 11:10",
+      "translation": "RVR1960",
+      "text": "Porque este es de quien está escrito: He aquí, yo envío mi mensajero delante de tu faz, El cual preparará tu camino delante de ti.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 326,
+      "reference": "Mateo 11:11",
+      "translation": "RVR1960",
+      "text": "De cierto os digo: Entre los que nacen de mujer no se ha levantado otro mayor que Juan el Bautista; pero el más pequeño en el reino de los cielos, mayor es que él.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 327,
+      "reference": "Mateo 11:12",
+      "translation": "RVR1960",
+      "text": "Desde los días de Juan el Bautista hasta ahora, el reino de los cielos sufre violencia, y los violentos lo arrebatan.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 328,
+      "reference": "Mateo 11:13",
+      "translation": "RVR1960",
+      "text": "Porque todos los profetas y la ley profetizaron hasta Juan.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 329,
+      "reference": "Mateo 11:14",
+      "translation": "RVR1960",
+      "text": "Y si queréis recibirlo, él es aquel Elías que había de venir.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 330,
+      "reference": "Mateo 11:15",
+      "translation": "RVR1960",
+      "text": "El que tiene oídos para oír, oiga.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 331,
+      "reference": "Mateo 11:16",
+      "translation": "RVR1960",
+      "text": "Mas ¿a qué compararé esta generación? Es semejante a los muchachos que se sientan en las plazas, y dan voces a sus compañeros,",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 332,
+      "reference": "Mateo 11:17",
+      "translation": "RVR1960",
+      "text": "diciendo: Os tocamos flauta, y no bailasteis; os endechamos, y no lamentasteis.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 333,
+      "reference": "Mateo 11:18",
+      "translation": "RVR1960",
+      "text": "Porque vino Juan, que ni comía ni bebía, y dicen: Demonio tiene.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 334,
+      "reference": "Mateo 11:19",
+      "translation": "RVR1960",
+      "text": "Vino el Hijo del Hombre, que come y bebe, y dicen: He aquí un hombre comilón, y bebedor de vino, amigo de publicanos y de pecadores. Pero la sabiduría es justificada por sus hijos.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 335,
+      "reference": "Mateo 11:20",
+      "translation": "RVR1960",
+      "text": "Entonces comenzó a reconvenir a las ciudades en las cuales había hecho muchos de sus milagros, porque no se habían arrepentido, diciendo:",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 336,
+      "reference": "Mateo 11:21",
+      "translation": "RVR1960",
+      "text": "¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! Porque si en Tiro y en Sidón se hubieran hecho los milagros que han sido hechos en vosotras, tiempo ha que se hubieran arrepentido en cilicio y en ceniza.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 337,
+      "reference": "Mateo 11:22",
+      "translation": "RVR1960",
+      "text": "Por tanto os digo que en el día del juicio, será más tolerable el castigo para Tiro y para Sidón, que para vosotras.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 338,
+      "reference": "Mateo 11:23",
+      "translation": "RVR1960",
+      "text": "Y tú, Capernaum, que eres levantada hasta el cielo, hasta el Hades serás abatida; porque si en Sodoma se hubieran hecho los milagros que han sido hechos en ti, habría permanecido hasta el día de hoy.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 339,
+      "reference": "Mateo 11:24",
+      "translation": "RVR1960",
+      "text": "Por tanto os digo que en el día del juicio, será más tolerable el castigo para la tierra de Sodoma, que para ti.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 340,
+      "reference": "Mateo 11:25",
+      "translation": "RVR1960",
+      "text": "En aquel tiempo, respondiendo Jesús, dijo: Te alabo, Padre, Señor del cielo y de la tierra, porque escondiste estas cosas de los sabios y de los entendidos, y las revelaste a los niños.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 341,
+      "reference": "Mateo 11:26",
+      "translation": "RVR1960",
+      "text": "Sí, Padre, porque así te agradó.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 342,
+      "reference": "Mateo 11:27",
+      "translation": "RVR1960",
+      "text": "Todas las cosas me fueron entregadas por mi Padre; y nadie conoce al Hijo, sino el Padre, ni al Padre conoce alguno, sino el Hijo, y aquel a quien el Hijo lo quiera revelar.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 343,
+      "reference": "Mateo 11:28",
+      "translation": "RVR1960",
+      "text": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 344,
+      "reference": "Mateo 11:29",
+      "translation": "RVR1960",
+      "text": "Llevad mi yugo sobre vosotros, y aprended de mí, que soy manso y humilde de corazón; y hallaréis descanso para vuestras almas;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 345,
+      "reference": "Mateo 11:30",
+      "translation": "RVR1960",
+      "text": "porque mi yugo es fácil, y ligera mi carga.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 346,
+      "reference": "Mateo 12:1",
+      "translation": "RVR1960",
+      "text": "En aquel tiempo iba Jesús por los sembrados en un día de reposo; y sus discípulos tuvieron hambre, y comenzaron a arrancar espigas y a comer.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 347,
+      "reference": "Mateo 12:2",
+      "translation": "RVR1960",
+      "text": "Viéndolo los fariseos, le dijeron: He aquí tus discípulos hacen lo que no es lícito hacer en el día de reposo.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 348,
+      "reference": "Mateo 12:3",
+      "translation": "RVR1960",
+      "text": "Pero él les dijo: ¿No habéis leído lo que hizo David, cuando él y los que con él estaban tuvieron hambre;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 349,
+      "reference": "Mateo 12:4",
+      "translation": "RVR1960",
+      "text": "cómo entró en la casa de Dios, y comió los panes de la proposición, que no les era lícito comer ni a él ni a los que con él estaban, sino solamente a los sacerdotes?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 350,
+      "reference": "Mateo 12:5",
+      "translation": "RVR1960",
+      "text": "¿O no habéis leído en la ley, cómo en el día de reposo los sacerdotes en el templo profanan el día de reposo, y son sin culpa?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 351,
+      "reference": "Mateo 12:6",
+      "translation": "RVR1960",
+      "text": "Pues os digo que uno mayor que el templo está aquí.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 352,
+      "reference": "Mateo 12:7",
+      "translation": "RVR1960",
+      "text": "Y si supieseis qué significa: Misericordia quiero, y no sacrificio, no condenaríais a los inocentes;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 353,
+      "reference": "Mateo 12:8",
+      "translation": "RVR1960",
+      "text": "porque el Hijo del Hombre es Señor del día de reposo.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 354,
+      "reference": "Mateo 12:9",
+      "translation": "RVR1960",
+      "text": "Pasando de allí, vino a la sinagoga de ellos.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 355,
+      "reference": "Mateo 12:10",
+      "translation": "RVR1960",
+      "text": "Y he aquí había allí uno que tenía seca una mano; y preguntaron a Jesús, para poder acusarle: ¿Es lícito sanar en el día de reposo?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 356,
+      "reference": "Mateo 12:11",
+      "translation": "RVR1960",
+      "text": "Él les dijo: ¿Qué hombre habrá de vosotros, que tenga una oveja, y si esta cayere en un hoyo en día de reposo, no le eche mano, y la levante?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 357,
+      "reference": "Mateo 12:12",
+      "translation": "RVR1960",
+      "text": "Pues ¿cuánto más vale un hombre que una oveja? Por consiguiente, es lícito hacer el bien en los días de reposo.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 358,
+      "reference": "Mateo 12:13",
+      "translation": "RVR1960",
+      "text": "Entonces dijo a aquel hombre: Extiende tu mano. Y él la extendió, y le fue restaurada sana como la otra.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 359,
+      "reference": "Mateo 12:14",
+      "translation": "RVR1960",
+      "text": "Y salidos los fariseos, tuvieron consejo contra Jesús para destruirle.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 360,
+      "reference": "Mateo 12:15",
+      "translation": "RVR1960",
+      "text": "Sabiendo esto Jesús, se apartó de allí; y le siguió mucha gente, y sanaba a todos,",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 361,
+      "reference": "Mateo 12:16",
+      "translation": "RVR1960",
+      "text": "y les encargaba rigurosamente que no le descubriesen;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 362,
+      "reference": "Mateo 12:17",
+      "translation": "RVR1960",
+      "text": "para que se cumpliese lo dicho por el profeta Isaías, cuando dijo:",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 363,
+      "reference": "Mateo 12:18",
+      "translation": "RVR1960",
+      "text": "He aquí mi siervo, a quien he escogido; Mi Amado, en quien se agrada mi alma; Pondré mi Espíritu sobre él, Y a los gentiles anunciará juicio.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 364,
+      "reference": "Mateo 12:19",
+      "translation": "RVR1960",
+      "text": "No contenderá, ni voceará, Ni nadie oirá en las calles su voz.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 365,
+      "reference": "Mateo 12:20",
+      "translation": "RVR1960",
+      "text": "La caña cascada no quebrará, Y el pábilo que humea no apagará, Hasta que saque a victoria el juicio.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 366,
+      "reference": "Mateo 12:21",
+      "translation": "RVR1960",
+      "text": "Y en su nombre esperarán los gentiles.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 367,
+      "reference": "Mateo 12:22",
+      "translation": "RVR1960",
+      "text": "Entonces fue traído a él un endemoniado, ciego y mudo; y le sanó, de tal manera que el ciego y mudo veía y hablaba.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 368,
+      "reference": "Mateo 12:23",
+      "translation": "RVR1960",
+      "text": "Y toda la gente estaba atónita, y decía: ¿Será este aquel Hijo de David?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 369,
+      "reference": "Mateo 12:24",
+      "translation": "RVR1960",
+      "text": "Mas los fariseos, al oírlo, decían: Este no echa fuera los demonios sino por Beelzebú, príncipe de los demonios.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 370,
+      "reference": "Mateo 12:25",
+      "translation": "RVR1960",
+      "text": "Sabiendo Jesús los pensamientos de ellos, les dijo: Todo reino dividido contra sí mismo, es asolado, y toda ciudad o casa dividida contra sí misma, no permanecerá.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 371,
+      "reference": "Mateo 12:26",
+      "translation": "RVR1960",
+      "text": "Y si Satanás echa fuera a Satanás, contra sí mismo está dividido; ¿cómo, pues, permanecerá su reino?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 372,
+      "reference": "Mateo 12:27",
+      "translation": "RVR1960",
+      "text": "Y si yo echo fuera los demonios por Beelzebú, ¿por quién los echan vuestros hijos? Por tanto, ellos serán vuestros jueces.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 373,
+      "reference": "Mateo 12:28",
+      "translation": "RVR1960",
+      "text": "Pero si yo por el Espíritu de Dios echo fuera los demonios, ciertamente ha llegado a vosotros el reino de Dios.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 374,
+      "reference": "Mateo 12:29",
+      "translation": "RVR1960",
+      "text": "Porque ¿cómo puede alguno entrar en la casa del hombre fuerte, y saquear sus bienes, si primero no le ata? Y entonces podrá saquear su casa.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 375,
+      "reference": "Mateo 12:30",
+      "translation": "RVR1960",
+      "text": "El que no es conmigo, contra mí es; y el que conmigo no recoge, desparrama.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 376,
+      "reference": "Mateo 12:31",
+      "translation": "RVR1960",
+      "text": "Por tanto os digo: Todo pecado y blasfemia será perdonado a los hombres; mas la blasfemia contra el Espíritu no les será perdonada.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 377,
+      "reference": "Mateo 12:32",
+      "translation": "RVR1960",
+      "text": "A cualquiera que dijere alguna palabra contra el Hijo del Hombre, le será perdonado; pero al que hable contra el Espíritu Santo, no le será perdonado, ni en este siglo ni en el venidero.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 378,
+      "reference": "Mateo 12:33",
+      "translation": "RVR1960",
+      "text": "O haced el árbol bueno, y su fruto bueno, o haced el árbol malo, y su fruto malo; porque por el fruto se conoce el árbol.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 379,
+      "reference": "Mateo 12:34",
+      "translation": "RVR1960",
+      "text": "¡Generación de víboras! ¿Cómo podéis hablar lo bueno, siendo malos? Porque de la abundancia del corazón habla la boca.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 380,
+      "reference": "Mateo 12:35",
+      "translation": "RVR1960",
+      "text": "El hombre bueno, del buen tesoro del corazón saca buenas cosas; y el hombre malo, del mal tesoro saca malas cosas.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 381,
+      "reference": "Mateo 12:36",
+      "translation": "RVR1960",
+      "text": "Mas yo os digo que de toda palabra ociosa que hablen los hombres, de ella darán cuenta en el día del juicio.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 382,
+      "reference": "Mateo 12:37",
+      "translation": "RVR1960",
+      "text": "Porque por tus palabras serás justificado, y por tus palabras serás condenado.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 383,
+      "reference": "Mateo 12:38",
+      "translation": "RVR1960",
+      "text": "Entonces respondieron algunos de los escribas y de los fariseos, diciendo: Maestro, deseamos ver de ti señal.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 384,
+      "reference": "Mateo 12:39",
+      "translation": "RVR1960",
+      "text": "Él respondió y les dijo: La generación mala y adúltera demanda señal; pero señal no le será dada, sino la señal del profeta Jonás.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 385,
+      "reference": "Mateo 12:40",
+      "translation": "RVR1960",
+      "text": "Porque como estuvo Jonás en el vientre del gran pez tres días y tres noches, así estará el Hijo del Hombre en el corazón de la tierra tres días y tres noches.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 386,
+      "reference": "Mateo 12:41",
+      "translation": "RVR1960",
+      "text": "Los hombres de Nínive se levantarán en el juicio con esta generación, y la condenarán; porque ellos se arrepintieron a la predicación de Jonás, y he aquí más que Jonás en este lugar.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 387,
+      "reference": "Mateo 12:42",
+      "translation": "RVR1960",
+      "text": "La reina del Sur se levantará en el juicio con esta generación, y la condenará; porque ella vino de los fines de la tierra para oír la sabiduría de Salomón, y he aquí más que Salomón en este lugar.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 388,
+      "reference": "Mateo 12:43",
+      "translation": "RVR1960",
+      "text": "Cuando el espíritu inmundo sale del hombre, anda por lugares secos, buscando reposo, y no lo halla.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 389,
+      "reference": "Mateo 12:44",
+      "translation": "RVR1960",
+      "text": "Entonces dice: Volveré a mi casa de donde salí; y cuando llega, la halla desocupada, barrida y adornada.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 390,
+      "reference": "Mateo 12:45",
+      "translation": "RVR1960",
+      "text": "Entonces va, y toma consigo otros siete espíritus peores que él, y entrados, moran allí; y el postrer estado de aquel hombre viene a ser peor que el primero. Así también acontecerá a esta mala generación.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 391,
+      "reference": "Mateo 12:46",
+      "translation": "RVR1960",
+      "text": "Mientras él aún hablaba a la gente, he aquí su madre y sus hermanos estaban afuera, y le querían hablar.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 392,
+      "reference": "Mateo 12:47",
+      "translation": "RVR1960",
+      "text": "Y le dijo uno: He aquí tu madre y tus hermanos están afuera, y te quieren hablar.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 393,
+      "reference": "Mateo 12:48",
+      "translation": "RVR1960",
+      "text": "Respondiendo él al que le decía esto, dijo: ¿Quién es mi madre, y quiénes son mis hermanos?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 394,
+      "reference": "Mateo 12:49",
+      "translation": "RVR1960",
+      "text": "Y extendiendo su mano hacia sus discípulos, dijo: He aquí mi madre y mis hermanos.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 395,
+      "reference": "Mateo 12:50",
+      "translation": "RVR1960",
+      "text": "Porque todo aquel que hace la voluntad de mi Padre que está en los cielos, ese es mi hermano, y hermana, y madre.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 396,
+      "reference": "Mateo 13:1",
+      "translation": "RVR1960",
+      "text": "Aquel día salió Jesús de la casa y se sentó junto al mar.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 397,
+      "reference": "Mateo 13:2",
+      "translation": "RVR1960",
+      "text": "Y se le juntó mucha gente; y entrando él en la barca, se sentó, y toda la gente estaba en la playa.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 398,
+      "reference": "Mateo 13:3",
+      "translation": "RVR1960",
+      "text": "Y les habló muchas cosas por parábolas, diciendo: He aquí, el sembrador salió a sembrar.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 399,
+      "reference": "Mateo 13:4",
+      "translation": "RVR1960",
+      "text": "Y mientras sembraba, parte de la semilla cayó junto al camino; y vinieron las aves y la comieron.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 400,
+      "reference": "Mateo 13:5",
+      "translation": "RVR1960",
+      "text": "Parte cayó en pedregales, donde no había mucha tierra; y brotó pronto, porque no tenía profundidad de tierra;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 401,
+      "reference": "Mateo 13:6",
+      "translation": "RVR1960",
+      "text": "pero salido el sol, se quemó; y porque no tenía raíz, se secó.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 402,
+      "reference": "Mateo 13:7",
+      "translation": "RVR1960",
+      "text": "Y parte cayó entre espinos; y los espinos crecieron, y la ahogaron.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 403,
+      "reference": "Mateo 13:8",
+      "translation": "RVR1960",
+      "text": "Pero parte cayó en buena tierra, y dio fruto, cuál a ciento, cuál a sesenta, y cuál a treinta por uno.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 404,
+      "reference": "Mateo 13:9",
+      "translation": "RVR1960",
+      "text": "El que tiene oídos para oír, oiga.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 405,
+      "reference": "Mateo 13:10",
+      "translation": "RVR1960",
+      "text": "Entonces, acercándose los discípulos, le dijeron: ¿Por qué les hablas por parábolas?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 406,
+      "reference": "Mateo 13:11",
+      "translation": "RVR1960",
+      "text": "Él respondiendo, les dijo: Porque a vosotros os es dado saber los misterios del reino de los cielos; mas a ellos no les es dado.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 407,
+      "reference": "Mateo 13:12",
+      "translation": "RVR1960",
+      "text": "Porque a cualquiera que tiene, se le dará, y tendrá más; pero al que no tiene, aun lo que tiene le será quitado.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 408,
+      "reference": "Mateo 13:13",
+      "translation": "RVR1960",
+      "text": "Por eso les hablo por parábolas: porque viendo no ven, y oyendo no oyen, ni entienden.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 409,
+      "reference": "Mateo 13:14",
+      "translation": "RVR1960",
+      "text": "De manera que se cumple en ellos la profecía de Isaías, que dijo: De oído oiréis, y no entenderéis; Y viendo veréis, y no percibiréis.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 410,
+      "reference": "Mateo 13:15",
+      "translation": "RVR1960",
+      "text": "Porque el corazón de este pueblo se ha engrosado, Y con los oídos oyen pesadamente, Y han cerrado sus ojos; Para que no vean con los ojos, Y oigan con los oídos, Y con el corazón entiendan, Y se conviertan, Y yo los sane.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 411,
+      "reference": "Mateo 13:16",
+      "translation": "RVR1960",
+      "text": "Pero bienaventurados vuestros ojos, porque ven; y vuestros oídos, porque oyen.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 412,
+      "reference": "Mateo 13:17",
+      "translation": "RVR1960",
+      "text": "Porque de cierto os digo, que muchos profetas y justos desearon ver lo que veis, y no lo vieron; y oír lo que oís, y no lo oyeron.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 413,
+      "reference": "Mateo 13:18",
+      "translation": "RVR1960",
+      "text": "Oíd, pues, vosotros la parábola del sembrador:",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 414,
+      "reference": "Mateo 13:19",
+      "translation": "RVR1960",
+      "text": "Cuando alguno oye la palabra del reino y no la entiende, viene el malo, y arrebata lo que fue sembrado en su corazón. Este es el que fue sembrado junto al camino.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 415,
+      "reference": "Mateo 13:20",
+      "translation": "RVR1960",
+      "text": "Y el que fue sembrado en pedregales, este es el que oye la palabra, y al momento la recibe con gozo;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 416,
+      "reference": "Mateo 13:21",
+      "translation": "RVR1960",
+      "text": "pero no tiene raíz en sí, sino que es de corta duración, pues al venir la aflicción o la persecución por causa de la palabra, luego tropieza.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 417,
+      "reference": "Mateo 13:22",
+      "translation": "RVR1960",
+      "text": "El que fue sembrado entre espinos, este es el que oye la palabra, pero el afán de este siglo y el engaño de las riquezas ahogan la palabra, y se hace infructuosa.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 418,
+      "reference": "Mateo 13:23",
+      "translation": "RVR1960",
+      "text": "Mas el que fue sembrado en buena tierra, este es el que oye y entiende la palabra, y da fruto; y produce a ciento, a sesenta, y a treinta por uno.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 419,
+      "reference": "Mateo 13:24",
+      "translation": "RVR1960",
+      "text": "Les refirió otra parábola, diciendo: El reino de los cielos es semejante a un hombre que sembró buena semilla en su campo;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 420,
+      "reference": "Mateo 13:25",
+      "translation": "RVR1960",
+      "text": "pero mientras dormían los hombres, vino su enemigo y sembró cizaña entre el trigo, y se fue.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 421,
+      "reference": "Mateo 13:26",
+      "translation": "RVR1960",
+      "text": "Y cuando salió la hierba y dio fruto, entonces apareció también la cizaña.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 422,
+      "reference": "Mateo 13:27",
+      "translation": "RVR1960",
+      "text": "Vinieron entonces los siervos del padre de familia y le dijeron: Señor, ¿no sembraste buena semilla en tu campo? ¿De dónde, pues, tiene cizaña?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 423,
+      "reference": "Mateo 13:28",
+      "translation": "RVR1960",
+      "text": "Él les dijo: Un enemigo ha hecho esto. Y los siervos le dijeron: ¿Quieres, pues, que vayamos y la arranquemos?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 424,
+      "reference": "Mateo 13:29",
+      "translation": "RVR1960",
+      "text": "Él les dijo: No, no sea que al arrancar la cizaña, arranquéis también con ella el trigo.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 425,
+      "reference": "Mateo 13:30",
+      "translation": "RVR1960",
+      "text": "Dejad crecer juntamente lo uno y lo otro hasta la siega; y al tiempo de la siega yo diré a los segadores: Recoged primero la cizaña, y atadla en manojos para quemarla; pero recoged el trigo en mi granero.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 426,
+      "reference": "Mateo 13:31",
+      "translation": "RVR1960",
+      "text": "Otra parábola les refirió, diciendo: El reino de los cielos es semejante al grano de mostaza, que un hombre tomó y sembró en su campo;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 427,
+      "reference": "Mateo 13:32",
+      "translation": "RVR1960",
+      "text": "el cual a la verdad es la más pequeña de todas las semillas; pero cuando ha crecido, es la mayor de las hortalizas, y se hace árbol, de tal manera que vienen las aves del cielo y hacen nidos en sus ramas.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 428,
+      "reference": "Mateo 13:33",
+      "translation": "RVR1960",
+      "text": "Otra parábola les dijo: El reino de los cielos es semejante a la levadura que tomó una mujer, y escondió en tres medidas de harina, hasta que todo fue leudado.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 429,
+      "reference": "Mateo 13:34",
+      "translation": "RVR1960",
+      "text": "Todo esto habló Jesús por parábolas a la gente, y sin parábolas no les hablaba;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 430,
+      "reference": "Mateo 13:35",
+      "translation": "RVR1960",
+      "text": "para que se cumpliese lo dicho por el profeta, cuando dijo: Abriré en parábolas mi boca; Declararé cosas escondidas desde la fundación del mundo.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 431,
+      "reference": "Mateo 13:36",
+      "translation": "RVR1960",
+      "text": "Entonces, despedida la gente, entró Jesús en la casa; y acercándose a él sus discípulos, le dijeron: Explícanos la parábola de la cizaña del campo.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 432,
+      "reference": "Mateo 13:37",
+      "translation": "RVR1960",
+      "text": "Respondiendo él, les dijo: El que siembra la buena semilla es el Hijo del Hombre.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 433,
+      "reference": "Mateo 13:38",
+      "translation": "RVR1960",
+      "text": "El campo es el mundo; la buena semilla son los hijos del reino, y la cizaña son los hijos del malo.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 434,
+      "reference": "Mateo 13:39",
+      "translation": "RVR1960",
+      "text": "El enemigo que la sembró es el diablo; la siega es el fin del siglo; y los segadores son los ángeles.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 435,
+      "reference": "Mateo 13:40",
+      "translation": "RVR1960",
+      "text": "De manera que como se arranca la cizaña, y se quema en el fuego, así será en el fin de este siglo.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 436,
+      "reference": "Mateo 13:41",
+      "translation": "RVR1960",
+      "text": "Enviará el Hijo del Hombre a sus ángeles, y recogerán de su reino a todos los que sirven de tropiezo, y a los que hacen iniquidad,",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 437,
+      "reference": "Mateo 13:42",
+      "translation": "RVR1960",
+      "text": "y los echarán en el horno de fuego; allí será el lloro y el crujir de dientes.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 438,
+      "reference": "Mateo 13:43",
+      "translation": "RVR1960",
+      "text": "Entonces los justos resplandecerán como el sol en el reino de su Padre. El que tiene oídos para oír, oiga.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 439,
+      "reference": "Mateo 13:44",
+      "translation": "RVR1960",
+      "text": "Además, el reino de los cielos es semejante a un tesoro escondido en un campo, el cual un hombre halla, y lo esconde de nuevo; y gozoso por ello va y vende todo lo que tiene, y compra aquel campo.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 440,
+      "reference": "Mateo 13:45",
+      "translation": "RVR1960",
+      "text": "También el reino de los cielos es semejante a un mercader que busca buenas perlas,",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 441,
+      "reference": "Mateo 13:46",
+      "translation": "RVR1960",
+      "text": "que habiendo hallado una perla preciosa, fue y vendió todo lo que tenía, y la compró.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 442,
+      "reference": "Mateo 13:47",
+      "translation": "RVR1960",
+      "text": "Asimismo el reino de los cielos es semejante a una red, que echada en el mar, recoge de toda clase de peces;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 443,
+      "reference": "Mateo 13:48",
+      "translation": "RVR1960",
+      "text": "y una vez llena, la sacan a la orilla; y sentados, recogen lo bueno en cestas, y lo malo echan fuera.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 444,
+      "reference": "Mateo 13:49",
+      "translation": "RVR1960",
+      "text": "Así será al fin del siglo: saldrán los ángeles, y apartarán a los malos de entre los justos,",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 445,
+      "reference": "Mateo 13:50",
+      "translation": "RVR1960",
+      "text": "y los echarán en el horno de fuego; allí será el lloro y el crujir de dientes.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 446,
+      "reference": "Mateo 13:51",
+      "translation": "RVR1960",
+      "text": "Jesús les dijo: ¿Habéis entendido todas estas cosas? Ellos respondieron: Sí, Señor.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 447,
+      "reference": "Mateo 13:52",
+      "translation": "RVR1960",
+      "text": "Él les dijo: Por eso todo escriba docto en el reino de los cielos es semejante a un padre de familia, que saca de su tesoro cosas nuevas y cosas viejas.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 448,
+      "reference": "Mateo 13:53",
+      "translation": "RVR1960",
+      "text": "Aconteció que cuando terminó Jesús estas parábolas, se fue de allí.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 449,
+      "reference": "Mateo 13:54",
+      "translation": "RVR1960",
+      "text": "Y venido a su tierra, les enseñaba en la sinagoga de ellos, de tal manera que se maravillaban, y decían: ¿De dónde tiene este esta sabiduría y estos milagros?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 450,
+      "reference": "Mateo 13:55",
+      "translation": "RVR1960",
+      "text": "¿No es este el hijo del carpintero? ¿No se llama su madre María, y sus hermanos, Jacobo, José, Simón y Judas?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 451,
+      "reference": "Mateo 13:56",
+      "translation": "RVR1960",
+      "text": "¿No están todas sus hermanas con nosotros? ¿De dónde, pues, tiene este todas estas cosas?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 452,
+      "reference": "Mateo 13:57",
+      "translation": "RVR1960",
+      "text": "Y se escandalizaban de él. Pero Jesús les dijo: No hay profeta sin honra, sino en su propia tierra y en su casa.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 453,
+      "reference": "Mateo 13:58",
+      "translation": "RVR1960",
+      "text": "Y no hizo allí muchos milagros, a causa de la incredulidad de ellos.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 454,
+      "reference": "Mateo 14:1",
+      "translation": "RVR1960",
+      "text": "En aquel tiempo Herodes el tetrarca oyó la fama de Jesús,",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 455,
+      "reference": "Mateo 14:2",
+      "translation": "RVR1960",
+      "text": "y dijo a sus criados: Este es Juan el Bautista; ha resucitado de los muertos, y por eso actúan en él estos poderes.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 456,
+      "reference": "Mateo 14:3",
+      "translation": "RVR1960",
+      "text": "Porque Herodes había prendido a Juan, y le había encadenado y metido en la cárcel, por causa de Herodías, mujer de Felipe su hermano;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 457,
+      "reference": "Mateo 14:4",
+      "translation": "RVR1960",
+      "text": "porque Juan le decía: No te es lícito tenerla.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 458,
+      "reference": "Mateo 14:5",
+      "translation": "RVR1960",
+      "text": "Y Herodes quería matarle, pero temía al pueblo; porque tenían a Juan por profeta.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 459,
+      "reference": "Mateo 14:6",
+      "translation": "RVR1960",
+      "text": "Pero cuando se celebraba el cumpleaños de Herodes, la hija de Herodías danzó en medio, y agradó a Herodes,",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 460,
+      "reference": "Mateo 14:7",
+      "translation": "RVR1960",
+      "text": "por lo cual este le prometió con juramento darle todo lo que pidiese.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 461,
+      "reference": "Mateo 14:8",
+      "translation": "RVR1960",
+      "text": "Ella, instruida primero por su madre, dijo: Dame aquí en un plato la cabeza de Juan el Bautista.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 462,
+      "reference": "Mateo 14:9",
+      "translation": "RVR1960",
+      "text": "Entonces el rey se entristeció; pero a causa del juramento, y de los que estaban con él a la mesa, mandó que se la diesen,",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 463,
+      "reference": "Mateo 14:10",
+      "translation": "RVR1960",
+      "text": "y ordenó decapitar a Juan en la cárcel.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 464,
+      "reference": "Mateo 14:11",
+      "translation": "RVR1960",
+      "text": "Y fue traída su cabeza en un plato, y dada a la muchacha; y ella la presentó a su madre.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 465,
+      "reference": "Mateo 14:12",
+      "translation": "RVR1960",
+      "text": "Entonces llegaron sus discípulos, y tomaron el cuerpo y lo enterraron; y fueron y dieron las nuevas a Jesús.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 466,
+      "reference": "Mateo 14:13",
+      "translation": "RVR1960",
+      "text": "Oyéndolo Jesús, se apartó de allí en una barca a un lugar desierto y apartado; y cuando la gente lo oyó, le siguió a pie desde las ciudades.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 467,
+      "reference": "Mateo 14:14",
+      "translation": "RVR1960",
+      "text": "Y saliendo Jesús, vio una gran multitud, y tuvo compasión de ellos, y sanó a los que de ellos estaban enfermos.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 468,
+      "reference": "Mateo 14:15",
+      "translation": "RVR1960",
+      "text": "Cuando anochecía, se acercaron a él sus discípulos, diciendo: El lugar es desierto, y la hora ya pasada; despide a la multitud, para que vayan por las aldeas y compren de comer.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 469,
+      "reference": "Mateo 14:16",
+      "translation": "RVR1960",
+      "text": "Jesús les dijo: No tienen necesidad de irse; dadles vosotros de comer.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 470,
+      "reference": "Mateo 14:17",
+      "translation": "RVR1960",
+      "text": "Y ellos dijeron: No tenemos aquí sino cinco panes y dos peces.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 471,
+      "reference": "Mateo 14:18",
+      "translation": "RVR1960",
+      "text": "Él les dijo: Traédmelos acá.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 472,
+      "reference": "Mateo 14:19",
+      "translation": "RVR1960",
+      "text": "Entonces mandó a la gente recostarse sobre la hierba; y tomando los cinco panes y los dos peces, y levantando los ojos al cielo, bendijo, y partió y dio los panes a los discípulos, y los discípulos a la multitud.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 473,
+      "reference": "Mateo 14:20",
+      "translation": "RVR1960",
+      "text": "Y comieron todos, y se saciaron; y recogieron lo que sobró de los pedazos, doce cestas llenas.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 474,
+      "reference": "Mateo 14:21",
+      "translation": "RVR1960",
+      "text": "Y los que comieron fueron como cinco mil hombres, sin contar las mujeres y los niños.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 475,
+      "reference": "Mateo 14:22",
+      "translation": "RVR1960",
+      "text": "En seguida Jesús hizo a sus discípulos entrar en la barca e ir delante de él a la otra ribera, entre tanto que él despedía a la multitud.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 476,
+      "reference": "Mateo 14:23",
+      "translation": "RVR1960",
+      "text": "Despedida la multitud, subió al monte a orar aparte; y cuando llegó la noche, estaba allí solo.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 477,
+      "reference": "Mateo 14:24",
+      "translation": "RVR1960",
+      "text": "Y ya la barca estaba en medio del mar, azotada por las olas; porque el viento era contrario.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 478,
+      "reference": "Mateo 14:25",
+      "translation": "RVR1960",
+      "text": "Mas a la cuarta vigilia de la noche, Jesús vino a ellos andando sobre el mar.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 479,
+      "reference": "Mateo 14:26",
+      "translation": "RVR1960",
+      "text": "Y los discípulos, viéndole andar sobre el mar, se turbaron, diciendo: ¡Un fantasma! Y dieron voces de miedo.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 480,
+      "reference": "Mateo 14:27",
+      "translation": "RVR1960",
+      "text": "Pero en seguida Jesús les habló, diciendo: ¡Tened ánimo; yo soy, no temáis!",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 481,
+      "reference": "Mateo 14:28",
+      "translation": "RVR1960",
+      "text": "Entonces le respondió Pedro, y dijo: Señor, si eres tú, manda que yo vaya a ti sobre las aguas.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 482,
+      "reference": "Mateo 14:29",
+      "translation": "RVR1960",
+      "text": "Y él dijo: Ven. Y descendiendo Pedro de la barca, andaba sobre las aguas para ir a Jesús.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 483,
+      "reference": "Mateo 14:30",
+      "translation": "RVR1960",
+      "text": "Pero al ver el fuerte viento, tuvo miedo; y comenzando a hundirse, dio voces, diciendo: ¡Señor, sálvame!",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 484,
+      "reference": "Mateo 14:31",
+      "translation": "RVR1960",
+      "text": "Al momento Jesús, extendiendo la mano, asió de él, y le dijo: ¡Hombre de poca fe! ¿Por qué dudaste?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 485,
+      "reference": "Mateo 14:32",
+      "translation": "RVR1960",
+      "text": "Y cuando ellos subieron en la barca, se calmó el viento.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 486,
+      "reference": "Mateo 14:33",
+      "translation": "RVR1960",
+      "text": "Entonces los que estaban en la barca vinieron y le adoraron, diciendo: Verdaderamente eres Hijo de Dios.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 487,
+      "reference": "Mateo 14:34",
+      "translation": "RVR1960",
+      "text": "Y terminada la travesía, vinieron a tierra de Genesaret.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 488,
+      "reference": "Mateo 14:35",
+      "translation": "RVR1960",
+      "text": "Cuando le conocieron los hombres de aquel lugar, enviaron noticia por toda aquella tierra alrededor, y trajeron a él todos los enfermos;",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 489,
+      "reference": "Mateo 14:36",
+      "translation": "RVR1960",
+      "text": "y le rogaban que les dejase tocar solamente el borde de su manto; y todos los que lo tocaron, quedaron sanos.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 490,
+      "reference": "Mateo 15:1",
+      "translation": "RVR1960",
+      "text": "Entonces se acercaron a Jesús ciertos escribas y fariseos de Jerusalén, diciendo:",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 491,
+      "reference": "Mateo 15:2",
+      "translation": "RVR1960",
+      "text": "¿Por qué tus discípulos quebrantan la tradición de los ancianos? Porque no se lavan las manos cuando comen pan.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 492,
+      "reference": "Mateo 15:3",
+      "translation": "RVR1960",
+      "text": "Respondiendo él, les dijo: ¿Por qué también vosotros quebrantáis el mandamiento de Dios por vuestra tradición?",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 493,
+      "reference": "Mateo 15:4",
+      "translation": "RVR1960",
+      "text": "Porque Dios mandó diciendo: Honra a tu padre y a tu madre; y: El que maldiga al padre o a la madre, muera irremisiblemente.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 494,
+      "reference": "Mateo 15:5",
+      "translation": "RVR1960",
+      "text": "Pero vosotros decís: Cualquiera que diga a su padre o a su madre: Es mi ofrenda a Dios todo aquello con que pudiera ayudarte,",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 495,
+      "reference": "Mateo 15:6",
+      "translation": "RVR1960",
+      "text": "ya no ha de honrar a su padre o a su madre. Así habéis invalidado el mandamiento de Dios por vuestra tradición.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 496,
+      "reference": "Mateo 15:7",
+      "translation": "RVR1960",
+      "text": "Hipócritas, bien profetizó de vosotros Isaías, cuando dijo:",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 497,
+      "reference": "Mateo 15:8",
+      "translation": "RVR1960",
+      "text": "Este pueblo de labios me honra; Mas su corazón está lejos de mí.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 498,
+      "reference": "Mateo 15:9",
+      "translation": "RVR1960",
+      "text": "Pues en vano me honran, Enseñando como doctrinas, mandamientos de hombres.",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 499,
+      "reference": "Mateo 15:10",
+      "translation": "RVR1960",
+      "text": "Y llamando a sí a la multitud, les dijo: Oíd, y entended:",
+      "category": "Nuevo Testamento",
+      "difficulty": 1
+    },
+    {
+      "id": 500,
+      "reference": "Mateo 15:11",
+      "translation": "RVR1960",
+      "text": "No lo que entra en la boca contamina al hombre; mas lo que sale de la boca, esto contamina al hombre.",
+      "category": "Nuevo Testamento",
       "difficulty": 1
     }
   ]
