@@ -20,11 +20,15 @@ public static class MaimMenuSceneBuilder
         if (existingCanvas != null)
         {
             if (GameObject.Find("NewTestamentButton") == null)
-                CreateButton("NewTestamentButton", "NEW TESTAMENT", existingCanvas.transform, new Vector2(-180, -240));
+                CreateButton("NewTestamentButton", "NUEVO TESTAMENTO", existingCanvas.transform, new Vector2(-180, -240));
             if (GameObject.Find("OldTestamentButton") == null)
-                CreateButton("OldTestamentButton", "OLD TESTAMENT", existingCanvas.transform, new Vector2(180, -240));
+                CreateButton("OldTestamentButton", "ANTIGUO TESTAMENTO", existingCanvas.transform, new Vector2(180, -240));
             if (GameObject.Find("MainExitButton") == null)
-                CreateButton("MainExitButton", "EXIT APP", existingCanvas.transform, new Vector2(0, -400));
+                CreateButton("MainExitButton", "SALIR", existingCanvas.transform, new Vector2(0, -400));
+            if (GameObject.Find("RandomVersesButton") == null)
+                CreateButton("RandomVersesButton", "VERSÍCULOS ALEATORIOS", existingCanvas.transform, new Vector2(-180, -520));
+            if (GameObject.Find("StandardVersesButton") == null)
+                CreateButton("StandardVersesButton", "VERSÍCULOS SECUENCIALES", existingCanvas.transform, new Vector2(180, -520));
             EditorSceneManager.MarkSceneDirty(SceneManager.GetActiveScene());
             EditorSceneManager.SaveScene(SceneManager.GetActiveScene());
             return;
@@ -40,14 +44,16 @@ public static class MaimMenuSceneBuilder
         var background = CreatePanel("Background", canvasObject.transform, new Color(.055f, .09f, .16f), Vector2.zero, Vector2.zero);
         Stretch(background);
         CreateText("Title", "Scripture\nMemory", 64, new Color(.93f, .70f, .28f), canvasObject.transform, new Vector2(0, 720), new Vector2(900, 180));
-        CreateText("Subtitle", "Choose a practice mode", 26, new Color(.97f, .94f, .86f), canvasObject.transform, new Vector2(0, 570), new Vector2(900, 60));
-        CreateButton("FlashcardsButton", "FLASHCARDS", canvasObject.transform, new Vector2(0, 260));
-        CreateButton("FillInBlanksButton", "FILL IN THE BLANK", canvasObject.transform, new Vector2(0, 100));
-        CreateButton("MatchingCardsButton", "MATCHING CARDS", canvasObject.transform, new Vector2(0, -60));
-        CreateButton("NewTestamentButton", "NEW TESTAMENT", canvasObject.transform, new Vector2(-180, -240));
-        CreateButton("OldTestamentButton", "OLD TESTAMENT", canvasObject.transform, new Vector2(180, -240));
-        CreateButton("MainExitButton", "EXIT APP", canvasObject.transform, new Vector2(0, -400));
-        CreateText("Footer", "Memorize Scripture • Grow in faith", 20, new Color(.75f, .78f, .84f), canvasObject.transform, new Vector2(0, -690), new Vector2(800, 50));
+        CreateText("Subtitle", "Elige un modo de práctica", 26, new Color(.97f, .94f, .86f), canvasObject.transform, new Vector2(0, 570), new Vector2(900, 60));
+        CreateButton("FlashcardsButton", "TARJETAS", canvasObject.transform, new Vector2(0, 260));
+        CreateButton("FillInBlanksButton", "COMPLETA EL VERSÍCULO", canvasObject.transform, new Vector2(0, 100));
+        CreateButton("MatchingCardsButton", "EMPAREJA LAS TARJETAS", canvasObject.transform, new Vector2(0, -60));
+        CreateButton("NewTestamentButton", "NUEVO TESTAMENTO", canvasObject.transform, new Vector2(-180, -240));
+        CreateButton("OldTestamentButton", "ANTIGUO TESTAMENTO", canvasObject.transform, new Vector2(180, -240));
+        CreateButton("MainExitButton", "SALIR", canvasObject.transform, new Vector2(0, -400));
+        CreateButton("RandomVersesButton", "VERSÍCULOS ALEATORIOS", canvasObject.transform, new Vector2(-180, -520));
+        CreateButton("StandardVersesButton", "VERSÍCULOS SECUENCIALES", canvasObject.transform, new Vector2(180, -520));
+        CreateText("Footer", "Memoriza las Escrituras • Crece en la fe", 20, new Color(.75f, .78f, .84f), canvasObject.transform, new Vector2(0, -690), new Vector2(800, 50));
         EditorSceneManager.MarkSceneDirty(SceneManager.GetActiveScene());
         EditorSceneManager.SaveScene(SceneManager.GetActiveScene());
     }
