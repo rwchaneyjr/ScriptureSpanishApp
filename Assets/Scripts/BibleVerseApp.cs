@@ -8,7 +8,7 @@ public class BibleVerseApp : MonoBehaviour
     [Serializable] public class Verse { public string reference; public string text; public string category; }
     static readonly Verse[] builtInVerses = {
         new Verse { reference="Juan 3:16", text="For God so loved the mundo, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.", category="Faith" },
-        new Verse { reference="Philippians 4:13", text="I can do all things through Christ which fuerzaeneth me.", category="Strength" },
+        new Verse { reference="Filipenses 4:13", text="Todo lo puedo en Cristo que me fortalece.", category="Fuerza" },
         new Verse { reference="Psalm 23:1", text="The Lord is my shepherd; I shall not want.", category="Peace" },
         new Verse { reference="Proverbs 3:5", text="Trust in the Lord with all thine heart; and lean not unto thine own understanding.", category="Wisdom" }
     };
@@ -34,7 +34,7 @@ public class BibleVerseApp : MonoBehaviour
         };
         foreach (var text in FindObjectsOfType<Text>()) if (translations.TryGetValue(text.text, out var spanish)) text.text = spanish;
     }
-    void BindSavedMenu(){if(FindObjectOfType<UnityEngine.EventSystems.EventSystem>()==null){var e=new GameObject("EventSystem");e.AddComponent<UnityEngine.EventSystems.EventSystem>();e.AddComponent<UnityEngine.EventSystems.StandaloneInputModule>();}CreateMainExitButton();BindMenuButton("TarjetasButton","FlashCards");BindMenuButton("FillInBlanksButton","FillInBlanks");BindMenuButton("MatchingCardsButton","MatchingCards");BindTestamentButton("NewTestamentButton",false);BindTestamentButton("OldTestamentButton",true);BindModeButton("RandomVersesButton",true);BindModeButton("StandardVersesButton",false);BindExitButton("MainExitButton");}
+    void BindSavedMenu(){if(FindObjectOfType<UnityEngine.EventSystems.EventSystem>()==null){var e=new GameObject("EventSystem");e.AddComponent<UnityEngine.EventSystems.EventSystem>();e.AddComponent<UnityEngine.EventSystems.StandaloneInputModule>();}CreateMainExitButton();BindMenuButton("FlashcardsButton","FlashCards");BindMenuButton("FillInBlanksButton","FillInBlanks");BindMenuButton("MatchingCardsButton","MatchingCards");BindTestamentButton("NewTestamentButton",false);BindTestamentButton("OldTestamentButton",true);BindModeButton("RandomVersesButton",true);BindModeButton("StandardVersesButton",false);BindExitButton("MainExitButton");}
     void CreateMainExitButton(){if(GameObject.Find("MainExitButton")!=null)return;var source=GameObject.Find("MatchingCardsButton");if(source==null)return;var go=Instantiate(source,source.transform.parent);go.name="MainExitButton";go.GetComponent<RectTransform>().anchoredPosition=new Vector2(0,-400);var t=go.GetComponentInChildren<Text>();if(t!=null)t.text="SALIR";}
     void BindMenuButton(string name,string scene){var b=GameObject.Find(name)?.GetComponent<Button>();if(b!=null){b.onClick.RemoveAllListeners();b.onClick.AddListener(()=>SceneManager.LoadScene(scene));}}
     void BindTestamentButton(string name,bool oldTestament){var b=GameObject.Find(name)?.GetComponent<Button>();if(b!=null){b.onClick.RemoveAllListeners();b.onClick.AddListener(()=>VerseDatabase.UseOldTestament=oldTestament);}}
@@ -62,4 +62,5 @@ public class BibleVerseApp : MonoBehaviour
 #endif
     }
 }
+
 

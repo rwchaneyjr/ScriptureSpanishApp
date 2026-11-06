@@ -192,7 +192,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Verse
+  m_Text: Versículo
 --- !u!222 &74224997
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -271,7 +271,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Verse
+  m_Text: Versículo
 --- !u!222 &76425369
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -350,7 +350,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Reference
+  m_Text: Referencia
 --- !u!222 &123893646
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -429,7 +429,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Reference
+  m_Text: Referencia
 --- !u!222 &148014009
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1269,7 +1269,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Reference
+  m_Text: Referencia
 --- !u!222 &756454023
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1790,7 +1790,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Reference
+  m_Text: Referencia
 --- !u!222 &1143463863
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1961,7 +1961,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Verse
+  m_Text: Versículo
 --- !u!222 &1341990122
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2440,7 +2440,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Verse
+  m_Text: Versículo
 --- !u!222 &1781765965
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2692,4 +2692,5 @@ SceneRoots:
   - {fileID: 1244026745}
   - {fileID: 700000001}
   - {fileID: 1942710725}
+
 
