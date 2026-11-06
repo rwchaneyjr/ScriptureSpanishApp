@@ -50,3 +50,4 @@ public static class VerseDatabase
         return cachedVerses;
     }
 }
+

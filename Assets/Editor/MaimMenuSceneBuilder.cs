@@ -43,9 +43,9 @@ public static class MaimMenuSceneBuilder
 
         var background = CreatePanel("Background", canvasObject.transform, new Color(.055f, .09f, .16f), Vector2.zero, Vector2.zero);
         Stretch(background);
-        CreateText("Title", "Scripture\nMemory", 64, new Color(.93f, .70f, .28f), canvasObject.transform, new Vector2(0, 720), new Vector2(900, 180));
+        CreateText("Title", "Memoria\nBíblica", 64, new Color(.93f, .70f, .28f), canvasObject.transform, new Vector2(0, 720), new Vector2(900, 180));
         CreateText("Subtitle", "Elige un modo de práctica", 26, new Color(.97f, .94f, .86f), canvasObject.transform, new Vector2(0, 570), new Vector2(900, 60));
-        CreateButton("FlashcardsButton", "TARJETAS", canvasObject.transform, new Vector2(0, 260));
+        CreateButton("TarjetasButton", "TARJETAS", canvasObject.transform, new Vector2(0, 260));
         CreateButton("FillInBlanksButton", "COMPLETA EL VERSÍCULO", canvasObject.transform, new Vector2(0, 100));
         CreateButton("MatchingCardsButton", "EMPAREJA LAS TARJETAS", canvasObject.transform, new Vector2(0, -60));
         CreateButton("NewTestamentButton", "NUEVO TESTAMENTO", canvasObject.transform, new Vector2(-180, -240));
@@ -71,3 +71,4 @@ public static class MaimMenuSceneBuilder
     { var rect=CreatePanel(name,parent,new Color(.13f,.20f,.30f),position,new Vector2(700,110));rect.gameObject.AddComponent<Button>();CreateText("Label",label,24,new Color(.97f,.94f,.86f),rect,Vector2.zero,new Vector2(680,100)); }
 }
 #endif
+
